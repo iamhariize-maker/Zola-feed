@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-03T04:36:11Z",
+ "updated": "2026-10-03T06:19:51Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -52,15 +52,6 @@
  "events": [],
  "inbox": [
   {
-   "id": "42ed20a6109e9fce",
-   "title": "Union Home Minister and Minister of Cooperation Shri Amit Shah to address Gopalak Sammelan in Bhopal and inaugurate State-Level Exhibition on Nyaya Sanhita",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318516",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": []
-  },
-  {
    "id": "74fa1c12c7aa43c2",
    "title": "DRI cracks down on illegal wildlife trafficking; elephant ivory, leopard skin, live pangolins and tiger parts seized; 11 persons arrested",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318504",
@@ -78,7 +69,9 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
+   "subjects": [
+    "Economy"
+   ]
   },
   {
    "id": "be1ed43b77cffe69",
@@ -87,7 +80,10 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
+   "subjects": [
+    "Economy",
+    "Environment"
+   ]
   },
   {
    "id": "75b2ea1ac316b286",
@@ -96,16 +92,9 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
-  },
-  {
-   "id": "610e0f8bb96a69f7",
-   "title": "Shri Sudhansh Pant, Secretary, Ministry of Social Justice & Empowerment Leads Nasha Mukt Bharat Abhiyaan Awareness Programme at Solan, Himachal Pradesh",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318483",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": []
+   "subjects": [
+    "Economy"
+   ]
   },
   {
    "id": "836c7a6ce64431af",
@@ -114,7 +103,9 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
+   "subjects": [
+    "History"
+   ]
   },
   {
    "id": "bb828a9ae5ff8caf",
@@ -123,7 +114,9 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
+   "subjects": [
+    "History"
+   ]
   },
   {
    "id": "716184454ed0fed0",
@@ -132,7 +125,9 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
+   "subjects": [
+    "History"
+   ]
   },
   {
    "id": "9f35f7f68fea0384",
@@ -141,7 +136,10 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
+   "subjects": [
+    "Polity",
+    "History"
+   ]
   },
   {
    "id": "18f9ead05faacbac",
@@ -150,7 +148,9 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
+   "subjects": [
+    "S&T"
+   ]
   },
   {
    "id": "2101d84d240003b5",
@@ -159,7 +159,10 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
+   "subjects": [
+    "Environment",
+    "S&T"
+   ]
   },
   {
    "id": "beca0977b4e634cb",
@@ -168,7 +171,9 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
+   "subjects": [
+    "S&T"
+   ]
   },
   {
    "id": "797ffb2cd64f5f0f",
@@ -178,7 +183,7 @@
    "source": "PIB",
    "machines": [],
    "subjects": [
-    "Polity"
+    "IR"
    ]
   },
   {
@@ -188,7 +193,9 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
+   "subjects": [
+    "Economy"
+   ]
   },
   {
    "id": "9b3ad689b6c42c69",
@@ -197,16 +204,10 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
-  },
-  {
-   "id": "8f5de20aa8e06209",
-   "title": "Union Minister Dr. Virendra Kumar And Shri B. L. Verma Distribute 662 Aids, Assistive Devices Costing Over ₹10 Lakh Distributed To 114 Senior Citizens In Delhi-NCR Under Rashtriya Vayoshri Yojana",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318364",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": []
+   "subjects": [
+    "Economy",
+    "History"
+   ]
   },
   {
    "id": "bebb6e2eba0da177",
@@ -226,7 +227,9 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
+   "subjects": [
+    "Environment"
+   ]
   },
   {
    "id": "d3908176dfd5df1f",
@@ -235,7 +238,9 @@
    "published": "2026-10-03T04:36:11Z",
    "source": "PIB",
    "machines": [],
-   "subjects": []
+   "subjects": [
+    "Economy"
+   ]
   }
  ],
  "notices": [],
