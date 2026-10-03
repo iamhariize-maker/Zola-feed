@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-03T06:19:51Z",
+ "updated": "2026-10-03T11:42:25Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,62 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "3cd4ec7fa398178e",
+   "title": "India’s First 5.56 km Free‑Space Quantum Key Distribution Link Demonstrated",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318656",
+   "published": "2026-10-03T11:42:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "f519569e0889084e",
+   "title": "In culmination of 10 years of dedicated efforts, Union Environment Minister and CM (Rajasthan) initiate the process for release of captive-bred Great Indian Bustards into the Wild at Desert National Park, Jaislamer",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318629",
+   "published": "2026-10-03T11:42:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "fbc9590e4e388293",
+   "title": "Union Minister of Jal Shakti Leads Special Gram Sabha Observance on Swachh Bharat Diwas 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318610",
+   "published": "2026-10-03T11:42:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "Environment"
+   ]
+  },
+  {
+   "id": "ecbd388357ac9ce2",
+   "title": "Shri Harivansh Leads Indian Parliamentary Delegation to 153rd IPU Assembly in Tanzania",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318590",
+   "published": "2026-10-03T11:42:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "90cfd688da05e395",
+   "title": "Vice-President Shri C. P. Radhakrishnan Delivers Inaugural Address at 5th Kautilya Economic Conclave in New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318564",
+   "published": "2026-10-03T11:42:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
   {
    "id": "74fa1c12c7aa43c2",
    "title": "DRI cracks down on illegal wildlife trafficking; elephant ivory, leopard skin, live pangolins and tiger parts seized; 11 persons arrested",
