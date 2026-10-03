@@ -1,0 +1,40 @@
+name: Update Zola feed
+on:
+  schedule:
+    - cron: "15 */6 * * *"     # every six hours
+  workflow_dispatch: {}         # "Run workflow" button
+  push:
+    paths: ["zola-feed.json", "scripts/**"]   # validate hand edits
+  pull_request:
+    paths: ["zola-feed.json", "scripts/**"]
+permissions:
+  contents: write
+concurrency:
+  group: zola-feed              # never let two runs race to push
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate the feed
+        run: python scripts/update_feed.py --check
+      - name: Refresh the news inbox and commit if it changed
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "zola-feed-bot"
+          git config user.email "zola-feed-bot@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            python scripts/update_feed.py
+            git add zola-feed.json
+            git diff --cached --quiet && { echo "Nothing new."; exit 0; }
+            git commit -q -m "Update inbox $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push && exit 0
+            # A hand edit landed meanwhile: start again from it, so it is never overwritten.
+            git fetch -q origin "$GITHUB_REF_NAME" && git reset -q --hard "origin/$GITHUB_REF_NAME"
+          done
+          exit 1

@@ -1,0 +1,60 @@
+{
+ "schema": "zola-feed/1",
+ "updated": "2026-10-03T04:00:00Z",
+ "exams": [
+  {
+   "id": "upsc-cse-pre-2027",
+   "label": "UPSC Civil Services Prelims 2027",
+   "date": "2027-05-23",
+   "status": "scheduled",
+   "primary": true,
+   "checked": "2026-10-03",
+   "source": {
+    "title": "UPSC Annual Calendar 2027",
+    "url": "https://upsc.gov.in/examinations/exam-calendar"
+   }
+  },
+  {
+   "id": "upsc-cse-notif-2027",
+   "label": "UPSC CSE 2027 notification",
+   "date": "2027-01-13",
+   "status": "scheduled",
+   "checked": "2026-10-03",
+   "source": {
+    "title": "UPSC Annual Calendar 2027",
+    "url": "https://upsc.gov.in/examinations/exam-calendar"
+   }
+  },
+  {
+   "id": "upsc-cse-lastdate-2027",
+   "label": "UPSC CSE 2027: last date to apply",
+   "date": "2027-02-02",
+   "status": "scheduled",
+   "checked": "2026-10-03",
+   "source": {
+    "title": "UPSC Annual Calendar 2027",
+    "url": "https://upsc.gov.in/examinations/exam-calendar"
+   }
+  },
+  {
+   "id": "upsc-cse-mains-2027",
+   "label": "UPSC Civil Services Mains 2027 begins",
+   "date": "2027-08-20",
+   "status": "scheduled",
+   "checked": "2026-10-03",
+   "source": {
+    "title": "UPSC Annual Calendar 2027",
+    "url": "https://upsc.gov.in/examinations/exam-calendar"
+   }
+  }
+ ],
+ "watch": [],
+ "events": [],
+ "inbox": [],
+ "notices": [],
+ "edition": {
+  "latest": "2.4",
+  "url": "https://iamhariize-maker.github.io/zola-corpus/",
+  "note": ""
+ }
+}
