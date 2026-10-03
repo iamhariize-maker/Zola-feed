@@ -44,12 +44,33 @@ MACHINES = [
     ("M23", r"co-?operative"),
 ]
 SUBJECTS = [
-    ("Polity", r"constitution|parliament|lok sabha|rajya sabha|governor|president|supreme court|high court|election"),
-    ("Economy", r"\brbi\b|inflation|gdp|fiscal|tax|gst|bank|export|import|msp"),
-    ("Environment", r"climate|forest|wildlife|biodiversity|pollution|environment|tiger|wetland"),
-    ("S&T", r"isro|satellite|space|vaccine|quantum|semiconductor|\bai\b|artificial intelligence"),
-    ("IR", r"bilateral|summit|\bmou\b|foreign|united nations|\bg20\b|brics|quad"),
+    # Indian polity and governance. A bare "President" is not enough (it matched foreign presidents).
+    ("Polity", r"constitution|parliament|lok sabha|rajya sabha|\bgovernor|president of india|president droupadi|rashtrapati|vice[- ]president|"
+               r"supreme court|high court|election|\bbill\b|\bact\b|amendment|ordinance|panchayat|federal|union cabinet|cabinet approves|"
+               r"lokpal|\bcag\b|tribunal|right to information|governance|gram sabha"),
+    ("Economy", r"\brbi\b|reserve bank|inflation|\bgdp\b|fiscal|\btax|\bgst\b|\bbank|export|import|\bmsp\b|\btrade|\bports?\b|shipping|maritime|"
+                r"shipbuilding|investment|\bfdi\b|\bmsme|startup|budget|disinvestment|\bpli\b|infrastructure|railway|highway|logistics|"
+                r"\boil\b|petroleum|\bcoal\b|insurance|\bsebi\b|rupee|employment|labour|manufactur|industr|farmer|\bkisan|agricultur|co-?operative|gold"),
+    ("Environment", r"climate|forest|wildlife|biodiversity|pollution|environment|\btiger|elephant|wetland|plastic|emission|renewable|\bsolar|"
+                    r"wind energy|green hydrogen|ivory|leopard|pangolin|species|ozone|\bcop ?\d|unfccc|mangrove|coral|\briver|ganga|"
+                    r"\bwaste|carbon|net[- ]zero|monsoon|cyclone|flood|drought|earthquake|disaster|air quality|\bcaqm\b|\baqi\b|swachh"),
+    ("S&T", r"\bisro\b|satellite|\bspace\b|vaccine|quantum|semiconductor|\bai\b|artificial intelligence|\bdrdo\b|missile|nuclear|"
+            r"research|technolog|digital|cyber|telecom|bhashini|\b[56]g\b|biotech|genom|science|innovation|patent|supercomput|drone|gaganyaan|chandrayaan"),
+    ("IR", r"bilateral|summit|\bmou\b|foreign|united nations|\bg20\b|brics|\bquad\b|\bsco\b|asean|foreign delegation|ambassador|treaty|joint statement|"
+           r"external affairs|russia|china|united states|\busa\b|japan|france|\buk\b|britain|bangladesh|nepal|sri lanka|bhutan|maldives|"
+           r"myanmar|afghanistan|india[- ][a-z]+ (?:ties|relations|partnership)"),
+    ("History", r"heritage|cultur|museum|archaeolog|monument|unesco|mahatma gandhi|gandhi smriti|freedom fighter|tribal|festival|handicraft|textile|"
+                r"jayanti|ancient|temple|literature|classical language"),
 ]
+
+def tags(title):
+    """Keyword hints for a headline. Hints, not verified links; the app labels them that way."""
+    low = title.lower()
+    return {"machines": [m for m, rx in MACHINES if re.search(rx, low)][:5],
+            "subjects": [s for s, rx in SUBJECTS if re.search(rx, low)][:3]}
+
+def relevant(item):
+    return bool(item["machines"] or item["subjects"])
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": "zola-feed/1 (+study tool)"})
@@ -79,13 +100,11 @@ def items(name, raw):
         if not title or not link.startswith("https://"):
             if link.startswith("http://"): link = "https://" + link[7:]
             else: continue
-        low = title.lower()
         out.append({
             "id": hashlib.sha1(link.encode()).hexdigest()[:16],
             "title": title[:300], "url": link[:600], "published": when(p.text if p is not None else ""),
             "source": name,
-            "machines": [m for m, rx in MACHINES if re.search(rx, low)][:5],
-            "subjects": [s for s, rx in SUBJECTS if re.search(rx, low)][:3],
+            **tags(title),
         })
     return out
 
@@ -126,7 +145,8 @@ def main():
         # PIB's feed carries no dates: keep the time this bot first saw the release (within six hours).
         if not i["published"]: i["published"] = merged.get(i["id"], {}).get("published") or now
         merged[i["id"]] = i
-    inbox = sorted((i for i in merged.values() if not i["published"] or i["published"] >= cutoff),
+    for i in merged.values(): i.update(tags(i["title"]))          # better keyword lists apply to old items too
+    inbox = sorted((i for i in merged.values() if relevant(i) and (not i["published"] or i["published"] >= cutoff)),
                    key=lambda i: i["published"], reverse=True)[:KEEP_MAX]
     if inbox == feed.get("inbox", []):
         print("Inbox unchanged."); return 0
