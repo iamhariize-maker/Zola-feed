@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-03T11:42:25Z",
+ "updated": "2026-10-03T16:19:48Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,84 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "56c0736ab6603df3",
+   "title": "Prime Minister congratulates Indian Men’s Hockey Team on retaining Gold at Asian Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318743",
+   "published": "2026-10-03T16:19:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "72b4bf912973706c",
+   "title": "Prime Minister congratulates Aman Sehrawat on winning historic Gold in Men’s 57 kg Freestyle Wrestling at Asian Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318741",
+   "published": "2026-10-03T16:19:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "1b8f1f7a7861ee08",
+   "title": "Ministry of Education Approves Five Centres of Excellence for Studies in Classical Languages",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318679",
+   "published": "2026-10-03T16:19:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "89ff6b3c5e71e449",
+   "title": "Prime Minister congratulates Indian Men’s Cricket Team on retaining Gold at Asian Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318678",
+   "published": "2026-10-03T16:19:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "5343faa9889d1d54",
+   "title": "Prime Minister congratulates Pranavi Sharath Urs on winning historic Gold in Women’s Individual Golf at Asian Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318677",
+   "published": "2026-10-03T16:19:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "bd9534e70ad32f26",
+   "title": "Prime Minister congratulates Kumkum Anil Mohod on winning historic Gold in Recurve Individual event at Asian Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318676",
+   "published": "2026-10-03T16:19:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "6b8a9c49f31e14cd",
+   "title": "As part of Special Gram Sabha on Gandhi Jayanti, Jal Arpan Observed in more than 1850 Gram Panchayats Across Rural India to Strengthen Community Ownership of Rural Water Supply Systems Under Jal Jeevan Mission 2.0",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318669",
+   "published": "2026-10-03T16:19:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "History"
+   ]
+  },
   {
    "id": "3cd4ec7fa398178e",
    "title": "India’s First 5.56 km Free‑Space Quantum Key Distribution Link Demonstrated",
