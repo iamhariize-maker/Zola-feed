@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-04T12:24:54Z",
+ "updated": "2026-10-04T21:29:18Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,28 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "7d58a7fc005b4d99",
+   "title": "Reforms aimed at empowering cotton farmers, enhancing transparency and strengthening India’s cotton value chain to take centre stage",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318919",
+   "published": "2026-10-04T21:29:18Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "0b8c181fb47a56dc",
+   "title": "India’s Rising Supercomputing Ecosystem",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318908",
+   "published": "2026-10-04T21:29:18Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "4d0e75669a1ce757",
    "title": "Vice-President Shri C. P. Radhakrishnan Addresses Mahaparva Kshamapana Ceremony in New Delhi",
