@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-03T16:19:48Z",
+ "updated": "2026-10-04T05:57:23Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,28 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "2ce0593e5cb38081",
+   "title": "Swachhata Hi Seva 2026 Concludes at AIIA; Special Campaign 6.0 to Continue Till 31 October",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318820",
+   "published": "2026-10-04T05:57:23Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "05c520db85d42e39",
+   "title": "Prime Minister pays homage to freedom fighter Shyamji Krishna Varma on his birth anniversary",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318811",
+   "published": "2026-10-04T05:57:23Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
   {
    "id": "56c0736ab6603df3",
    "title": "Prime Minister congratulates Indian Men’s Hockey Team on retaining Gold at Asian Games",
