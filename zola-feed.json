@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-04T05:57:23Z",
+ "updated": "2026-10-04T12:24:54Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,61 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "4d0e75669a1ce757",
+   "title": "Vice-President Shri C. P. Radhakrishnan Addresses Mahaparva Kshamapana Ceremony in New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318888",
+   "published": "2026-10-04T12:24:54Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "1eacb9bc16c21b6b",
+   "title": "CAQM conducts Inspection Drive along Ring Road in Delhi to assess Road Dust and effectiveness of Road Cleaning Operations",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318882",
+   "published": "2026-10-04T12:24:54Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "32b85ce95d866150",
+   "title": "Vice-President Shri C. P. Radhakrishnan Addresses 58th Foundation Day of ICSI at Bharat Mandapam",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318881",
+   "published": "2026-10-04T12:24:54Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "ef73e6ec8cc4c135",
+   "title": "MoRTH to Organise “Chintan Shivir 2026” to Shape Future-Ready, Safe and High-Quality Highway Infrastructure",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318843",
+   "published": "2026-10-04T12:24:54Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "cf46d06be95afad4",
+   "title": "Union Environment Minister releases two male Great Indian Bustards into the wild at Desert National Park, Jaisalmer",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318842",
+   "published": "2026-10-04T12:24:54Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "2ce0593e5cb38081",
    "title": "Swachhata Hi Seva 2026 Concludes at AIIA; Special Campaign 6.0 to Continue Till 31 October",
