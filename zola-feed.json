@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-04T21:29:18Z",
+ "updated": "2026-10-05T14:44:58Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,105 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "609d20594e2781c1",
+   "title": "PRESIDENT OF INDIA TO VISIT HIMACHAL PRADESH FROM OCTOBER 6 TO 8",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319361",
+   "published": "2026-10-05T14:44:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "bb637cf632d4495a",
+   "title": "CAQM intensifies field-level monitoring with deployment of Flying Squads to prevent paddy stubble burning incidents in Punjab and Haryana",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319355",
+   "published": "2026-10-05T14:44:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "79e9aced52921c41",
+   "title": "IICA observed 3rd IICA CSR Day on Gandhi Jayanti with a Special Address by the DG & CEO to Participants of the IICA Certified CSR Professional Programme ahead of NCCSR 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319348",
+   "published": "2026-10-05T14:44:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "abcf1223a8850166",
+   "title": "Appointment of Additional Judge of the Delhi High Court",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319338",
+   "published": "2026-10-05T14:44:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "58dc9b29c987d0bc",
+   "title": "Appointment of Chief Justices of High Courts as Judges of the Supreme Court of India",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319337",
+   "published": "2026-10-05T14:44:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "7cb09d0afa34a14a",
+   "title": "“The Indian Telecom Services Yearly Performance Indicators” for the year 2025-26",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319321",
+   "published": "2026-10-05T14:44:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "d8b3bab6afae1f14",
+   "title": "From Unemployment to Self-Reliance",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319229",
+   "published": "2026-10-05T14:44:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "db63933f18fe0045",
+   "title": "Dr. Jitendra Singh Reiterates Commitment to Ease of Life for Pensioners; Calls for Wider Adoption of Digital Pension Services",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319228",
+   "published": "2026-10-05T14:44:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "7e91cb2acc6fd2e0",
+   "title": "Dibrugarh Sends First International Cargo from Bogibeel to Bangladesh Since Independence",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319146",
+   "published": "2026-10-05T14:44:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
   {
    "id": "7d58a7fc005b4d99",
    "title": "Reforms aimed at empowering cotton farmers, enhancing transparency and strengthening India’s cotton value chain to take centre stage",
