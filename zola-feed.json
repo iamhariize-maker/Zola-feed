@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-06T00:05:12Z",
+ "updated": "2026-10-06T18:24:16Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,142 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "8dfab881a4239fbb",
+   "title": "DRI cracks down on cross-border gold smuggling along Indo-Bangladesh border; seizes over 8.3 kg foreign-origin gold; 4 arrested",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319832",
+   "published": "2026-10-06T18:24:16Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "b086d65273c7336e",
+   "title": "STRONG DEMOCRACIES ARE BUILT ON DIALOGUE, DIVERSE VIEWS AND MEANINGFUL PUBLIC PARTICIPATION: LOK SABHA SPEAKER",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319828",
+   "published": "2026-10-06T18:24:16Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "8a1f7b9881764368",
+   "title": "Secretary (Labour & Employment) Leads ‘Shram Samvad’ at Rudrapur, Uttarakhand",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319826",
+   "published": "2026-10-06T18:24:16Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "bd57c8918f35840d",
+   "title": "IndiaAI Mission Organised AIKosh University Engagement Programme at National Institute of Technology, Andhra Pradesh to Strengthen India's AI Talent Ecosystem",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319821",
+   "published": "2026-10-06T18:24:16Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "fba16be419b185da",
+   "title": "Swachhata Hi Seva 2026 : MoPR and DDWS Take Cleanliness and Waste Management Message to the Panchayats",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319801",
+   "published": "2026-10-06T18:24:16Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "Environment"
+   ]
+  },
+  {
+   "id": "67a1d21708fa2622",
+   "title": "From Waste Picking to Self-Reliance:",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319800",
+   "published": "2026-10-06T18:24:16Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "685ec9e9ad7e750c",
+   "title": "Union Minister for Communications and Development of North Eastern Region Shri Jyotiraditya Scindia’s Vision and Sustained Efforts Set the Stage for a New Industrial Era in Gwalior",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319793",
+   "published": "2026-10-06T18:24:16Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "8bcf25c94d1b7031",
+   "title": "STRONG DEMOCRACIES ARE BUILT ON DIALOGUE, DIVERSE VIEWS AND MEANINGFUL PUBLIC PARTICIPATION: LOK SABHA SPEAKER",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319796",
+   "published": "2026-10-06T18:24:16Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "b97f29e209f6bf7f",
+   "title": "Ministry Of Culture Successfully Organizes “Swachhata Hi Seva” Campaign 2026 (17th September - 2nd October 2026)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319791",
+   "published": "2026-10-06T18:24:16Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "History"
+   ]
+  },
+  {
+   "id": "cdad746754a3bff8",
+   "title": "Integrated Transport and Logistics Authority (ITLA)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319778",
+   "published": "2026-10-06T18:24:16Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "3f7bde9844b79ad8",
+   "title": "Ministry of Coal holds Special Drive with focus on E-waste Management as part of Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319761",
+   "published": "2026-10-06T18:24:16Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "Environment"
+   ]
+  },
+  {
+   "id": "ef4a6e7c622c57eb",
+   "title": "Chintan Shivir 2026 Concludes with Focus on Collaborative Knowledge Sharing for Quality Road Infrastructure",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319749",
+   "published": "2026-10-06T18:24:16Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "a8d4360d4ce60fc8",
    "title": "Raksha Mantri Shri Rajnath Singh Underscores India’s Rising Maritime Power, Indigenous Naval Capability and Strategic Strength at Barakhana in Visakhapatnam",
