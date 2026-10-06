@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-05T14:44:58Z",
+ "updated": "2026-10-06T00:05:12Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,51 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "a8d4360d4ce60fc8",
+   "title": "Raksha Mantri Shri Rajnath Singh Underscores India’s Rising Maritime Power, Indigenous Naval Capability and Strategic Strength at Barakhana in Visakhapatnam",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319425",
+   "published": "2026-10-06T00:05:12Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "3b1035d39dd5cfa4",
+   "title": "PRESIDENT OF INDIA HOSTS PRESIDENT OF THE SWISS CONFEDERATION",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319423",
+   "published": "2026-10-06T00:05:12Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "279c5590b2695e8c",
+   "title": "India and Japan Launch Operational Manual for the Joint Crediting Mechanism",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319373",
+   "published": "2026-10-06T00:05:12Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "e01134a7a04a5ef5",
+   "title": "Ministry of Textiles Organises Swachhta and Cleanliness Activities on Gandhi Jayanti under Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319367",
+   "published": "2026-10-06T00:05:12Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "History"
+   ]
+  },
   {
    "id": "609d20594e2781c1",
    "title": "PRESIDENT OF INDIA TO VISIT HIMACHAL PRADESH FROM OCTOBER 6 TO 8",
