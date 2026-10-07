@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-06T18:24:16Z",
+ "updated": "2026-10-07T06:03:36Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,51 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "0a4d95dcc4e4fc64",
+   "title": "Prime Minister shares an article on transformation of Indian agriculture",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319929",
+   "published": "2026-10-07T06:03:36Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
+  {
+   "id": "672ab71b82b4ce94",
+   "title": "Prime Minister visits Shri Vinayak temple",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319925",
+   "published": "2026-10-07T06:03:36Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "7098a8af9787d630",
+   "title": "Commerce and Industry Minister Shri Piyush Goyal Holds Meetings with Leading U.S. Companies in New York to Strengthen India–U.S. Trade and Investment Ties",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319908",
+   "published": "2026-10-07T06:03:36Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "91898c88b50ae932",
+   "title": "COP31 should focus on Closing Gaps, Fulfilling Commitments and Accelerating Implementation of Paris Agreement, stresses India",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319890",
+   "published": "2026-10-07T06:03:36Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "8dfab881a4239fbb",
    "title": "DRI cracks down on cross-border gold smuggling along Indo-Bangladesh border; seizes over 8.3 kg foreign-origin gold; 4 arrested",
