@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-07T06:03:36Z",
+ "updated": "2026-10-07T13:28:25Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,107 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "6bd3692f65c4ce53",
+   "title": "PMGSY Chintan Shivir Charts Future Roadmap for Quality, Maintenance and Technology-Driven Rural Connectivity",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320321",
+   "published": "2026-10-07T13:28:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "691c2d86b3f6e5e1",
+   "title": "Departmental Summit on Women and Child Development to be held in New Delhi on 8-9 October",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320306",
+   "published": "2026-10-07T13:28:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "1b03526529c0429f",
+   "title": "RRM Inaugurates SAREX-2026 as 24th NMSAR Board Meeting Reviews Maritime SAR Preparedness",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320300",
+   "published": "2026-10-07T13:28:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "a7fde390ed2b66f7",
+   "title": "India and Ghana Sign Historic MoU to Advance Agricultural Research, Education, and Technology Transfer",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320285",
+   "published": "2026-10-07T13:28:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T",
+    "IR"
+   ]
+  },
+  {
+   "id": "74370d40a13cb6f0",
+   "title": "ICAR Consults Industry and Academic Experts on Proposed PG and Ph.D. Programmes in Natural Farming",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320281",
+   "published": "2026-10-07T13:28:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "f36598942c7aaebe",
+   "title": "From 4,000-Year-Old Dhokra to Tribal Heritage, Chhattisgarh’s Cultural Story Comes Alive at the 8th PM Mementos",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320249",
+   "published": "2026-10-07T13:28:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "7d356a04d049edf0",
+   "title": "Adopted Joint Statement after the India-UK Financial Markets Dialogue 2026, held in London",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320225",
+   "published": "2026-10-07T13:28:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "92d9b2fb2d27a74a",
+   "title": "LOK SABHA SPEAKER PAYS TRIBUTES TO FORMER SPEAKER, LOK SABHA, SHRI BALI RAM BHAGAT",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320207",
+   "published": "2026-10-07T13:28:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "96b761a942109cb0",
+   "title": "Raksha Mantri approves Revised Standard Operating Procedure for Utilisation of MoD Proof Ranges, Field Firing Ranges & Test Facilities by Indian Defence Industry",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320195",
+   "published": "2026-10-07T13:28:25Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "0a4d95dcc4e4fc64",
    "title": "Prime Minister shares an article on transformation of Indian agriculture",
