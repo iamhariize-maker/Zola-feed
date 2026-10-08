@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-08T06:08:38Z",
+ "updated": "2026-10-08T13:34:14Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,130 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "f1fc38941321ba86",
+   "title": "Prime Minister meets Mrs. Akie Abe, wife of late former Japanese Prime Minister Shinzo Abe",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320921",
+   "published": "2026-10-08T13:34:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "7a237beb2e29dc99",
+   "title": "Prime Minister shares an article on India’s growing capabilities in the space sector",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320914",
+   "published": "2026-10-08T13:34:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "a4c1d79b443d9360",
+   "title": "From Regional Identity to Shared National Heritage",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320905",
+   "published": "2026-10-08T13:34:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "5a77a8083c7dee9c",
+   "title": "NHAI Releases Document on ‘Wildlife Mitigation Measures & Structures’ Highlighting Strengthened Wildlife Conservation Measures Along National Highways",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320896",
+   "published": "2026-10-08T13:34:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "Environment"
+   ]
+  },
+  {
+   "id": "5bf5e4d228191bfe",
+   "title": "Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320883",
+   "published": "2026-10-08T13:34:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
+  {
+   "id": "1344ddff929312e8",
+   "title": "Department of Defence Production continues Special Campaign 6.0 with Focus on Swachhata and Reducing Pendency",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320876",
+   "published": "2026-10-08T13:34:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "89c811310ffd09c7",
+   "title": "Department of Telecommunications hosts High-Level Roundtable with State IT Ministers and Secretaries to Accelerate Digital Connectivity and Infrastructure Rollout",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320855",
+   "published": "2026-10-08T13:34:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
+  {
+   "id": "df3b56d4783b0e1a",
+   "title": "Union Minister of State Pabitra Margherita Inaugurates State-of-the-Art Silkworm Seed Infrastructure at Jorhat, Assam",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320835",
+   "published": "2026-10-08T13:34:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "60419ca48da71d5e",
+   "title": "Opening of Space Sector to Private Players Has Helped Reduce Brain Drain, Created New Opportunities for Young Talent: Dr Jitendra Singh",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320831",
+   "published": "2026-10-08T13:34:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "af66fa66a649facc",
+   "title": "PM to participate in Valedictory Session of Departmental Summit on Women and Child Development on 9th October",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320783",
+   "published": "2026-10-08T13:34:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "1c496f5a3dee57ba",
+   "title": "Indian Coast Guard conducts 12th National Maritime Search & Rescue Exercise (SAREX-2026) off Paradip coast in Odisha",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320759",
+   "published": "2026-10-08T13:34:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "f2b26ac0f48bb80c",
    "title": "India’s WTO fisheries ratification: A pragmatic step, with more to negotiate",
