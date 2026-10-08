@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-07T13:28:25Z",
+ "updated": "2026-10-08T06:08:38Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,72 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "f2b26ac0f48bb80c",
+   "title": "India’s WTO fisheries ratification: A pragmatic step, with more to negotiate",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320529",
+   "published": "2026-10-08T06:08:38Z",
+   "source": "PIB",
+   "machines": [
+    "M05"
+   ],
+   "subjects": []
+  },
+  {
+   "id": "85bc4a06877641a2",
+   "title": "Prime Minister shares an article by Sri Mata Amritanandamayi Ji highlighting PM Modi's vision of a prosperous Bharat while preserving cultural heritage",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320516",
+   "published": "2026-10-08T06:08:38Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "94cdd2ff240d9bd5",
+   "title": "India’s regulatory framework for satellite communication services is fair and non-discriminatory",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320510",
+   "published": "2026-10-08T06:08:38Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "1ed65e40be3ea182",
+   "title": "Prime Minister expresses gratitude to Prime Minister of Japan Sanae Takaichi for her wishes on completing 25 years of service to the Nation as Head of Government",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320435",
+   "published": "2026-10-08T06:08:38Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "6df2ad2fae959486",
+   "title": "Sagarmanthan 2026 Opens as India Charts the Course for a Trusted, Rules-Based Global Maritime Order",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320424",
+   "published": "2026-10-08T06:08:38Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "08db19089d57732a",
+   "title": "Prime Minister expresses gratitude to Prime Minister of Bhutan Tshering Tobgay for his wishes on completing 25 years of service to the Nation as Head of Government",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320420",
+   "published": "2026-10-08T06:08:38Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
   {
    "id": "6bd3692f65c4ce53",
    "title": "PMGSY Chintan Shivir Charts Future Roadmap for Quality, Maintenance and Technology-Driven Rural Connectivity",
