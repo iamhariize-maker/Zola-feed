@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-09T06:12:34Z",
+ "updated": "2026-10-09T13:25:06Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,116 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "dc6d1f97aaf96690",
+   "title": "Union Minister Shri Jyotiraditya M. Scindia Inaugurates AI for Good Lab Workshop at India Mobile Congress 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321480",
+   "published": "2026-10-09T13:25:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "d553538bb00ebf8c",
+   "title": "TRAI Assesses Mobile Network Quality Across Kathgodam to Dehradun Railway under UPW LSA, during the month of August 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321441",
+   "published": "2026-10-09T13:25:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "2689eeef45ff7c67",
+   "title": "The Indian Parliamentary Delegation led by Shri Harivansh, Hon’ble Deputy Chairman, Rajya Sabha, continued its participation in the 153rd IPU Assembly in Arusha, Tanzania, on the fourth day of the Assembly, i.e. 08 October 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321422",
+   "published": "2026-10-09T13:25:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "34e685008f85896a",
+   "title": "PRESS RELEASE ON the 382nd REPORT OF The Department-related Parliamentary Standing Committee on Education, Women, Children, Youth and Sports on \"Reforms and Strengthening of the National Testing Agency (NTA)\"",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321420",
+   "published": "2026-10-09T13:25:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "a154b9f408edfc6e",
+   "title": "India Welcomes ITU Proposal for Joint Trials to Combat Cross-Border Telecom Fraud: Union Minister of State for Communications Dr Chandra Sekhar Pemmasani",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321418",
+   "published": "2026-10-09T13:25:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "580f0ff478710d6f",
+   "title": "Union Minister Dr. Jitendra Singh Launches Citizen-First, Multilingual DST and MoST Websites to Make Science More Accessible to All",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321379",
+   "published": "2026-10-09T13:25:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "1b70694c55ab5551",
+   "title": "NHAI to Install Retrofit Emission Control Devices on 25 DG Sets at Dwarka Expressway",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321371",
+   "published": "2026-10-09T13:25:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "8fb85fd3e48feed3",
+   "title": "Vice-President Shri C. P. Radhakrishnan to Visit Jharkhand on October 10",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321346",
+   "published": "2026-10-09T13:25:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "00037a2eecb9d19c",
+   "title": "Implementation of Swachhta Hi Seva Campaign 2026 in NITI Aayog from 17th September, 2026 to 2nd October, 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321344",
+   "published": "2026-10-09T13:25:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "0a0189bf27d74605",
+   "title": "INAUGURATION OF PROJECT SEABIRD INFRASTRUCTURE BY GENERAL N S RAJA SUBRAMANI, CDS AND SECRETARY, DMA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321333",
+   "published": "2026-10-09T13:25:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "0a4e9728e7a0e264",
    "title": "Coal supply to power plants gathers pace in October",
