@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-09T13:25:06Z",
+ "updated": "2026-10-09T22:40:43Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,97 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "ff08717670cfb0ab",
+   "title": "Next-Gen GST Process Reforms",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603",
+   "published": "2026-10-09T22:40:43Z",
+   "source": "PIB",
+   "machines": [
+    "M13"
+   ],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "a8226e84fd739e44",
+   "title": "PM chairs valedictory session of National Departmental Summit on Women and Child Development",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321595",
+   "published": "2026-10-09T22:40:43Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "aa16a010e869ee78",
+   "title": "Bharat 6G Alliance Strengthens Global Partnerships at 3rd International Bharat 6G Symposium 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321533",
+   "published": "2026-10-09T22:40:43Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "33bc2eb4047d2b1f",
+   "title": "Raksha Mantri Presents SIDM Champion Awards 2026 and Calls for Greater Private Sector Participation, R&D Investment and Enhanced Defence Production Capacity",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321523",
+   "published": "2026-10-09T22:40:43Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "f0a14a3209277616",
+   "title": "Files to Freedom: DEPwD Drives Swachhata, Pendency Reduction and Efficient Governance",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321518",
+   "published": "2026-10-09T22:40:43Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "Environment"
+   ]
+  },
+  {
+   "id": "eb80a31004589beb",
+   "title": "IMD conducts Training Workshop on Cyclone and Marine Weather Warning Services for users",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321513",
+   "published": "2026-10-09T22:40:43Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "f9151ecaaefd7279",
+   "title": "Union Minister Shri Jyotiraditya M. Scindia Inaugurates Workshop on 5G Use Case Labs at IMC 2026; Highlights Role of Young Innovators in Advancing India’s 5G and 6G Vision",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321511",
+   "published": "2026-10-09T22:40:43Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "a2f545f3c18036da",
+   "title": "Union Minister of Communications Shri Jyotiraditya M. Scindia Holds Media Interaction at India Mobile Congress 2026; Calls for Taking Indian Technologies to the World",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321510",
+   "published": "2026-10-09T22:40:43Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "dc6d1f97aaf96690",
    "title": "Union Minister Shri Jyotiraditya M. Scindia Inaugurates AI for Good Lab Workshop at India Mobile Congress 2026",
