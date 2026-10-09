@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-08T23:22:54Z",
+ "updated": "2026-10-09T06:12:34Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,28 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "0a4e9728e7a0e264",
+   "title": "Coal supply to power plants gathers pace in October",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321166",
+   "published": "2026-10-09T06:12:34Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "61510bc76f98fbba",
+   "title": "India and Mali commemorate World Cotton Day at United Nations Headquarters in New York",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321122",
+   "published": "2026-10-09T06:12:34Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
   {
    "id": "a36e10985f906ee8",
    "title": "As part of ‘Khadi Festival-2026’ at I.N.A. KVIC Chairman Shri Manoj Goel inaugurated a special Khadi and Village Industries Exhibition at Delhi Haat",
