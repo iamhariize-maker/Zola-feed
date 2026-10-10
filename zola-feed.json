@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-09T22:40:43Z",
+ "updated": "2026-10-10T12:35:41Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,96 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "bc033f9da898c12c",
+   "title": "Vice-President Shri C. P. Radhakrishnan Visits Sainya Sampark Mela in Deoghar, Jharkhand",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321754",
+   "published": "2026-10-10T12:35:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "041c06e30b49bd4f",
+   "title": "Minister of State for Coal and Mines inaugurates Third National Conference and Exhibition on Corporate Social Responsibility (NCCSR 2026)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321729",
+   "published": "2026-10-10T12:35:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "0aedce2b283983d2",
+   "title": "Third National Conference and Exhibition on Corporate Social Responsibility (NCCSR 2026) concludes, calls for stronger governance, convergence and outcome-oriented CSR for Viksit Bharat",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321728",
+   "published": "2026-10-10T12:35:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "2adc2ee74c54e48a",
+   "title": "Dr. Jitendra Singh Urges Industry to Accelerate Commercialisation of Indian Innovation, Scale Up Capabilities for Strategic Sovereignty by 2047",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321723",
+   "published": "2026-10-10T12:35:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
+  {
+   "id": "6e4486c0fe473114",
+   "title": "Vice-President Shri C. P. Radhakrishnan Addresses Second Convocation of AIIMS Deoghar",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321693",
+   "published": "2026-10-10T12:35:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "886a7ab2d47eb6ee",
+   "title": "The Indian Parliamentary Delegation, led by Shri Harivansh, Hon’ble Deputy Chairman, Rajya Sabha, continued its participation in the 153rd Inter-Parliamentary Union (IPU) Assembly in Arusha, Tanzania, on the fifth and final day of the Assembly, 9 October 2026.",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321679",
+   "published": "2026-10-10T12:35:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "7440e2cb0b805c77",
+   "title": "Second Regional Review Conference on Implementation of the Forest Rights Act Held in Kolkata",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321667",
+   "published": "2026-10-10T12:35:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "Environment"
+   ]
+  },
+  {
+   "id": "389bdbaa68c70f41",
+   "title": "Union Minister Dr. Mansukh Mandaviya to Declare Open BRICS Traditional and Indigenous Demonstration Games 2026 in Ahmedabad",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321660",
+   "published": "2026-10-10T12:35:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
   {
    "id": "ff08717670cfb0ab",
    "title": "Next-Gen GST Process Reforms",
