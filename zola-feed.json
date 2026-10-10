@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-10T12:35:41Z",
+ "updated": "2026-10-10T21:47:07Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,94 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "75234644ddaa3df5",
+   "title": "Odisha delegation meets the President of India, during Yuva Sangam Phase VII",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321854",
+   "published": "2026-10-10T21:47:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "f8b32e2318a6ab44",
+   "title": "Young Innovators showcase their talent in ‘Robotics for Good Youth Challenge India 2026’ hosted by Department of Telecommunications (DoT) and International Telecommunication Union (ITU) during India Mobile Congress 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321853",
+   "published": "2026-10-10T21:47:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "f1ddbe85890be70b",
+   "title": "PSA Prof. Sood Chairs Fourth All S&T Clusters’ Meet in Chandigarh, Calls for Stronger Collaboration and Technology Deployment",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321818",
+   "published": "2026-10-10T21:47:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "0f895931ac61ccf3",
+   "title": "Youth Must Become Ambassadors of Viksit Bharat and Place Nation-Building at the Centre of Every Action: Dr. Mansukh Mandaviya",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321808",
+   "published": "2026-10-10T21:47:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "d1db52923db24c0a",
+   "title": "Telangana Delegation Explores Assam’s Rich Cultural Heritage and Traditions Under Yuva Sangam Phase VII",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321793",
+   "published": "2026-10-10T21:47:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "6d0c2b180154ad1e",
+   "title": "NBA Disburses Rs 2.02 Crore of ABS Funds from Seed Sector to Support Biodiversity Conservation and Community Well-Being at Grassroots Level",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321791",
+   "published": "2026-10-10T21:47:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "4dc7a82e1ec2949d",
+   "title": "Second Meeting of Global Initiative on AI for Agri-Food Systems (GI-AI4FS) held at IMC 2026 in New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321784",
+   "published": "2026-10-10T21:47:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "c1298a6b68e28002",
+   "title": "CAQM Reviews Stubble Burning Prevention Measures with District Administrations of Amritsar and Tarn Taran; Conducts Field Visits to Hotspot Villages",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321780",
+   "published": "2026-10-10T21:47:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "bc033f9da898c12c",
    "title": "Vice-President Shri C. P. Radhakrishnan Visits Sainya Sampark Mela in Deoghar, Jharkhand",
