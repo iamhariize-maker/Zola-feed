@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-11T22:00:26Z",
+ "updated": "2026-10-12T06:02:04Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,28 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "0dbb5dd900511d2b",
+   "title": "TDB-DST signs agreement with Peptris for ₹86 crore RDI support to accelerate AI-driven drug discovery and development",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322077",
+   "published": "2026-10-12T06:02:04Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "6d08b10d00d69fc2",
+   "title": "Coal stocks at power plants remain stable above 18 MT; depletion thins out in October 2026 as coal supplies strengthen",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322065",
+   "published": "2026-10-12T06:02:04Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "4647b0a4a17b7c5a",
    "title": "DRI seizes around 5.8 kg foreign-origin gold worth Rs. 9 crores from a secret cavity in car, uncovering a sophisticated gold smuggling modus operandi; two arrested",
