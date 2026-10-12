@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-12T06:02:04Z",
+ "updated": "2026-10-12T15:30:45Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,108 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "2837823fea7f06bb",
+   "title": "Ministry of MSME Concludes ‘Swachhata Hi Seva 2026’ Campaign with Nationwide Cleanliness and Awareness Initiatives",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322497",
+   "published": "2026-10-12T15:30:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "Environment"
+   ]
+  },
+  {
+   "id": "03d3c45adf9bccbd",
+   "title": "Union Finance Minister Smt. Nirmala Sitharaman concludes successful visit to Singapore, focusing on strengthening investment and financial cooperation",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322491",
+   "published": "2026-10-12T15:30:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "2ee4f75b20d84fcd",
+   "title": "CAQM reviews Zone-wise Preparedness of all 12 MCD Zones for Road Dust Mitigation and Deep Cleaning of Roads in Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322460",
+   "published": "2026-10-12T15:30:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "a59c1b2111737fa5",
+   "title": "Secretary (Power) holds Bilateral Meeting with the European Commission's Director General for Taxation and Customs Union- Mr. Gerassimos Thomas",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322456",
+   "published": "2026-10-12T15:30:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "fca7a16a8129f63e",
+   "title": "Union Minister Shri G. Kishan Reddy Launches Commercialisation Catalogue of Technologies Developed under Various Sponsored Programmes",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322448",
+   "published": "2026-10-12T15:30:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "b4b5ff01b0b90946",
+   "title": "From Seasonal Labour to Self-Reliance",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322429",
+   "published": "2026-10-12T15:30:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "f434383d1177a48d",
+   "title": "Union Environment Minister Inaugurates New Office Premises of International Big Cat Alliance",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322416",
+   "published": "2026-10-12T15:30:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "0e368302a60c60a1",
+   "title": "Commerce and Industry Minister Shri Piyush Goyal Calls for Doubling India-UK Bilateral Trade by 2030",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322389",
+   "published": "2026-10-12T15:30:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "69838e4aab9ef571",
+   "title": "“Indian Telecom Services Performance Indicator Report” for the Quarter April - June, 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322388",
+   "published": "2026-10-12T15:30:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "0dbb5dd900511d2b",
    "title": "TDB-DST signs agreement with Peptris for ₹86 crore RDI support to accelerate AI-driven drug discovery and development",
@@ -1625,107 +1727,6 @@
    "subjects": [
     "Polity",
     "History"
-   ]
-  },
-  {
-   "id": "18f9ead05faacbac",
-   "title": "Department of Telecommunications Launches Implementation Phase of Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318419",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "2101d84d240003b5",
-   "title": "Department of Telecommunications concludes Swachhata Hi Seva 2026 Campaign",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318413",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment",
-    "S&T"
-   ]
-  },
-  {
-   "id": "beca0977b4e634cb",
-   "title": "\"Context Matters, Care Matters, Compassion Matters\": CEO BHASHINI at MNS Centenary Scientific Conclave",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318389",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "797ffb2cd64f5f0f",
-   "title": "Union Home Minister Shri Amit Shah says, Russian President Shri Vladimir Putin’s appreciation of PM Shri Narendra Modi Ji’s tireless efforts towards global peace brings immense pride to every Indian",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318371",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "7153b70bc10d34d7",
-   "title": "Prime Minister’s Employment Generation Programme: Empowering Entrepreneurs and Driving Inclusive Growth Across India",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318369",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "9b3ad689b6c42c69",
-   "title": "On the occasion of Mahatma Gandhi's birth anniversary, Khadi and Village Industries Commission Chairman Shri Manoj Goyal launched nationwide discount on Khadi and Village Industries products.",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318366",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "History"
-   ]
-  },
-  {
-   "id": "bebb6e2eba0da177",
-   "title": "Vice-President C. P. Radhakrishnan attends 11th Sant Eshwar Samman-2026 in New Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318358",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "a8199cd80780695b",
-   "title": "CAQM Reviews Enforcement Status Across NCR; 197 Inspections Conducted in 17 Days",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318353",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "d3908176dfd5df1f",
-   "title": "Ministry of Labour & Employment takes “Shram Samvad” outreach to industrial clusters in Delhi, Haryana and Uttarakhand",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318348",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
