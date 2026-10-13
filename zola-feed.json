@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-13T14:15:27Z",
+ "updated": "2026-10-13T22:47:19Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,63 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "5d1ee95559570f5e",
+   "title": "Former UK Prime Minister Rishi Sunak meets Prime Minister Shri Narendra Modi at Bloomberg New Economy Forum",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323023",
+   "published": "2026-10-13T22:47:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "246877d6220f2eae",
+   "title": "Union Minister Jyotiraditya Scindia Inaugurates North East Bankers’ Conclave 3.0 in Mizoram, Calls for Greater Credit Flow to Region",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323021",
+   "published": "2026-10-13T22:47:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "45ad6e6b3c92c6aa",
+   "title": "Union Agriculture Minister Shri Shivraj Singh Chouhan and Environment Minister Shri Bhupender Yadav conduct joint review of stubble management",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322991",
+   "published": "2026-10-13T22:47:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "Environment",
+    "History"
+   ]
+  },
+  {
+   "id": "079a181180161d6e",
+   "title": "Hindustan Aeronautics Limited (HAL), National Culture Fund (NCF) and Archaeological Survey of India (ASI) Sign MoA for Conservation and Development of Heritage Sites",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322976",
+   "published": "2026-10-13T22:47:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "dff853f11d6a59b6",
+   "title": "From Financial Hardship to Research Aspirations",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322973",
+   "published": "2026-10-13T22:47:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "836fcfd407581220",
    "title": "NIFTEM-K Hosts India–Canada Roundtable on Pulse Protein Innovation, Value Addition and Strategic Partnerships",
@@ -1665,61 +1722,6 @@
    "id": "56c0736ab6603df3",
    "title": "Prime Minister congratulates Indian Men’s Hockey Team on retaining Gold at Asian Games",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318743",
-   "published": "2026-10-03T16:19:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "72b4bf912973706c",
-   "title": "Prime Minister congratulates Aman Sehrawat on winning historic Gold in Men’s 57 kg Freestyle Wrestling at Asian Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318741",
-   "published": "2026-10-03T16:19:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "1b8f1f7a7861ee08",
-   "title": "Ministry of Education Approves Five Centres of Excellence for Studies in Classical Languages",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318679",
-   "published": "2026-10-03T16:19:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "89ff6b3c5e71e449",
-   "title": "Prime Minister congratulates Indian Men’s Cricket Team on retaining Gold at Asian Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318678",
-   "published": "2026-10-03T16:19:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "5343faa9889d1d54",
-   "title": "Prime Minister congratulates Pranavi Sharath Urs on winning historic Gold in Women’s Individual Golf at Asian Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318677",
-   "published": "2026-10-03T16:19:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "bd9534e70ad32f26",
-   "title": "Prime Minister congratulates Kumkum Anil Mohod on winning historic Gold in Recurve Individual event at Asian Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318676",
    "published": "2026-10-03T16:19:48Z",
    "source": "PIB",
    "machines": [],
