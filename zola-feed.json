@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-13T00:43:29Z",
+ "updated": "2026-10-13T14:15:27Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,140 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "836fcfd407581220",
+   "title": "NIFTEM-K Hosts India–Canada Roundtable on Pulse Protein Innovation, Value Addition and Strategic Partnerships",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322955",
+   "published": "2026-10-13T14:15:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "7bdf5f9a3a6991fb",
+   "title": "PRESIDENT OF INDIA TO GRACE THE NATIONAL SARAS MELA IN VIJAYAWADA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322953",
+   "published": "2026-10-13T14:15:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "51731093507adb93",
+   "title": "DRDO to lead thematic session on ‘Semiconductors & Next-Gen Chips’ at ESTIC-2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322945",
+   "published": "2026-10-13T14:15:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "edf4247b2b615d05",
+   "title": "21st Meeting of Maritime State Development Council Concludes Successfully at Mumbai",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322942",
+   "published": "2026-10-13T14:15:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "9e8201cb827df727",
+   "title": "Ministry of Tribal Affairs and Karmayogi Bharat sign MoU to bring the iGOT Karmayogi learning platform to Adi Karmayogi Volunteers",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322927",
+   "published": "2026-10-13T14:15:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR",
+    "History"
+   ]
+  },
+  {
+   "id": "b79c85844ef33884",
+   "title": "Ministry of Panchayati Raj to undertake cleanliness drive and disposal of pending matters on 14 October 2026 under Special Campaign 6.0",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322921",
+   "published": "2026-10-13T14:15:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "7826a6885403b803",
+   "title": "Ministry of Heavy Industries and its Central Public Sector Enterprises (CPSEs) & Autonomous Bodies(ABs) observes Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322919",
+   "published": "2026-10-13T14:15:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "1aadb47c59f85492",
+   "title": "CEA Brainstorming Event: Making Indian Power Sector AI Enabled",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322905",
+   "published": "2026-10-13T14:15:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "e01378ae92914ce3",
+   "title": "NSDF, SAI Partner with Indian Oil to Strengthen Boxing Ecosystem in India",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322887",
+   "published": "2026-10-13T14:15:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "2571977eae67ec5d",
+   "title": "President Appoints Two Judicial Officers as Additional Judges of Madras High Court",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322855",
+   "published": "2026-10-13T14:15:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "ca33d128fb7a04fb",
+   "title": "PM GatiShakti National Master Plan completes five years of transforming India’s infrastructure landscape",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322825",
+   "published": "2026-10-13T14:15:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "535c24e6d4221ce7",
+   "title": "Union Minister Shri Rajiv Ranjan Singh alias Lalan Singh Launches DBIM-Compliant DAHD Website to Strengthen Digital Governance",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322814",
+   "published": "2026-10-13T14:15:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "S&T"
+   ]
+  },
   {
    "id": "0ba81bd3b685e400",
    "title": "Union Minister Shri Rajiv Ranjan Singh alias Lalan Singh, Holds Bilateral Talks with UK Secretary of State Dame Angela Eagle to Deepen Cooperation in Animal Husbandry and Allied Sectors",
@@ -1591,141 +1725,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "6b8a9c49f31e14cd",
-   "title": "As part of Special Gram Sabha on Gandhi Jayanti, Jal Arpan Observed in more than 1850 Gram Panchayats Across Rural India to Strengthen Community Ownership of Rural Water Supply Systems Under Jal Jeevan Mission 2.0",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318669",
-   "published": "2026-10-03T16:19:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "History"
-   ]
-  },
-  {
-   "id": "3cd4ec7fa398178e",
-   "title": "India’s First 5.56 km Free‑Space Quantum Key Distribution Link Demonstrated",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318656",
-   "published": "2026-10-03T11:42:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "f519569e0889084e",
-   "title": "In culmination of 10 years of dedicated efforts, Union Environment Minister and CM (Rajasthan) initiate the process for release of captive-bred Great Indian Bustards into the Wild at Desert National Park, Jaislamer",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318629",
-   "published": "2026-10-03T11:42:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "fbc9590e4e388293",
-   "title": "Union Minister of Jal Shakti Leads Special Gram Sabha Observance on Swachh Bharat Diwas 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318610",
-   "published": "2026-10-03T11:42:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "Environment"
-   ]
-  },
-  {
-   "id": "ecbd388357ac9ce2",
-   "title": "Shri Harivansh Leads Indian Parliamentary Delegation to 153rd IPU Assembly in Tanzania",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318590",
-   "published": "2026-10-03T11:42:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "90cfd688da05e395",
-   "title": "Vice-President Shri C. P. Radhakrishnan Delivers Inaugural Address at 5th Kautilya Economic Conclave in New Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318564",
-   "published": "2026-10-03T11:42:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "74fa1c12c7aa43c2",
-   "title": "DRI cracks down on illegal wildlife trafficking; elephant ivory, leopard skin, live pangolins and tiger parts seized; 11 persons arrested",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318504",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "7b00767c722635aa",
-   "title": "DRI busts two-way gold-diamond smuggling syndicate at Mumbai airport",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318501",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "be1ed43b77cffe69",
-   "title": "Mumbai's Jawahar Dweep Becomes India's First Plastic-free Oil Terminal",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318498",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment"
-   ]
-  },
-  {
-   "id": "75b2ea1ac316b286",
-   "title": "Sarbananda Sonowal Hails SCI as Anchor of India's Maritime & Shipbuilding Ambitions",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318497",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "836c7a6ce64431af",
-   "title": "Sikkim Delegation Explores Rajasthan’s Rich Heritage under Yuva Sangam Phase VII",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318473",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "bb828a9ae5ff8caf",
-   "title": "Prime Minister attends prayer meeting at Gandhi Smriti, recalls timeless message of Bapu",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318459",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
    ]
   }
  ],
