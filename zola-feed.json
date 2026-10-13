@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-12T15:30:45Z",
+ "updated": "2026-10-13T00:43:29Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,28 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "0ba81bd3b685e400",
+   "title": "Union Minister Shri Rajiv Ranjan Singh alias Lalan Singh, Holds Bilateral Talks with UK Secretary of State Dame Angela Eagle to Deepen Cooperation in Animal Husbandry and Allied Sectors",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322561",
+   "published": "2026-10-13T00:43:29Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "f9c94daf803b2cf7",
+   "title": "IMD Dedicates Cyclone Warning and Marine Weather Services Decision Support System to the Nation on 12th October, 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322562",
+   "published": "2026-10-13T00:43:29Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "2837823fea7f06bb",
    "title": "Ministry of MSME Concludes ‘Swachhata Hi Seva 2026’ Campaign with Nationwide Cleanliness and Awareness Initiatives",
@@ -1703,29 +1725,6 @@
    "source": "PIB",
    "machines": [],
    "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "716184454ed0fed0",
-   "title": "Madhya Pradesh–Karnataka Delegation of Yuva Sangam Phase VII Embarks on a Journey of Cultural Discovery and Youth Exchange",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318451",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "9f35f7f68fea0384",
-   "title": "2.42 Lakh Special Gram Sabhas Across India Put Citizen-Centric Initiatives at the Heart of Grassroots Discussions on Gandhi Jayanti",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318441",
-   "published": "2026-10-03T04:36:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
     "History"
    ]
   }
