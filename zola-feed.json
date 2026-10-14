@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-14T11:57:10Z",
+ "updated": "2026-10-14T17:13:48Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,175 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "b97aa3b28785fdc6",
+   "title": "NCISM Chairperson launches CCRAS SPARK 5.0 and CCRAS Ayurshodh 2026 to strengthen Ayurveda research and innovation",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323586",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "140b6c424ea77ec6",
+   "title": "Bharat’s civilisational journey had, for centuries, been a story of cultural exchange: Hon’ble Prime Minister",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323570",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "d8ce03fb64cdaf33",
+   "title": "ITRA, Jamnagar to Organise National Symposium ‘Ayutech Navonmesh 2026’ on Artificial Intelligence in Ayurveda",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323568",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "30e2eecdc7e8639b",
+   "title": "KAUMARACON 2026 to Begin at AIIA, New Delhi, on October 15; Vice-President to Address International Ayurveda Paediatrics Conference",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323564",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "25332767d8899cc1",
+   "title": "India and Brunei Darussalam Review Bilateral Trade and Economic Cooperation at Third Joint Trade Committee Meeting",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323562",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "76715d1342b5431c",
+   "title": "Close defence-academia-industry collaboration key to accelerating development & adoption of indigenous tech amid evolving nature of warfare: Raksha Mantri",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323554",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "fb9558fafbae29e5",
+   "title": "India Strengthens Science and Technology Partnerships with Global South through Inaugural Ministry of External Affairs–CSIR Tech Familiarization Programme",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323546",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T",
+    "IR"
+   ]
+  },
+  {
+   "id": "3baa03ec44994287",
+   "title": "Defence Accounts Department Organises Shramdaan under ‘Swachhata Hi Seva’ Campaign",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323543",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "4024dd2b3d89cb8c",
+   "title": "CEA Brainstorming Event: Making Indian Power Sector AI Enabled (International Conference cum Exhibition)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323545",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "a0ebdb91be0944da",
+   "title": "Mahila Kisan Diwas 2026 to Be Celebrated at the National Level Tomorrow by the Department of Agriculture & Farmers Welfare",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323531",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
+  {
+   "id": "b71edb80d9a2c0af",
+   "title": "Foreign Minister of Canada calls on Prime Minister",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323495",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "d1770e8c370c7098",
+   "title": "Government Approves Strategic Restructuring of IDBI Bank Ltd.",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323468",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "0da3eec1df9115bf",
+   "title": "Quality Infrastructure, Clean Energy and Consumer Safety Take Centre Stage at the National Celebration of World Standards Day 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323467",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "72cdaea30f90e808",
+   "title": "Telecommunication Engineering Centre (TEC) Celebrates World Standards Day 2026 at TEC New Delhi, Highlighting India's Pivotal Role in Global Telecommunication Standardization",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323466",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "691ec61a7f5b6475",
+   "title": "Union Agriculture and Farmers’ Welfare and Rural Development Minister Shri Shivraj Singh Chouhan participates in the 10th National Convention of Agrivision in Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323461",
+   "published": "2026-10-14T17:13:48Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
   {
    "id": "b70a46d3e0e3c5a0",
    "title": "29 nursing cadets of Batch IX of the College of Nursing, Army Hospital (Research & Referral) , Delhi Cantonment, were formally commissioned as Lieutenants into the Military Nursing Service (MNS) at the commissioning ceremony held at Army Hospital (R&R) on October 14, 2026. Commandant, Army Hospital ",
@@ -1565,174 +1734,6 @@
    "machines": [],
    "subjects": [
     "Environment"
-   ]
-  },
-  {
-   "id": "685ec9e9ad7e750c",
-   "title": "Union Minister for Communications and Development of North Eastern Region Shri Jyotiraditya Scindia’s Vision and Sustained Efforts Set the Stage for a New Industrial Era in Gwalior",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319793",
-   "published": "2026-10-06T18:24:16Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "8bcf25c94d1b7031",
-   "title": "STRONG DEMOCRACIES ARE BUILT ON DIALOGUE, DIVERSE VIEWS AND MEANINGFUL PUBLIC PARTICIPATION: LOK SABHA SPEAKER",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319796",
-   "published": "2026-10-06T18:24:16Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "b97f29e209f6bf7f",
-   "title": "Ministry Of Culture Successfully Organizes “Swachhata Hi Seva” Campaign 2026 (17th September - 2nd October 2026)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319791",
-   "published": "2026-10-06T18:24:16Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment",
-    "History"
-   ]
-  },
-  {
-   "id": "cdad746754a3bff8",
-   "title": "Integrated Transport and Logistics Authority (ITLA)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319778",
-   "published": "2026-10-06T18:24:16Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "3f7bde9844b79ad8",
-   "title": "Ministry of Coal holds Special Drive with focus on E-waste Management as part of Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319761",
-   "published": "2026-10-06T18:24:16Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment"
-   ]
-  },
-  {
-   "id": "ef4a6e7c622c57eb",
-   "title": "Chintan Shivir 2026 Concludes with Focus on Collaborative Knowledge Sharing for Quality Road Infrastructure",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319749",
-   "published": "2026-10-06T18:24:16Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "a8d4360d4ce60fc8",
-   "title": "Raksha Mantri Shri Rajnath Singh Underscores India’s Rising Maritime Power, Indigenous Naval Capability and Strategic Strength at Barakhana in Visakhapatnam",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319425",
-   "published": "2026-10-06T00:05:12Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "3b1035d39dd5cfa4",
-   "title": "PRESIDENT OF INDIA HOSTS PRESIDENT OF THE SWISS CONFEDERATION",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319423",
-   "published": "2026-10-06T00:05:12Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "279c5590b2695e8c",
-   "title": "India and Japan Launch Operational Manual for the Joint Crediting Mechanism",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319373",
-   "published": "2026-10-06T00:05:12Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "e01134a7a04a5ef5",
-   "title": "Ministry of Textiles Organises Swachhta and Cleanliness Activities on Gandhi Jayanti under Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319367",
-   "published": "2026-10-06T00:05:12Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment",
-    "History"
-   ]
-  },
-  {
-   "id": "609d20594e2781c1",
-   "title": "PRESIDENT OF INDIA TO VISIT HIMACHAL PRADESH FROM OCTOBER 6 TO 8",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319361",
-   "published": "2026-10-05T14:44:58Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "bb637cf632d4495a",
-   "title": "CAQM intensifies field-level monitoring with deployment of Flying Squads to prevent paddy stubble burning incidents in Punjab and Haryana",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319355",
-   "published": "2026-10-05T14:44:58Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "79e9aced52921c41",
-   "title": "IICA observed 3rd IICA CSR Day on Gandhi Jayanti with a Special Address by the DG & CEO to Participants of the IICA Certified CSR Professional Programme ahead of NCCSR 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319348",
-   "published": "2026-10-05T14:44:58Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "abcf1223a8850166",
-   "title": "Appointment of Additional Judge of the Delhi High Court",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319338",
-   "published": "2026-10-05T14:44:58Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "58dc9b29c987d0bc",
-   "title": "Appointment of Chief Justices of High Courts as Judges of the Supreme Court of India",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319337",
-   "published": "2026-10-05T14:44:58Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
    ]
   }
  ],
