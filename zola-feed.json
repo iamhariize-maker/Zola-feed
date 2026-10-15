@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-14T17:13:48Z",
+ "updated": "2026-10-15T04:43:32Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,17 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "b257b5669b85cb2e",
+   "title": "From Skilling to Sustainable Employment: Captive Employer CXO Meet to mobilise industry partners to the DDU-GKY 2.0 held at Jaipur",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323651",
+   "published": "2026-10-15T04:43:32Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "b97aa3b28785fdc6",
    "title": "NCISM Chairperson launches CCRAS SPARK 5.0 and CCRAS Ayurshodh 2026 to strengthen Ayurveda research and innovation",
@@ -1722,17 +1733,6 @@
    "machines": [],
    "subjects": [
     "Polity",
-    "Environment"
-   ]
-  },
-  {
-   "id": "67a1d21708fa2622",
-   "title": "From Waste Picking to Self-Reliance:",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2319800",
-   "published": "2026-10-06T18:24:16Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
     "Environment"
    ]
   }
