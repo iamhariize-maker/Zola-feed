@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-15T11:33:20Z",
+ "updated": "2026-10-15T17:03:57Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,140 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "a564d6227bd34ad2",
+   "title": "Legislative Department, Ministry of Law & Justice organises workshop on E-Waste Disposal under Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324151",
+   "published": "2026-10-15T17:03:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "9fefb9e719401f66",
+   "title": "Union Minister of Culture and Tourism Shri Gajendra Singh Shekhawat Inaugurates ‘TAKSHANAM’, An Exhibition Bringing Together 150 Artists and Over 250 Sculptures at NGMA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324150",
+   "published": "2026-10-15T17:03:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "f883b6890b48fff4",
+   "title": "Union Minister for Finance & Corporate Affairs Smt. Nirmala Sitharaman participates in the 114th meeting of the Development Committee Plenary of the World Bank in Bangkok, Thailand, today",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324148",
+   "published": "2026-10-15T17:03:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "b715867580b4fa4b",
+   "title": "National Workshop held on “Strengthening Digital Data Systems and Evidence-Based Learning” under Deendayal Antyodaya Yojana-National Rural Livelihood Mission at Gurugram, Haryana on 12th and 13th October, 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324135",
+   "published": "2026-10-15T17:03:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "5d24518278ae7493",
+   "title": "India’s Ramsar Site tally reaches 103 with addition of Sukhna Wetland (Chandigarh) and Sauj Jheel (UP)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324120",
+   "published": "2026-10-15T17:03:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "6db34fe06cc05cb7",
+   "title": "12th session of India – Japan Joint Working Group (JWG) on Roads and Road Transportation Sector",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324100",
+   "published": "2026-10-15T17:03:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "ddb4630206ff1be0",
+   "title": "DRI seizes around 6.2 kg foreign-origin gold; busts sophisticated gold smuggling modus operandi through unaccompanied baggage; three arrested",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324042",
+   "published": "2026-10-15T17:03:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "77cf1b2699873458",
+   "title": "Central Bureau of Narcotics (CBN) U.P. Unit holds public hearing to address grievances of opium cultivators",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324039",
+   "published": "2026-10-15T17:03:57Z",
+   "source": "PIB",
+   "machines": [
+    "M18"
+   ],
+   "subjects": []
+  },
+  {
+   "id": "355420c166b3be13",
+   "title": "Directorate of Revenue Intelligence (DRI) and Central Bureau of Narcotics (CBN) destroy 2.87 Hectares (7.08 Acres) of illicit cannabis (ganja) cultivation in wildlife sanctuary, District Dhule, Maharashtra",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324037",
+   "published": "2026-10-15T17:03:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "321bd38bd5abb5f0",
+   "title": "Union Commerce and Industry Minister Shri Piyush Goyal Launches National Strategic Trade Command Centre at Vanijya Bhawan",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324013",
+   "published": "2026-10-15T17:03:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "7b03f58599710a53",
+   "title": "Vice-President inaugurates KAUMARACON-2026 and launches digital initiatives of the All India Institute of Ayurveda",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323997",
+   "published": "2026-10-15T17:03:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "S&T"
+   ]
+  },
+  {
+   "id": "aea8b4adb0e170f9",
+   "title": "‘Swachhata se Samman, Har Varg ka Utthan’",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323996",
+   "published": "2026-10-15T17:03:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "f6ccc41d30f846d1",
    "title": "CAQM conducts Inspection Drive in Gurugram to assess Road Dust and effectiveness of Road Cleaning and Sweeping Operations",
@@ -1600,140 +1734,6 @@
    "machines": [],
    "subjects": [
     "History"
-   ]
-  },
-  {
-   "id": "94cdd2ff240d9bd5",
-   "title": "India’s regulatory framework for satellite communication services is fair and non-discriminatory",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320510",
-   "published": "2026-10-08T06:08:38Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "1ed65e40be3ea182",
-   "title": "Prime Minister expresses gratitude to Prime Minister of Japan Sanae Takaichi for her wishes on completing 25 years of service to the Nation as Head of Government",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320435",
-   "published": "2026-10-08T06:08:38Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "6df2ad2fae959486",
-   "title": "Sagarmanthan 2026 Opens as India Charts the Course for a Trusted, Rules-Based Global Maritime Order",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320424",
-   "published": "2026-10-08T06:08:38Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "08db19089d57732a",
-   "title": "Prime Minister expresses gratitude to Prime Minister of Bhutan Tshering Tobgay for his wishes on completing 25 years of service to the Nation as Head of Government",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320420",
-   "published": "2026-10-08T06:08:38Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "6bd3692f65c4ce53",
-   "title": "PMGSY Chintan Shivir Charts Future Roadmap for Quality, Maintenance and Technology-Driven Rural Connectivity",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320321",
-   "published": "2026-10-07T13:28:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "691c2d86b3f6e5e1",
-   "title": "Departmental Summit on Women and Child Development to be held in New Delhi on 8-9 October",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320306",
-   "published": "2026-10-07T13:28:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "1b03526529c0429f",
-   "title": "RRM Inaugurates SAREX-2026 as 24th NMSAR Board Meeting Reviews Maritime SAR Preparedness",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320300",
-   "published": "2026-10-07T13:28:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "a7fde390ed2b66f7",
-   "title": "India and Ghana Sign Historic MoU to Advance Agricultural Research, Education, and Technology Transfer",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320285",
-   "published": "2026-10-07T13:28:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T",
-    "IR"
-   ]
-  },
-  {
-   "id": "74370d40a13cb6f0",
-   "title": "ICAR Consults Industry and Academic Experts on Proposed PG and Ph.D. Programmes in Natural Farming",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320281",
-   "published": "2026-10-07T13:28:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "f36598942c7aaebe",
-   "title": "From 4,000-Year-Old Dhokra to Tribal Heritage, Chhattisgarh’s Cultural Story Comes Alive at the 8th PM Mementos",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320249",
-   "published": "2026-10-07T13:28:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "7d356a04d049edf0",
-   "title": "Adopted Joint Statement after the India-UK Financial Markets Dialogue 2026, held in London",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320225",
-   "published": "2026-10-07T13:28:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "92d9b2fb2d27a74a",
-   "title": "LOK SABHA SPEAKER PAYS TRIBUTES TO FORMER SPEAKER, LOK SABHA, SHRI BALI RAM BHAGAT",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320207",
-   "published": "2026-10-07T13:28:25Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
    ]
   }
  ],
