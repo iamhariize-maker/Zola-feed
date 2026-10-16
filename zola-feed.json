@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-15T17:03:57Z",
+ "updated": "2026-10-16T11:28:07Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -51,6 +51,117 @@
  "watch": [],
  "events": [],
  "inbox": [
+  {
+   "id": "2c410fc99cead472",
+   "title": "14th India-Mongolia Joint Working Group meeting reaffirms commitment to strengthening bilateral defence partnership",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324373",
+   "published": "2026-10-16T11:28:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "103c526cc70a034f",
+   "title": "Department of Health & Family Welfare Reviews Mid-Campaign Progress of Special Campaign 6; Focus on Swachhata, Disposal of Pending Matters and Efficient Record Management",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324371",
+   "published": "2026-10-16T11:28:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "13ecda9093a02621",
+   "title": "Quarterly release of Performance Monitoring Dashboard of Infrastructure Sector in India",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324355",
+   "published": "2026-10-16T11:28:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "8c79ba5936c22851",
+   "title": "Climate history finds monsoon fluctuation footprints from sediment transport to farming adaptations",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324336",
+   "published": "2026-10-16T11:28:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "5fda9c41b85940df",
+   "title": "SECL Strengthens Digital Governance and Service Delivery under Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324331",
+   "published": "2026-10-16T11:28:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "S&T"
+   ]
+  },
+  {
+   "id": "085c0ebf5287446b",
+   "title": "National Steering Committee Approves ₹1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324330",
+   "published": "2026-10-16T11:28:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "8a75c4e9824e1021",
+   "title": "Vice-President Shri C. P. Radhakrishnan Commissions Indian Navy’s First Indigenous Multi-Purpose Vessel INS Samarthak at Karwar",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324319",
+   "published": "2026-10-16T11:28:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "68e7404ec04c3839",
+   "title": "TDB-DST signs agreement with QNu Labs for ₹150 crore RDI support to strengthen India’s indigenous quantum-secure technology ecosystem",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324307",
+   "published": "2026-10-16T11:28:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "1c3db165748940db",
+   "title": "Ayush Innovation Sees Eightfold Rise in Patent Filings",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324293",
+   "published": "2026-10-16T11:28:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "42476ed37bdc3089",
+   "title": "BHASHINI and IISc Bangaluru : Text-to-Speech Model for Sourashtra Language",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324289",
+   "published": "2026-10-16T11:28:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "a564d6227bd34ad2",
    "title": "Legislative Department, Ministry of Law & Justice organises workshop on E-Waste Disposal under Special Campaign 6",
@@ -1617,119 +1728,6 @@
    "title": "From Regional Identity to Shared National Heritage",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320905",
    "published": "2026-10-08T13:34:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "5a77a8083c7dee9c",
-   "title": "NHAI Releases Document on ‘Wildlife Mitigation Measures & Structures’ Highlighting Strengthened Wildlife Conservation Measures Along National Highways",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320896",
-   "published": "2026-10-08T13:34:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment"
-   ]
-  },
-  {
-   "id": "5bf5e4d228191bfe",
-   "title": "Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320883",
-   "published": "2026-10-08T13:34:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
-   ]
-  },
-  {
-   "id": "1344ddff929312e8",
-   "title": "Department of Defence Production continues Special Campaign 6.0 with Focus on Swachhata and Reducing Pendency",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320876",
-   "published": "2026-10-08T13:34:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "89c811310ffd09c7",
-   "title": "Department of Telecommunications hosts High-Level Roundtable with State IT Ministers and Secretaries to Accelerate Digital Connectivity and Infrastructure Rollout",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320855",
-   "published": "2026-10-08T13:34:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
-   ]
-  },
-  {
-   "id": "df3b56d4783b0e1a",
-   "title": "Union Minister of State Pabitra Margherita Inaugurates State-of-the-Art Silkworm Seed Infrastructure at Jorhat, Assam",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320835",
-   "published": "2026-10-08T13:34:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "60419ca48da71d5e",
-   "title": "Opening of Space Sector to Private Players Has Helped Reduce Brain Drain, Created New Opportunities for Young Talent: Dr Jitendra Singh",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320831",
-   "published": "2026-10-08T13:34:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "af66fa66a649facc",
-   "title": "PM to participate in Valedictory Session of Departmental Summit on Women and Child Development on 9th October",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320783",
-   "published": "2026-10-08T13:34:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "1c496f5a3dee57ba",
-   "title": "Indian Coast Guard conducts 12th National Maritime Search & Rescue Exercise (SAREX-2026) off Paradip coast in Odisha",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320759",
-   "published": "2026-10-08T13:34:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "f2b26ac0f48bb80c",
-   "title": "India’s WTO fisheries ratification: A pragmatic step, with more to negotiate",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320529",
-   "published": "2026-10-08T06:08:38Z",
-   "source": "PIB",
-   "machines": [
-    "M05"
-   ],
-   "subjects": []
-  },
-  {
-   "id": "85bc4a06877641a2",
-   "title": "Prime Minister shares an article by Sri Mata Amritanandamayi Ji highlighting PM Modi's vision of a prosperous Bharat while preserving cultural heritage",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320516",
-   "published": "2026-10-08T06:08:38Z",
    "source": "PIB",
    "machines": [],
    "subjects": [
