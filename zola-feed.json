@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-17T10:47:45Z",
+ "updated": "2026-10-17T15:38:15Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,84 @@
   }
  ],
  "inbox": [
+  {
+   "id": "553673c3649debe5",
+   "title": "NBA disburses Rs 1.19 Crore to 29 State Biodiversity Boards and one UT Biodiversity Council under Access and Benefit Sharing Mechanism",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324757",
+   "published": "2026-10-17T15:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "d625a4ddca2626dd",
+   "title": "CAQM reviews Paddy Stubble Management Measures in Firozpur and Faridkot; stresses Timely Availability of CRM Machinery and Farmer Facilitation",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324755",
+   "published": "2026-10-17T15:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "Environment"
+   ]
+  },
+  {
+   "id": "a0ca0235594fd68e",
+   "title": "FIRST TRAINING SQUADRON DEPARTS SEYCHELLES, REINFORCING MARITIME COOPERATION",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324739",
+   "published": "2026-10-17T15:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "8d13df908387d6ad",
+   "title": "Department of Commerce Organises “Leveraging FTAs” Outreach Programme in Jaipur to Strengthen Export Opportunities",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324727",
+   "published": "2026-10-17T15:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "7226e8f7b8a56565",
+   "title": "CAQM reviews Compliance Status and Enforcement Actions across NCR; 124 inspections conducted from 25.09.2026 to 09.10.2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324707",
+   "published": "2026-10-17T15:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "e9a9988cae71d48e",
+   "title": "The Hon’ble Supreme Court of India had constituted a High Powered Enquiry Committee (HPEC) to enquire into all aspects of the incidents relating to violence at Jantar Mantar, Delhi, and at places outside Delhi, during the month of July 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324691",
+   "published": "2026-10-17T15:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "c6d1db3a73be55a9",
+   "title": "Ministry of Mines and Its Field Offices Actively Participated in Swachhata Hi Seva Campaign 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324685",
+   "published": "2026-10-17T15:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "2a23ac15bc4ba1bb",
    "title": "India’s Space Economy to Reach USD 40-45 Billion in 7–8 Years; Dr Jitendra Singh underlines increasing Private Investments following Space Unlocking by PM Modi",
@@ -1692,83 +1770,6 @@
    "title": "Union Minister Shri Jyotiraditya M. Scindia Inaugurates Workshop on 5G Use Case Labs at IMC 2026; Highlights Role of Young Innovators in Advancing India’s 5G and 6G Vision",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321511",
    "published": "2026-10-09T22:40:43Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "a2f545f3c18036da",
-   "title": "Union Minister of Communications Shri Jyotiraditya M. Scindia Holds Media Interaction at India Mobile Congress 2026; Calls for Taking Indian Technologies to the World",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321510",
-   "published": "2026-10-09T22:40:43Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "dc6d1f97aaf96690",
-   "title": "Union Minister Shri Jyotiraditya M. Scindia Inaugurates AI for Good Lab Workshop at India Mobile Congress 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321480",
-   "published": "2026-10-09T13:25:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "d553538bb00ebf8c",
-   "title": "TRAI Assesses Mobile Network Quality Across Kathgodam to Dehradun Railway under UPW LSA, during the month of August 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321441",
-   "published": "2026-10-09T13:25:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "2689eeef45ff7c67",
-   "title": "The Indian Parliamentary Delegation led by Shri Harivansh, Hon’ble Deputy Chairman, Rajya Sabha, continued its participation in the 153rd IPU Assembly in Arusha, Tanzania, on the fourth day of the Assembly, i.e. 08 October 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321422",
-   "published": "2026-10-09T13:25:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "34e685008f85896a",
-   "title": "PRESS RELEASE ON the 382nd REPORT OF The Department-related Parliamentary Standing Committee on Education, Women, Children, Youth and Sports on \"Reforms and Strengthening of the National Testing Agency (NTA)\"",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321420",
-   "published": "2026-10-09T13:25:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "a154b9f408edfc6e",
-   "title": "India Welcomes ITU Proposal for Joint Trials to Combat Cross-Border Telecom Fraud: Union Minister of State for Communications Dr Chandra Sekhar Pemmasani",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321418",
-   "published": "2026-10-09T13:25:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "580f0ff478710d6f",
-   "title": "Union Minister Dr. Jitendra Singh Launches Citizen-First, Multilingual DST and MoST Websites to Make Science More Accessible to All",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321379",
-   "published": "2026-10-09T13:25:06Z",
    "source": "PIB",
    "machines": [],
    "subjects": [
