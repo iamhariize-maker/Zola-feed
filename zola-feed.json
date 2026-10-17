@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-16T16:41:51Z",
+ "updated": "2026-10-17T04:40:00Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -49,7 +49,47 @@
   }
  ],
  "watch": [],
- "events": [],
+ "events": [
+  {
+   "id": "ramsar-sites-sukhna-sauj-2026",
+   "date": "2026-10-15",
+   "title": "Ramsar sites: Sukhna Wetland and Sauj Jheel added",
+   "subject": "Environment",
+   "hook": "The 15 October announcement identifies Sukhna Wetland (Chandigarh) and Sauj Jheel (Uttar Pradesh) as additions, with India's announced total at 103. Treat 103 as the announcement's figure; recheck the Convention's country directory before calling it the current registry count.",
+   "status": "UNVERIFIED",
+   "machines": [],
+   "source": {
+    "title": "Convention on Wetlands: India adds two sites",
+    "url": "https://www.ramsar.org/news/india-adds-two-more-wetlands-international-importance-list"
+   }
+  },
+  {
+   "id": "plfs-september-2026",
+   "date": "2026-10-15",
+   "title": "PLFS monthly bulletin: September 2026",
+   "subject": "Economy",
+   "hook": "For people aged 15 and above under Current Weekly Status, the bulletin reports LFPR 55.5%, WPR 52.7% and unemployment rate 5.0%. Keep the age group and survey basis with each figure; compare like periods and note the January 2025 methodology change.",
+   "status": "UNVERIFIED",
+   "machines": [],
+   "source": {
+    "title": "MoSPI via PIB: September 2026 PLFS bulletin",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323828&lang=1&reg=3"
+   }
+  },
+  {
+   "id": "nsap-continuation-2026-2031",
+   "date": "2026-10-14",
+   "title": "NSAP continuation and approved scheme changes",
+   "subject": "Polity",
+   "hook": "The Cabinet approved continuation for 2026–27 to 2030–31 with an outlay of ₹53,428 crore. The release also approves changes to disability pension eligibility and assistance; its implementation guidelines were still due within three months, so do not present these changes as already operational.",
+   "status": "UNVERIFIED",
+   "machines": [],
+   "source": {
+    "title": "PIB: Cabinet approves NSAP continuation",
+    "url": "https://www.pib.gov.in/PressReleasepage.aspx?PRID=2323264&lang=1&reg=48"
+   }
+  }
+ ],
  "inbox": [
   {
    "id": "76db8e98c905643d",
