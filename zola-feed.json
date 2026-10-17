@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-17T15:38:15Z",
+ "updated": "2026-10-17T20:38:37Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,28 @@
   }
  ],
  "inbox": [
+  {
+   "id": "6c5b63e2f7b9090b",
+   "title": "AIIA Marks Its 10th Foundation Day with Two MoUs, Major Academic Publications and Digital Launches",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324808",
+   "published": "2026-10-17T20:38:37Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "b2b85c6b1ea40e75",
+   "title": "EXERCISE KONKAN-26 CONCLUDES OFF PLYMOUTH, UK",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324800",
+   "published": "2026-10-17T20:38:37Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
   {
    "id": "553673c3649debe5",
    "title": "NBA disburses Rs 1.19 Crore to 29 State Biodiversity Boards and one UT Biodiversity Council under Access and Benefit Sharing Mechanism",
@@ -1752,28 +1774,6 @@
    "subjects": [
     "Polity",
     "Environment"
-   ]
-  },
-  {
-   "id": "eb80a31004589beb",
-   "title": "IMD conducts Training Workshop on Cyclone and Marine Weather Warning Services for users",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321513",
-   "published": "2026-10-09T22:40:43Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "f9151ecaaefd7279",
-   "title": "Union Minister Shri Jyotiraditya M. Scindia Inaugurates Workshop on 5G Use Case Labs at IMC 2026; Highlights Role of Young Innovators in Advancing India’s 5G and 6G Vision",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321511",
-   "published": "2026-10-09T22:40:43Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
    ]
   }
  ],
