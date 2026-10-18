@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-18T11:09:58Z",
+ "updated": "2026-10-18T15:54:10Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,40 @@
   }
  ],
  "inbox": [
+  {
+   "id": "a67ad19bb6dad13f",
+   "title": "On October 20, 2026, Union Home Minister Shri Amit Shah will meet families of those who lost their lives —in Mansa, Sangrur and Gurdaspur— for speaking against 'chitta' (synthetic drug) traders in Punjab",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324965",
+   "published": "2026-10-18T15:54:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "383dd8b34a82ab3e",
+   "title": "Department of School Education and Literacy focuses on administrative efficiency, cleaner school campuses and responsible e-waste Management as part of Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324958",
+   "published": "2026-10-18T15:54:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "6e923ae18845ed32",
+   "title": "Special Campaign 6.0: Department of Posts Achieves Significant Progress in Grievance Redressal, Cleanliness, E-Waste Disposal and Space Management",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324940",
+   "published": "2026-10-18T15:54:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "S&T"
+   ]
+  },
   {
    "id": "5bb4487ff76eeb49",
    "title": "Dr. Abhilaksh Likhi, Union Secretary, Department of Fisheries, Visits Munsyari Coldwater Fisheries Cluster; Interacts with Trout Farmers and Reviews Cluster Development Initiatives",
@@ -1738,41 +1772,6 @@
    "subjects": [
     "Polity",
     "Environment"
-   ]
-  },
-  {
-   "id": "389bdbaa68c70f41",
-   "title": "Union Minister Dr. Mansukh Mandaviya to Declare Open BRICS Traditional and Indigenous Demonstration Games 2026 in Ahmedabad",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321660",
-   "published": "2026-10-10T12:35:41Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "ff08717670cfb0ab",
-   "title": "Next-Gen GST Process Reforms",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603",
-   "published": "2026-10-09T22:40:43Z",
-   "source": "PIB",
-   "machines": [
-    "M13"
-   ],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "a8226e84fd739e44",
-   "title": "PM chairs valedictory session of National Departmental Summit on Women and Child Development",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321595",
-   "published": "2026-10-09T22:40:43Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
    ]
   }
  ],
