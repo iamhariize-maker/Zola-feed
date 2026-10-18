@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-17T20:38:37Z",
+ "updated": "2026-10-18T11:09:58Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,39 @@
   }
  ],
  "inbox": [
+  {
+   "id": "5bb4487ff76eeb49",
+   "title": "Dr. Abhilaksh Likhi, Union Secretary, Department of Fisheries, Visits Munsyari Coldwater Fisheries Cluster; Interacts with Trout Farmers and Reviews Cluster Development Initiatives",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324891",
+   "published": "2026-10-18T11:09:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "c6e565dbc47ff8a2",
+   "title": "Raksha Mantri Shri Rajnath Singh to represent India at SCO Council of Heads of Government Meeting in Tajikistan",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324852",
+   "published": "2026-10-18T11:09:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "3865d45a271bbea6",
+   "title": "STPI Tech Conclave highlights AI's Potential in Healthcare & Assistive Technologies",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324850",
+   "published": "2026-10-18T11:09:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "6c5b63e2f7b9090b",
    "title": "AIIA Marks Its 10th Foundation Day with Two MoUs, Major Academic Publications and Digital Launches",
@@ -1740,40 +1773,6 @@
    "machines": [],
    "subjects": [
     "IR"
-   ]
-  },
-  {
-   "id": "aa16a010e869ee78",
-   "title": "Bharat 6G Alliance Strengthens Global Partnerships at 3rd International Bharat 6G Symposium 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321533",
-   "published": "2026-10-09T22:40:43Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "33bc2eb4047d2b1f",
-   "title": "Raksha Mantri Presents SIDM Champion Awards 2026 and Calls for Greater Private Sector Participation, R&D Investment and Enhanced Defence Production Capacity",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321523",
-   "published": "2026-10-09T22:40:43Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "f0a14a3209277616",
-   "title": "Files to Freedom: DEPwD Drives Swachhata, Pendency Reduction and Efficient Governance",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321518",
-   "published": "2026-10-09T22:40:43Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "Environment"
    ]
   }
  ],
