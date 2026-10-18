@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-18T15:54:10Z",
+ "updated": "2026-10-18T20:47:15Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,17 @@
   }
  ],
  "inbox": [
+  {
+   "id": "d376cc90b4ef60b0",
+   "title": "PRESIDENT OF INDIA’S GREETINGS ON DURGA PUJA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324975",
+   "published": "2026-10-18T20:47:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
   {
    "id": "a67ad19bb6dad13f",
    "title": "On October 20, 2026, Union Home Minister Shri Amit Shah will meet families of those who lost their lives —in Mansa, Sangrur and Gurdaspur— for speaking against 'chitta' (synthetic drug) traders in Punjab",
@@ -1760,18 +1771,6 @@
    "machines": [],
    "subjects": [
     "Polity"
-   ]
-  },
-  {
-   "id": "7440e2cb0b805c77",
-   "title": "Second Regional Review Conference on Implementation of the Forest Rights Act Held in Kolkata",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321667",
-   "published": "2026-10-10T12:35:41Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "Environment"
    ]
   }
  ],
