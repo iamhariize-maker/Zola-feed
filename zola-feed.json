@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-18T20:47:15Z",
+ "updated": "2026-10-19T13:21:45Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,73 @@
   }
  ],
  "inbox": [
+  {
+   "id": "af17eae8858aac90",
+   "title": "Adoption of Best Practices under Special Campaign 6.0: Conduction of Artificial Intelligence Workshop for senior officers of Ministry of Women & Child Development",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325194",
+   "published": "2026-10-19T13:21:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "43bac3d9ae9e64f4",
+   "title": "Special Swachhata Campaign 6.0 Records 3 Times More Cleanliness Campaign Sites and Earns ₹491.28 Crore in 17 days, Surpassing Special Campaign 5.0",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325142",
+   "published": "2026-10-19T13:21:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "c2b9695ccbdb65b1",
+   "title": "NHAI Introduces Toll Plaza Feedback Feature on Rajmargyatra App to Improve National Highway User Experience",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325131",
+   "published": "2026-10-19T13:21:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "1750a2335eaed65c",
+   "title": "Government to Stay Live on Mobile: Shri Shivraj Singh Chouhan Launches New Portal for Farmers",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325129",
+   "published": "2026-10-19T13:21:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "00e73f2f15216710",
+   "title": "DRI seizes 13 kg foreign-origin gold worth around Rs. 19.41 crore and dismantles a gold smuggling syndicate in Gujarat; three arrested",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325125",
+   "published": "2026-10-19T13:21:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "b6e2112cac2704d6",
+   "title": "Prime Minister congratulates Mona Agarwal on winning Gold and setting a new Asian Para Games Record",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325040",
+   "published": "2026-10-19T13:21:45Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "d376cc90b4ef60b0",
    "title": "PRESIDENT OF INDIA’S GREETINGS ON DURGA PUJA",
@@ -1704,73 +1771,6 @@
    "machines": [],
    "subjects": [
     "Environment"
-   ]
-  },
-  {
-   "id": "bc033f9da898c12c",
-   "title": "Vice-President Shri C. P. Radhakrishnan Visits Sainya Sampark Mela in Deoghar, Jharkhand",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321754",
-   "published": "2026-10-10T12:35:41Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "041c06e30b49bd4f",
-   "title": "Minister of State for Coal and Mines inaugurates Third National Conference and Exhibition on Corporate Social Responsibility (NCCSR 2026)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321729",
-   "published": "2026-10-10T12:35:41Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "0aedce2b283983d2",
-   "title": "Third National Conference and Exhibition on Corporate Social Responsibility (NCCSR 2026) concludes, calls for stronger governance, convergence and outcome-oriented CSR for Viksit Bharat",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321728",
-   "published": "2026-10-10T12:35:41Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "2adc2ee74c54e48a",
-   "title": "Dr. Jitendra Singh Urges Industry to Accelerate Commercialisation of Indian Innovation, Scale Up Capabilities for Strategic Sovereignty by 2047",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321723",
-   "published": "2026-10-10T12:35:41Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
-   ]
-  },
-  {
-   "id": "6e4486c0fe473114",
-   "title": "Vice-President Shri C. P. Radhakrishnan Addresses Second Convocation of AIIMS Deoghar",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321693",
-   "published": "2026-10-10T12:35:41Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "886a7ab2d47eb6ee",
-   "title": "The Indian Parliamentary Delegation, led by Shri Harivansh, Hon’ble Deputy Chairman, Rajya Sabha, continued its participation in the 153rd Inter-Parliamentary Union (IPU) Assembly in Arusha, Tanzania, on the fifth and final day of the Assembly, 9 October 2026.",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321679",
-   "published": "2026-10-10T12:35:41Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
    ]
   }
  ],
