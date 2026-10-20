@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-19T22:22:47Z",
+ "updated": "2026-10-20T11:41:53Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,28 @@
   }
  ],
  "inbox": [
+  {
+   "id": "2cfd6d9daa61361f",
+   "title": "India’s Nuclear Programme Dedicated to Peaceful Purposes, Says Union Minister Dr. Jitendra Singh; Nuclear Energy to Power AI-Driven Future",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325436",
+   "published": "2026-10-20T11:41:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "c2975b3ab722473b",
+   "title": "25th SCO Council of Heads of Government Meeting: Raksha Mantri calls for unified action to dismantle the entire ecosystem of terrorism",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325428",
+   "published": "2026-10-20T11:41:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
   {
    "id": "bb67d4dd7e60bd62",
    "title": "Prime Minister congratulates Soumya on winning Gold in Women’s 1500m T12/13 at Asian Para Games 2026",
@@ -1747,29 +1769,6 @@
    "source": "PIB",
    "machines": [],
    "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "28d740775fc36fdb",
-   "title": "Indian Railways Announces 3,548 Graduate-Level NTPC Vacancies, Opening New Career Opportunities for Aspiring Youth",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321873",
-   "published": "2026-10-11T05:50:34Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "0c0105bf734e38ef",
-   "title": "DRI cracks down on gold smuggling from Bangladesh in Eastern Region; seizes over 7.8 kg foreign-origin gold; six arrested",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321864",
-   "published": "2026-10-11T05:50:34Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
     "IR"
    ]
   }
