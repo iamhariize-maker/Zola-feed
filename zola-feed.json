@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-20T11:41:53Z",
+ "updated": "2026-10-20T17:11:05Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,61 @@
   }
  ],
  "inbox": [
+  {
+   "id": "8fb717be2c31b8b5",
+   "title": "Prime Minister congratulates Nishad Kumar on winning Gold at the Asian Para Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325619",
+   "published": "2026-10-20T17:11:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "c632b573170d9228",
+   "title": "Prime Minister congratulates Devender Kumar on winning Gold at the Asian Para Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325611",
+   "published": "2026-10-20T17:11:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "7361563b40ee2d75",
+   "title": "Prime Minister congratulates Pranav Soorma on winning Gold at the Asian Para Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325602",
+   "published": "2026-10-20T17:11:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "e0086afe91b92d6c",
+   "title": "Prime Minister congratulates Simran on winning Gold at the Asian Para Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325590",
+   "published": "2026-10-20T17:11:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "852fcf64e797e033",
+   "title": "Union Home Minister and Minister of Cooperation Shri Amit Shah participates in Vijayadashami festival in Ludhiana, Punjab, and performs burning of the symbolic Ravana of ‘Chitta’",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325520",
+   "published": "2026-10-20T17:11:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
   {
    "id": "2cfd6d9daa61361f",
    "title": "India’s Nuclear Programme Dedicated to Peaceful Purposes, Says Union Minister Dr. Jitendra Singh; Nuclear Energy to Power AI-Driven Future",
@@ -1715,61 +1770,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "721d694f8fcc482a",
-   "title": "English rendering of PM’s address during Golden Jubilee celebrations of Jaigopal Garodia Hindu Vidyalaya",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321998",
-   "published": "2026-10-11T22:00:26Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "20a4a4a612320817",
-   "title": "Department of Ex-Servicemen Welfare Intensifies Efforts under Special Campaign 6.0 to Institutionalise Swachhata and Reduce Pendency",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321988",
-   "published": "2026-10-11T12:54:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "99d4eae91344617f",
-   "title": "INDIAN NAVAL SHIP SAHYADRI ARRIVES AT VLADIVOSTOK, RUSSIA, FOR BILATERAL EXERCISE INDRA-2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321926",
-   "published": "2026-10-11T12:54:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "80026f70f4b7c08d",
-   "title": "Uttarakhand Delegation Interacts with Governor of West Bengal, Shri R. N. Ravi, during Yuva Sangam Phase VII Visit",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321918",
-   "published": "2026-10-11T12:54:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "635790f63b41a41f",
-   "title": "INS TRISHUL ARRIVES AT PLYMOUTH, UK FOR EXERCISE KONKAN 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321915",
-   "published": "2026-10-11T12:54:11Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
    ]
   }
  ],
