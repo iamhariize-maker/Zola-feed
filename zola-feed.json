@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-20T17:11:05Z",
+ "updated": "2026-10-21T11:53:14Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,122 @@
   }
  ],
  "inbox": [
+  {
+   "id": "39ed46a794c04ec3",
+   "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326043",
+   "published": "2026-10-21T11:53:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "b3f44db5708b04d7",
+   "title": "PROVISIONAL INDEX OF CORE INDUSTRIES FOR THE MONTH OF SEPTEMBER 2026, AND FINAL INDEX FOR THE MONTH OF AUGUST 2026 WITH BASE YEAR 2022-23",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326038",
+   "published": "2026-10-21T11:53:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "29465168fbc1d258",
+   "title": "Transforming Wastewater Treatment",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325989",
+   "published": "2026-10-21T11:53:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "627a3835170f12b3",
+   "title": "Union Minister joins Dr Jitendra Singh joins an e-waste disposal activity at DoPT under Special Campaign 6.0",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325966",
+   "published": "2026-10-21T11:53:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "d1ce52f7526ac21f",
+   "title": "PRESIDENT OF INDIA PRESENTS LALIT KALA AKADEMI AWARDS TO SELECTED ARTISTS OF THE 65TH NATIONAL EXHIBITION OF ART",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325915",
+   "published": "2026-10-21T11:53:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "265cb59cf9c98e84",
+   "title": "Law Commission of India to organise National Conference on ‘Co-operative Federalism and Law Reforms: National and State Perspectives’",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325856",
+   "published": "2026-10-21T11:53:14Z",
+   "source": "PIB",
+   "machines": [
+    "M23"
+   ],
+   "subjects": [
+    "Polity",
+    "Economy"
+   ]
+  },
+  {
+   "id": "13077ca29e6ef25a",
+   "title": "DARE/ICAR Undertakes Nearly 4,000 Cleanliness Drives under Swachhata Special Campaign 6.0",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325852",
+   "published": "2026-10-21T11:53:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "750a8a42314f52a9",
+   "title": "CCO's SUVIKALP Initiative Advances Sustainable Mine Repurposing, Receives SKOCH Gold Award 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325820",
+   "published": "2026-10-21T11:53:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "2fb722d818a27d69",
+   "title": "Prime Minister shares an article by Union Minister Shri Shivraj Singh Chouhan highlighting the role of technology and research in transforming agriculture and improving farmers' lives",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325772",
+   "published": "2026-10-21T11:53:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T",
+    "History"
+   ]
+  },
+  {
+   "id": "74490d63d0ec0f76",
+   "title": "Prime Minister shares an article by Union Ministers Shri Pralhad Joshi and Shri Shivraj Singh Chouhan highlighting the potential of agrivoltaics to boost farmers' incomes and advance rural prosperity",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325735",
+   "published": "2026-10-21T11:53:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "8fb717be2c31b8b5",
    "title": "Prime Minister congratulates Nishad Kumar on winning Gold at the Asian Para Games",
@@ -1657,119 +1773,6 @@
    "machines": [],
    "subjects": [
     "Environment"
-   ]
-  },
-  {
-   "id": "a59c1b2111737fa5",
-   "title": "Secretary (Power) holds Bilateral Meeting with the European Commission's Director General for Taxation and Customs Union- Mr. Gerassimos Thomas",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322456",
-   "published": "2026-10-12T15:30:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "fca7a16a8129f63e",
-   "title": "Union Minister Shri G. Kishan Reddy Launches Commercialisation Catalogue of Technologies Developed under Various Sponsored Programmes",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322448",
-   "published": "2026-10-12T15:30:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "b4b5ff01b0b90946",
-   "title": "From Seasonal Labour to Self-Reliance",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322429",
-   "published": "2026-10-12T15:30:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "f434383d1177a48d",
-   "title": "Union Environment Minister Inaugurates New Office Premises of International Big Cat Alliance",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322416",
-   "published": "2026-10-12T15:30:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "0e368302a60c60a1",
-   "title": "Commerce and Industry Minister Shri Piyush Goyal Calls for Doubling India-UK Bilateral Trade by 2030",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322389",
-   "published": "2026-10-12T15:30:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "69838e4aab9ef571",
-   "title": "“Indian Telecom Services Performance Indicator Report” for the Quarter April - June, 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322388",
-   "published": "2026-10-12T15:30:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "0dbb5dd900511d2b",
-   "title": "TDB-DST signs agreement with Peptris for ₹86 crore RDI support to accelerate AI-driven drug discovery and development",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322077",
-   "published": "2026-10-12T06:02:04Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "6d08b10d00d69fc2",
-   "title": "Coal stocks at power plants remain stable above 18 MT; depletion thins out in October 2026 as coal supplies strengthen",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322065",
-   "published": "2026-10-12T06:02:04Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "4647b0a4a17b7c5a",
-   "title": "DRI seizes around 5.8 kg foreign-origin gold worth Rs. 9 crores from a secret cavity in car, uncovering a sophisticated gold smuggling modus operandi; two arrested",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322059",
-   "published": "2026-10-11T22:00:26Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "e47a12083e73291b",
-   "title": "Prime Minister Shri Narendra Modi participates in golden jubilee celebrations of Jaigopal Garodia Hindu Vidyalaya Matriculation Higher Secondary School, Chennai, Tamil Nadu",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322003",
-   "published": "2026-10-11T22:00:26Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
