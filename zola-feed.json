@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-21T17:14:50Z",
+ "updated": "2026-10-21T21:45:01Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,18 @@
   }
  ],
  "inbox": [
+  {
+   "id": "22a807db33ec4d26",
+   "title": "33rd EDITION OF SINGAPORE-INDIA MARITIME BILATERAL EXERCISE (SIMBEX-2026) COMMENCES AT VISAKHAPATNAM",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326348",
+   "published": "2026-10-21T21:45:01Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
   {
    "id": "dff51d08c16ff502",
    "title": "INDIAN AIR FORCE ENGAGES INDUSTRY OUTREACH PROGRAMME ON UNMANNED AND AUTONOMOUS SYSTEMS ROADMAP ON 21 OCT 26",
@@ -1761,17 +1773,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "2571977eae67ec5d",
-   "title": "President Appoints Two Judicial Officers as Additional Judges of Madras High Court",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322855",
-   "published": "2026-10-13T14:15:27Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
    ]
   }
  ],
