@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-21T11:53:14Z",
+ "updated": "2026-10-21T17:14:50Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,84 @@
   }
  ],
  "inbox": [
+  {
+   "id": "dff51d08c16ff502",
+   "title": "INDIAN AIR FORCE ENGAGES INDUSTRY OUTREACH PROGRAMME ON UNMANNED AND AUTONOMOUS SYSTEMS ROADMAP ON 21 OCT 26",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326184",
+   "published": "2026-10-21T17:14:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "e84e53a32df5de3c",
+   "title": "Prime Minister congratulates Simran on winning Gold at the Asian Para Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326163",
+   "published": "2026-10-21T17:14:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "f744fd5f5c6ff963",
+   "title": "“Solar panels above, thriving crops below”: Union Minister Shri Shivraj Singh Chouhan inaugurates the 7th AgriVoltaics World Conference at Bharat Mandapam",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326152",
+   "published": "2026-10-21T17:14:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "d22848cd60ac8f3d",
+   "title": "CAQM holds meeting with Delhi Government agencies to review Dust Pollution issues and strengthen Air Pollution Mitigation",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326148",
+   "published": "2026-10-21T17:14:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "c82a32772a6ae0b1",
+   "title": "National Institute for Micro, Small and Medium Enterprises (ni-msme) strengthens MSMEs through Capacity Building, Entrepreneurship Development and Digital Empowerment",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326147",
+   "published": "2026-10-21T17:14:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
+  {
+   "id": "4216938170163351",
+   "title": "Prime Minister congratulates Dilip Gavit on winning Gold at the Asian Para Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326138",
+   "published": "2026-10-21T17:14:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "21983d5e5d392fd7",
+   "title": "CAQM invokes Stage-I of GRAP in Delhi-NCR with immediate effect amid sharp rise in AQI",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326133",
+   "published": "2026-10-21T17:14:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "39ed46a794c04ec3",
    "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
@@ -1694,85 +1772,6 @@
    "machines": [],
    "subjects": [
     "Polity"
-   ]
-  },
-  {
-   "id": "ca33d128fb7a04fb",
-   "title": "PM GatiShakti National Master Plan completes five years of transforming India’s infrastructure landscape",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322825",
-   "published": "2026-10-13T14:15:27Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "535c24e6d4221ce7",
-   "title": "Union Minister Shri Rajiv Ranjan Singh alias Lalan Singh Launches DBIM-Compliant DAHD Website to Strengthen Digital Governance",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322814",
-   "published": "2026-10-13T14:15:27Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "S&T"
-   ]
-  },
-  {
-   "id": "0ba81bd3b685e400",
-   "title": "Union Minister Shri Rajiv Ranjan Singh alias Lalan Singh, Holds Bilateral Talks with UK Secretary of State Dame Angela Eagle to Deepen Cooperation in Animal Husbandry and Allied Sectors",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322561",
-   "published": "2026-10-13T00:43:29Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "f9c94daf803b2cf7",
-   "title": "IMD Dedicates Cyclone Warning and Marine Weather Services Decision Support System to the Nation on 12th October, 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322562",
-   "published": "2026-10-13T00:43:29Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "2837823fea7f06bb",
-   "title": "Ministry of MSME Concludes ‘Swachhata Hi Seva 2026’ Campaign with Nationwide Cleanliness and Awareness Initiatives",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322497",
-   "published": "2026-10-12T15:30:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment"
-   ]
-  },
-  {
-   "id": "03d3c45adf9bccbd",
-   "title": "Union Finance Minister Smt. Nirmala Sitharaman concludes successful visit to Singapore, focusing on strengthening investment and financial cooperation",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322491",
-   "published": "2026-10-12T15:30:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "2ee4f75b20d84fcd",
-   "title": "CAQM reviews Zone-wise Preparedness of all 12 MCD Zones for Road Dust Mitigation and Deep Cleaning of Roads in Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322460",
-   "published": "2026-10-12T15:30:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
    ]
   }
  ],
