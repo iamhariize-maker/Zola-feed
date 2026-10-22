@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-22T11:56:49Z",
+ "updated": "2026-10-22T17:13:09Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,117 @@
   }
  ],
  "inbox": [
+  {
+   "id": "e25c20dd3af1feac",
+   "title": "Governor of Uttarakhand meets the Prime Minister",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327040",
+   "published": "2026-10-22T17:13:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "35d431c5cec2586d",
+   "title": "Prime Minister Shri Narendra Modi addresses the NDTV World Summit 2026 in New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327006",
+   "published": "2026-10-22T17:13:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "a10fe2bf65241be2",
+   "title": "Prime Minister congratulates Solairaj Dharmaraj on winning Gold at the Asian Para Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327003",
+   "published": "2026-10-22T17:13:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "39bb61a71bdddfe9",
+   "title": "Shri Shivraj Singh Chouhan Interacts with Farmers at Kisan Chaupal in Haryana’s Karnal, Calls for Balanced Fertiliser Use and Natural Farming",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326997",
+   "published": "2026-10-22T17:13:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "546c91b852bcc1b2",
+   "title": "Prime Minister congratulates Dilip on winning Gold at the Asian Para Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326994",
+   "published": "2026-10-22T17:13:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "2fd5c33bd25d2c49",
+   "title": "English rendering of PM's address in NDTV World Summit",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326985",
+   "published": "2026-10-22T17:13:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "cce7e73a0411c3cf",
+   "title": "IICA signs MoU with Association of ARCs in India to strengthen industry linkages with its flagship programme",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326896",
+   "published": "2026-10-22T17:13:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "932b8c45d80cbbcc",
+   "title": "CCI approves acquisition by Integrace Private Ltd of share capital of Universal Nutriscience and certain related transaction",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326894",
+   "published": "2026-10-22T17:13:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "7efaf5885f7d85f0",
+   "title": "Tripartite MoU signed to strengthen livelihood opportunities for Scheduled Tribe youth",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326841",
+   "published": "2026-10-22T17:13:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "f25bd797bdabb8c5",
+   "title": "CAQM Reviews Air Pollution Control Measures in Punjab and Haryana, Calls for Prompt Ground-Level Action",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326828",
+   "published": "2026-10-22T17:13:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "d0f4df384125acfd",
    "title": "“Strong States Contribute to a Strong Union; Cooperative Governance Transforms Constitutional Ideals into Public Good”: Vice-President",
@@ -1662,121 +1773,6 @@
    "machines": [],
    "subjects": [
     "S&T"
-   ]
-  },
-  {
-   "id": "6377558c9a23b8a9",
-   "title": "As A Follow-Up to The Departmental Summit on Water 2026, Department Of Drinking Water and Sanitation Organised Virtual Conference On Convergence Of JJM 2.0 With VB-G RAM G For Source Sustainability And Gram Panchayat-Led Water Governance",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323274",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
-   ]
-  },
-  {
-   "id": "04fdd4624a8050f8",
-   "title": "Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323268",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "Economy"
-   ]
-  },
-  {
-   "id": "6c95cd1640b9fd5c",
-   "title": "Cabinet approves continuation of the National Social Assistance Programme for five years from 2026-27 to 2030-31",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323266",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "70744499860f8046",
-   "title": "DRI busts illegal import of more than 73,00,000 kg of Pakistan-origin rock salt; four arrested",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323269",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "3578131c1db33f19",
-   "title": "Cabinet approves continuation of the National Social Assistance Programme for five years from 2026-27 to 2030-31",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323264",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "5465bc9307c6aef8",
-   "title": "Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323256",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "Economy"
-   ]
-  },
-  {
-   "id": "b5f1f30ce45742a1",
-   "title": "Ministry of Minority Affairs undertakes Special Campaign 6.0 to strengthen swachhata, efficiency and workplace management",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323246",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "5d1ee95559570f5e",
-   "title": "Former UK Prime Minister Rishi Sunak meets Prime Minister Shri Narendra Modi at Bloomberg New Economy Forum",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323023",
-   "published": "2026-10-13T22:47:19Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "246877d6220f2eae",
-   "title": "Union Minister Jyotiraditya Scindia Inaugurates North East Bankers’ Conclave 3.0 in Mizoram, Calls for Greater Credit Flow to Region",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323021",
-   "published": "2026-10-13T22:47:19Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "45ad6e6b3c92c6aa",
-   "title": "Union Agriculture Minister Shri Shivraj Singh Chouhan and Environment Minister Shri Bhupender Yadav conduct joint review of stubble management",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322991",
-   "published": "2026-10-13T22:47:19Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment",
-    "History"
    ]
   }
  ],
