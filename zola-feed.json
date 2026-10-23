@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-22T17:13:09Z",
+ "updated": "2026-10-23T11:42:40Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,151 @@
   }
  ],
  "inbox": [
+  {
+   "id": "adce280c3ce10fee",
+   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Holds High-Level Economic Engagements in Berlin to Strengthen India–Germany Trade and Investment Ties",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327429",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "eaef9cfe398457cf",
+   "title": "ARI promotes scientific waste management and sustainable gardening under swachhata special campaign 6.0",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327414",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "48d56f753114b558",
+   "title": "INS TRISHUL CONCLUDES PORT CALL AT LISBON, PORTUGAL",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327413",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "9a27786bcf28ab61",
+   "title": "PRESIDENT OF INDIA GRACES PUBLIC PROGRAMME AT JAGDALPUR, CHHATTISGARH ON THE OCCASION OF BASTAR DUSSEHRA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327376",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "a25020fc8b5d7e2a",
+   "title": "NHAI Issues Guidelines for Upgradation, Maintenance and Smart Monitoring of Toilet Facilities & Parking at National Highway Toll Plazas",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327363",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "38c4af7d6c87c7b8",
+   "title": "CONCLUSION OF INDIA-RUSSIA BILATERAL NAVAL EXERCISE (INDRA 2026)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327353",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "aa474e4b9e8d097c",
+   "title": "ICAR-CIRCOT Signs MoU for Technology Transfer of Protective Gloves for Cotton Picking Workers",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327349",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T",
+    "IR"
+   ]
+  },
+  {
+   "id": "69b51ab3c0b9962a",
+   "title": "Fisheries Investors & Exporters Conclave 2026 to Boost Investment, Value Addition and Exports from Inland Fisheries",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327340",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "747ac35e5b73883b",
+   "title": "Capacity Building Commission was conceptualised by PM Narendra Modi ji who had initiated a series of governance reforms soon after he took over in 2014, says Union Minister Dr Jitendra Singh",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327336",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "931e9c54c4ea4660",
+   "title": "202nd Victory Celebration and Birth Anniversary of Rani Chennamma Celebrated with Grandeur at Prerana Sthal, Parliament Premises",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327334",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "650a4f76868aeb23",
+   "title": "Centre for Development of Telematics (C-DOT) Establishes Sixth Centre of Excellence (CoE) At IIT (BHU), Varanasi to Advance Next-Generation Telecom Technologies",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327317",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "3ddde22cfac739fa",
+   "title": "Special Campaign 6: Achievements of Department of Water Resources, River Development & Ganga Rejuvenation",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327287",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "6ba408dae46cc580",
+   "title": "C-DAC and Bank of India Join Hands to Advance Indigenous Quantum Technologies for Banking Applications",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327274",
+   "published": "2026-10-23T11:42:40Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
   {
    "id": "e25c20dd3af1feac",
    "title": "Governor of Uttarakhand meets the Prime Minister",
@@ -1621,154 +1766,6 @@
    "title": "CEA Brainstorming Event: Making Indian Power Sector AI Enabled (International Conference cum Exhibition)",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323545",
    "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "a0ebdb91be0944da",
-   "title": "Mahila Kisan Diwas 2026 to Be Celebrated at the National Level Tomorrow by the Department of Agriculture & Farmers Welfare",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323531",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "History"
-   ]
-  },
-  {
-   "id": "b71edb80d9a2c0af",
-   "title": "Foreign Minister of Canada calls on Prime Minister",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323495",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "d1770e8c370c7098",
-   "title": "Government Approves Strategic Restructuring of IDBI Bank Ltd.",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323468",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "0da3eec1df9115bf",
-   "title": "Quality Infrastructure, Clean Energy and Consumer Safety Take Centre Stage at the National Celebration of World Standards Day 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323467",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "72cdaea30f90e808",
-   "title": "Telecommunication Engineering Centre (TEC) Celebrates World Standards Day 2026 at TEC New Delhi, Highlighting India's Pivotal Role in Global Telecommunication Standardization",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323466",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "691ec61a7f5b6475",
-   "title": "Union Agriculture and Farmers’ Welfare and Rural Development Minister Shri Shivraj Singh Chouhan participates in the 10th National Convention of Agrivision in Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323461",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "History"
-   ]
-  },
-  {
-   "id": "b70a46d3e0e3c5a0",
-   "title": "29 nursing cadets of Batch IX of the College of Nursing, Army Hospital (Research & Referral) , Delhi Cantonment, were formally commissioned as Lieutenants into the Military Nursing Service (MNS) at the commissioning ceremony held at Army Hospital (R&R) on October 14, 2026. Commandant, Army Hospital ",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323375",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "f6371b8332689b61",
-   "title": "Swachhata Se Sabhyata Session Held At Department of Social Justice and Empowerment",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323350",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "217e685b766b1631",
-   "title": "Frequently Asked Questions (FAQs) on Strategic Restructuring of IDBI Bank Ltd.",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323320",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "c49f1defc117b201",
-   "title": "Government Approves Strategic Restructuring of IDBI Bank Ltd.",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323318",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "9b9defb45b04914b",
-   "title": "Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323313",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [
-    "M23"
-   ],
-   "subjects": [
-    "Polity",
-    "Economy"
-   ]
-  },
-  {
-   "id": "4c307013614ecbfd",
-   "title": "Ministry of Food Processing Industries observes Special Campaign 6 from 2nd to 31st October, 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323296",
-   "published": "2026-10-14T11:57:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "6b53aff85ec58f3b",
-   "title": "BHARAT TULIP Expands Market Access for Traditional Artisans Through Digital Platforms",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323277",
-   "published": "2026-10-14T11:57:10Z",
    "source": "PIB",
    "machines": [],
    "subjects": [
