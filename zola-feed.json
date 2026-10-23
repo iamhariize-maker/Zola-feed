@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-23T11:42:40Z",
+ "updated": "2026-10-23T17:11:09Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,95 @@
   }
  ],
  "inbox": [
+  {
+   "id": "67e5890803e0b7c3",
+   "title": "Prime Minister congratulates Pranav Soorma and Dharambir on winning Gold and Bronze at the Asian Para Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327739",
+   "published": "2026-10-23T17:11:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "749571c74942790b",
+   "title": "Prime Minister congratulates Thulasimathi Murugesan and Manasi Joshi on winning Gold at the Asian Para Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327730",
+   "published": "2026-10-23T17:11:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "06c9c2ae0af07658",
+   "title": "Prime Minister congratulates Mona Agarwal on winning Gold and setting a new World Record at the Asian Para Games",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327727",
+   "published": "2026-10-23T17:11:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "10396a1a11fac9b2",
+   "title": "Soliciting public opinion and stake holders input on Design of Network Architecture for the proposed Broadband Public Protection and Disaster Relief (BB-PPDR) System",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327670",
+   "published": "2026-10-23T17:11:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "0279a6c0498fe72c",
+   "title": "India's First Maritime NBFC SMFCL Scales up with Rs 5,107 Crs Disbursed, Aims for Rs 60,205 Crs by 2031",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327664",
+   "published": "2026-10-23T17:11:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "5c6e9abd00ae13ec",
+   "title": "Third Regional Review Conference on Forest Rights Act Implementation Held in Srinagar",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327660",
+   "published": "2026-10-23T17:11:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "Environment"
+   ]
+  },
+  {
+   "id": "57a02c6eac42ac1a",
+   "title": "Union Minister for Railways and Chief Minister of Madhya Pradesh to Inaugurate Satna–Devendra Nagar (53 km) and Rewa–Churhat (65 km) Rail Sections Tomorrow",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327658",
+   "published": "2026-10-23T17:11:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "1d19e50adc8ad9f2",
+   "title": "Legislative Department Reviews Office Cleanliness and Pendency under Special Campaign 6 to Promote Swachhata",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327640",
+   "published": "2026-10-23T17:11:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "adce280c3ce10fee",
    "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Holds High-Level Economic Engagements in Berlin to Strengthen India–Germany Trade and Investment Ties",
@@ -1675,96 +1764,6 @@
    "id": "b97aa3b28785fdc6",
    "title": "NCISM Chairperson launches CCRAS SPARK 5.0 and CCRAS Ayurshodh 2026 to strengthen Ayurveda research and innovation",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323586",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "140b6c424ea77ec6",
-   "title": "Bharat’s civilisational journey had, for centuries, been a story of cultural exchange: Hon’ble Prime Minister",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323570",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "d8ce03fb64cdaf33",
-   "title": "ITRA, Jamnagar to Organise National Symposium ‘Ayutech Navonmesh 2026’ on Artificial Intelligence in Ayurveda",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323568",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "30e2eecdc7e8639b",
-   "title": "KAUMARACON 2026 to Begin at AIIA, New Delhi, on October 15; Vice-President to Address International Ayurveda Paediatrics Conference",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323564",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "25332767d8899cc1",
-   "title": "India and Brunei Darussalam Review Bilateral Trade and Economic Cooperation at Third Joint Trade Committee Meeting",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323562",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "76715d1342b5431c",
-   "title": "Close defence-academia-industry collaboration key to accelerating development & adoption of indigenous tech amid evolving nature of warfare: Raksha Mantri",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323554",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "fb9558fafbae29e5",
-   "title": "India Strengthens Science and Technology Partnerships with Global South through Inaugural Ministry of External Affairs–CSIR Tech Familiarization Programme",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323546",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T",
-    "IR"
-   ]
-  },
-  {
-   "id": "3baa03ec44994287",
-   "title": "Defence Accounts Department Organises Shramdaan under ‘Swachhata Hi Seva’ Campaign",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323543",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "4024dd2b3d89cb8c",
-   "title": "CEA Brainstorming Event: Making Indian Power Sector AI Enabled (International Conference cum Exhibition)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323545",
    "published": "2026-10-14T17:13:48Z",
    "source": "PIB",
    "machines": [],
