@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-23T17:11:09Z",
+ "updated": "2026-10-24T11:05:30Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,53 @@
   }
  ],
  "inbox": [
+  {
+   "id": "07d1d86b61f2e170",
+   "title": "Union Minister Dr Jitendra Singh inaugurates World's first- of -its-kind 'Air Pollution Analysis' facility for Delhi NCR",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327957",
+   "published": "2026-10-24T11:05:30Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "2fcc53bbd7e44e56",
+   "title": "Two-Day State-Level ‘Shram Samvad’ Programme on Labour Codes, Labour Welfare and Social Protection to begin in Lucknow on 26th October",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327906",
+   "published": "2026-10-24T11:05:30Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "3320d8f82b0c3e3d",
+   "title": "11 Crore Farmer IDs Created Five Months Ahead of Schedule, Marking Major Milestone in Digital Agriculture: Shri Shivraj Singh Chouhan",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327905",
+   "published": "2026-10-24T11:05:30Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T",
+    "History"
+   ]
+  },
+  {
+   "id": "5fb52e75f1c66e22",
+   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Holds Meetings with German Industry Leaders and Research Institutions in Berlin",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327842",
+   "published": "2026-10-24T11:05:30Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
   {
    "id": "67e5890803e0b7c3",
    "title": "Prime Minister congratulates Pranav Soorma and Dharambir on winning Gold and Bronze at the Asian Para Games",
@@ -1723,51 +1770,6 @@
    "machines": [],
    "subjects": [
     "Economy",
-    "S&T"
-   ]
-  },
-  {
-   "id": "f1f3ed0df5d882ee",
-   "title": "National Conference on e-Governance Reforms to be held in Dharamshala on 16–17 October 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323796",
-   "published": "2026-10-15T11:33:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "5354deda4776bf51",
-   "title": "Curtain-raiser for ESTIC 2026 underline importance of Autonomous Systems, Physical AI and Robotics",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323783",
-   "published": "2026-10-15T11:33:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
-   ]
-  },
-  {
-   "id": "b257b5669b85cb2e",
-   "title": "From Skilling to Sustainable Employment: Captive Employer CXO Meet to mobilise industry partners to the DDU-GKY 2.0 held at Jaipur",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323651",
-   "published": "2026-10-15T04:43:32Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "b97aa3b28785fdc6",
-   "title": "NCISM Chairperson launches CCRAS SPARK 5.0 and CCRAS Ayurshodh 2026 to strengthen Ayurveda research and innovation",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323586",
-   "published": "2026-10-14T17:13:48Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
     "S&T"
    ]
   }
