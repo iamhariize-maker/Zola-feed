@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-24T11:05:30Z",
+ "updated": "2026-10-24T15:59:32Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,50 @@
   }
  ],
  "inbox": [
+  {
+   "id": "9d23944382bbe00c",
+   "title": "Digital India BHASHINI Division Showcases Multilingual AI Solutions for Accessible Research at ETD-2026, IIT Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328087",
+   "published": "2026-10-24T15:59:32Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "e900d066ac4783b3",
+   "title": "NICDC Advances Industrial Development in Bihar with Launch of Bihar Integrated Manufacturing City Gaya Limited",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328067",
+   "published": "2026-10-24T15:59:32Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "4b542e19bea00b46",
+   "title": "CAQM reviews Paddy Stubble Management measures in Amritsar and Tarn Taran",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328041",
+   "published": "2026-10-24T15:59:32Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "6fe03cec2f776644",
+   "title": "INDIAN NAVY’S FLAGSHIP EVENT SWAVLAMBAN 2026 TO FOCUS ON EMERGING TECHNOLOGIES AND INDIGENOUS DEFENCE CAPABILITIES",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328089",
+   "published": "2026-10-24T15:59:32Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "07d1d86b61f2e170",
    "title": "Union Minister Dr Jitendra Singh inaugurates World's first- of -its-kind 'Air Pollution Analysis' facility for Delhi NCR",
@@ -1726,51 +1770,6 @@
    "subjects": [
     "Economy",
     "Environment"
-   ]
-  },
-  {
-   "id": "832d14afb2b4db35",
-   "title": "Press Note on Periodic Labour Force Survey (PLFS) Monthly Bulletin September 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828",
-   "published": "2026-10-15T11:33:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "2cbe93ceedbaa14b",
-   "title": "MoD inks Rs 4,106 crore contracts for GSAT-7C communication satellite and Varunastra Heavy Weight Torpedoes",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323814",
-   "published": "2026-10-15T11:33:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "ccb26e9a410b7d5d",
-   "title": "PRESIDENT OF INDIA GRACES THE NATIONAL SARAS MELA IN VIJAYAWADA",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323813",
-   "published": "2026-10-15T11:33:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "1d74daeb7f9ab1bf",
-   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Calls on Youth to Drive India’s AI Journey",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323810",
-   "published": "2026-10-15T11:33:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
    ]
   }
  ],
