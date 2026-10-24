@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-24T15:59:32Z",
+ "updated": "2026-10-24T20:52:27Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,19 @@
   }
  ],
  "inbox": [
+  {
+   "id": "570d99004f482af9",
+   "title": "Agricultural Biological Resources generate around ₹1.04 Crore in ABS Benefits for Biodiversity Initiatives across India",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328118",
+   "published": "2026-10-24T20:52:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "Environment",
+    "History"
+   ]
+  },
   {
    "id": "9d23944382bbe00c",
    "title": "Digital India BHASHINI Division Showcases Multilingual AI Solutions for Accessible Research at ETD-2026, IIT Delhi",
@@ -1758,18 +1771,6 @@
    "machines": [],
    "subjects": [
     "IR"
-   ]
-  },
-  {
-   "id": "a50c028702dba059",
-   "title": "Ministry of Coal Accelerates Cleanliness And E- Waste Management efforts Under Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323855",
-   "published": "2026-10-15T11:33:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment"
    ]
   }
  ],
