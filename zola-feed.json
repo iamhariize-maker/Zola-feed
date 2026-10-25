@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-24T20:52:27Z",
+ "updated": "2026-10-25T11:34:54Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,51 @@
   }
  ],
  "inbox": [
+  {
+   "id": "a73c8d911d61e045",
+   "title": "Vice-President Shri C. P. Radhakrishnan to Visit Andhra Pradesh on October 26–27",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328201",
+   "published": "2026-10-25T11:34:54Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "a922ead48d28f3a1",
+   "title": "12TH BRICS PARLIAMENTARY FORUM TO BE INAUGURATED TOMORROW IN PARLIAMENT HOUSE COMPLEX",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328196",
+   "published": "2026-10-25T11:34:54Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "IR"
+   ]
+  },
+  {
+   "id": "1a97e544d56c6143",
+   "title": "National Urban Conclave 2026 concludes with actionable recommendations to strengthen urban governance, planning and service delivery towards Viksit Bharat 2047",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328185",
+   "published": "2026-10-25T11:34:54Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "5633253ec92b8aac",
+   "title": "Ministry of New & Renewable Energy Actively Implementing Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328141",
+   "published": "2026-10-25T11:34:54Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "570d99004f482af9",
    "title": "Agricultural Biological Resources generate around ₹1.04 Crore in ABS Benefits for Biodiversity Initiatives across India",
@@ -1727,50 +1772,6 @@
    "subjects": [
     "Polity",
     "S&T"
-   ]
-  },
-  {
-   "id": "aea8b4adb0e170f9",
-   "title": "‘Swachhata se Samman, Har Varg ka Utthan’",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323996",
-   "published": "2026-10-15T17:03:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "f6ccc41d30f846d1",
-   "title": "CAQM conducts Inspection Drive in Gurugram to assess Road Dust and effectiveness of Road Cleaning and Sweeping Operations",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323901",
-   "published": "2026-10-15T11:33:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "584d4e05e73b15c3",
-   "title": "Vice-President to Visit Karnataka and Keralam on October 16",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323875",
-   "published": "2026-10-15T11:33:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "e6340be18575d99b",
-   "title": "India Must Move from Being a Global Content Market to a Creator of Globally Competitive Media and Entertainment Companies: Secretary, I&B, at CII Big Picture Summit 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323867",
-   "published": "2026-10-15T11:33:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
    ]
   }
  ],
