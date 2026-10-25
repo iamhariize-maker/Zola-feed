@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-25T11:34:54Z",
+ "updated": "2026-10-25T16:25:17Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,73 @@
   }
  ],
  "inbox": [
+  {
+   "id": "eddb9c8f3b46781c",
+   "title": "Prime Minister Shri Narendra Modi boosts morale of artisans by highlighting achievements of the Khadi and Village Industries sector in his ‘Mann Ki Baat’ programme",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328288",
+   "published": "2026-10-25T16:25:17Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "a4d38be1cf7f6aa3",
+   "title": "Sarbananda Sonowal to pitch India's Shipbuilding Opportunity to Korean Industry during Korea Visit",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328265",
+   "published": "2026-10-25T16:25:17Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "595bc76a651bc492",
+   "title": "Union Minister Piyush Goyal Holds Trade and Investment Talks in the Netherlands",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328254",
+   "published": "2026-10-25T16:25:17Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "a8be37274abb2830",
+   "title": "NIFTEM-K Hosts India’s First AI × Food Tech Hackathon, ‘Hack the Fork’",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328253",
+   "published": "2026-10-25T16:25:17Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "a9c783ad40b7580c",
+   "title": "Prime Minister Shri Narendra Modi inaugurates RBI’s newly established Data Centre and Cybersecurity Training Institute in Bhubaneswar, Odisha",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328250",
+   "published": "2026-10-25T16:25:17Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
+  {
+   "id": "b4805feb296b7bde",
+   "title": "English rendering of PM’s address during inauguration of RBI facilities in Bhubaneswar, Odisha",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328234",
+   "published": "2026-10-25T16:25:17Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "a73c8d911d61e045",
    "title": "Vice-President Shri C. P. Radhakrishnan to Visit Andhra Pradesh on October 26–27",
@@ -1704,74 +1771,6 @@
    "machines": [],
    "subjects": [
     "Environment"
-   ]
-  },
-  {
-   "id": "6db34fe06cc05cb7",
-   "title": "12th session of India – Japan Joint Working Group (JWG) on Roads and Road Transportation Sector",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324100",
-   "published": "2026-10-15T17:03:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "ddb4630206ff1be0",
-   "title": "DRI seizes around 6.2 kg foreign-origin gold; busts sophisticated gold smuggling modus operandi through unaccompanied baggage; three arrested",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324042",
-   "published": "2026-10-15T17:03:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "77cf1b2699873458",
-   "title": "Central Bureau of Narcotics (CBN) U.P. Unit holds public hearing to address grievances of opium cultivators",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324039",
-   "published": "2026-10-15T17:03:57Z",
-   "source": "PIB",
-   "machines": [
-    "M18"
-   ],
-   "subjects": []
-  },
-  {
-   "id": "355420c166b3be13",
-   "title": "Directorate of Revenue Intelligence (DRI) and Central Bureau of Narcotics (CBN) destroy 2.87 Hectares (7.08 Acres) of illicit cannabis (ganja) cultivation in wildlife sanctuary, District Dhule, Maharashtra",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324037",
-   "published": "2026-10-15T17:03:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "321bd38bd5abb5f0",
-   "title": "Union Commerce and Industry Minister Shri Piyush Goyal Launches National Strategic Trade Command Centre at Vanijya Bhawan",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324013",
-   "published": "2026-10-15T17:03:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "7b03f58599710a53",
-   "title": "Vice-President inaugurates KAUMARACON-2026 and launches digital initiatives of the All India Institute of Ayurveda",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323997",
-   "published": "2026-10-15T17:03:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "S&T"
    ]
   }
  ],
