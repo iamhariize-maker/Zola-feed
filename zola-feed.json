@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-26T04:50:58Z",
+ "updated": "2026-10-26T13:07:50Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,86 @@
   }
  ],
  "inbox": [
+  {
+   "id": "6856664387821f1a",
+   "title": "Hon’ble Deputy Chairman, Rajya Sabha, Shri Harivansh Delivers Welcome Address at the Inaugural Session of 12th BRICS Parliamentary Forum in Central Hall, Parliament of India, New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328640",
+   "published": "2026-10-26T13:07:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "IR"
+   ]
+  },
+  {
+   "id": "88cd84553f57b4fa",
+   "title": "Dr. Jitendra Singh reviews Special Swachhata Campaign at Loknayak Bhavan premises, Department of Pensions & Pensioners' Welfare offices; Felicitates 'Safai' staff",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328582",
+   "published": "2026-10-26T13:07:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "1c3352e0352ed89e",
+   "title": "CBIC actively implements Special Campaign 6 for institutionalising Swachhata and administrative efficiency",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328576",
+   "published": "2026-10-26T13:07:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "8da509dbf8656bc6",
+   "title": "Ministry of Ports, Shipping and Waterways Strengthens Swachhata Drives and Promotes Good Governance under Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328543",
+   "published": "2026-10-26T13:07:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "Economy",
+    "Environment"
+   ]
+  },
+  {
+   "id": "27379b49c24aa23d",
+   "title": "Ministry of Coal CPSEs Achieve Major Milestones under Special Campaign 6, Clean 130.16 Lakh Sq. Ft. Area and Generate ₹53.94 Crore from Scrap Disposal",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328508",
+   "published": "2026-10-26T13:07:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "d03e50df53c7fb18",
+   "title": "Ministry of New & Renewable Energy Reviews Progress of Swachhata and File Disposal under Special Campaign 6.0",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328501",
+   "published": "2026-10-26T13:07:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "e0c86bd5cbc8d57b",
+   "title": "Monthly Flash Report on Central Sector Infrastructure Projects tracks 1,853 Infrastructure Projects worth ₹37.56 lakh crore as of September 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328472",
+   "published": "2026-10-26T13:07:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "c5854ee82959feb3",
    "title": "Prime Minister extends greetings on the occasion of Maharishi Valmiki Jayanti",
@@ -1694,83 +1774,6 @@
    "machines": [],
    "subjects": [
     "Polity"
-   ]
-  },
-  {
-   "id": "68e7404ec04c3839",
-   "title": "TDB-DST signs agreement with QNu Labs for ₹150 crore RDI support to strengthen India’s indigenous quantum-secure technology ecosystem",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324307",
-   "published": "2026-10-16T11:28:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "1c3db165748940db",
-   "title": "Ayush Innovation Sees Eightfold Rise in Patent Filings",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324293",
-   "published": "2026-10-16T11:28:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "42476ed37bdc3089",
-   "title": "BHASHINI and IISc Bangaluru : Text-to-Speech Model for Sourashtra Language",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324289",
-   "published": "2026-10-16T11:28:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "a564d6227bd34ad2",
-   "title": "Legislative Department, Ministry of Law & Justice organises workshop on E-Waste Disposal under Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324151",
-   "published": "2026-10-15T17:03:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "9fefb9e719401f66",
-   "title": "Union Minister of Culture and Tourism Shri Gajendra Singh Shekhawat Inaugurates ‘TAKSHANAM’, An Exhibition Bringing Together 150 Artists and Over 250 Sculptures at NGMA",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324150",
-   "published": "2026-10-15T17:03:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "f883b6890b48fff4",
-   "title": "Union Minister for Finance & Corporate Affairs Smt. Nirmala Sitharaman participates in the 114th meeting of the Development Committee Plenary of the World Bank in Bangkok, Thailand, today",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324148",
-   "published": "2026-10-15T17:03:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "b715867580b4fa4b",
-   "title": "National Workshop held on “Strengthening Digital Data Systems and Evidence-Based Learning” under Deendayal Antyodaya Yojana-National Rural Livelihood Mission at Gurugram, Haryana on 12th and 13th October, 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324135",
-   "published": "2026-10-15T17:03:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
    ]
   }
  ],
