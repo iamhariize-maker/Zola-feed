@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-26T13:07:50Z",
+ "updated": "2026-10-26T22:42:15Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,108 @@
   }
  ],
  "inbox": [
+  {
+   "id": "3aa4e56933a57aea",
+   "title": "LOK SABHA SPEAKER URGES BRICS PARLIAMENTS TO CHAMPION ETHICAL, RESPONSIBLE, AND TRANSPARENT TECHNOLOGY WITH PARAMOUNT HUMAN OVERSIGHT",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328772",
+   "published": "2026-10-26T22:42:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "S&T",
+    "IR"
+   ]
+  },
+  {
+   "id": "cf4c1d9d1be20f99",
+   "title": "Governor of Telangana Shri Shiv Pratap Shukla meets the Prime Minister",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328731",
+   "published": "2026-10-26T22:42:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "e7c07e3b8b54b5fd",
+   "title": "Prime Minister interacts with MPs from BRICS nations during the 12th BRICS Parliamentary Forum in New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328729",
+   "published": "2026-10-26T22:42:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "IR"
+   ]
+  },
+  {
+   "id": "f6a325f45f768092",
+   "title": "Sarbananda Sonowal Woos Korean Firms for India's Shipyards, Seeks Global Shipping Rules All Can Follow",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328701",
+   "published": "2026-10-26T22:42:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "85ad50d6ce38e40b",
+   "title": "Ministry of Women and Child Development reviews progress of Special Campaign 6 for Swachhata and Grievance Disposal",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328675",
+   "published": "2026-10-26T22:42:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "bd068b191ac87bdd",
+   "title": "SWACHHATA CAMPAIGN 6.0",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328668",
+   "published": "2026-10-26T22:42:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "0e28b50987a4847f",
+   "title": "PM to inaugurate Emerging Science, Technology and Innovation Conclave 2026 on 27 October",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328654",
+   "published": "2026-10-26T22:42:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "135046fdb1a91c70",
+   "title": "Railway Minister and Chief Minister of West Bengal Flag Off Jaipur (Khatipura) – Tatanagar – Santragachi Express Train",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328643",
+   "published": "2026-10-26T22:42:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "61912e4431ad2994",
+   "title": "Ministry of Road Transport and Highways (MoRTH) updates rules to facilitate E85/E100 flex fuel vehicles",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328642",
+   "published": "2026-10-26T22:42:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "6856664387821f1a",
    "title": "Hon’ble Deputy Chairman, Rajya Sabha, Shri Harivansh Delivers Welcome Address at the Inaugural Session of 12th BRICS Parliamentary Forum in Central Hall, Parliament of India, New Delhi",
@@ -1674,106 +1776,6 @@
    "machines": [],
    "subjects": [
     "Environment"
-   ]
-  },
-  {
-   "id": "2101b425675b39e5",
-   "title": "NHRC, India takes suo motu cognizance of the reported borewell water contamination due to seepage of chemical-laden factory effluents near Ambad Industrial Area in Nashik district, Maharashtra",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324434",
-   "published": "2026-10-16T16:41:51Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "3f46b65f1b9e3201",
-   "title": "NHAI Successfully Defends Arbitration Case in Chittorgarh–Udaipur National Highway Project to Safeguard Public Funds",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324416",
-   "published": "2026-10-16T16:41:51Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "2c410fc99cead472",
-   "title": "14th India-Mongolia Joint Working Group meeting reaffirms commitment to strengthening bilateral defence partnership",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324373",
-   "published": "2026-10-16T11:28:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "103c526cc70a034f",
-   "title": "Department of Health & Family Welfare Reviews Mid-Campaign Progress of Special Campaign 6; Focus on Swachhata, Disposal of Pending Matters and Efficient Record Management",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324371",
-   "published": "2026-10-16T11:28:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "13ecda9093a02621",
-   "title": "Quarterly release of Performance Monitoring Dashboard of Infrastructure Sector in India",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324355",
-   "published": "2026-10-16T11:28:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "8c79ba5936c22851",
-   "title": "Climate history finds monsoon fluctuation footprints from sediment transport to farming adaptations",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324336",
-   "published": "2026-10-16T11:28:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "5fda9c41b85940df",
-   "title": "SECL Strengthens Digital Governance and Service Delivery under Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324331",
-   "published": "2026-10-16T11:28:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "S&T"
-   ]
-  },
-  {
-   "id": "085c0ebf5287446b",
-   "title": "National Steering Committee Approves ₹1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324330",
-   "published": "2026-10-16T11:28:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "8a75c4e9824e1021",
-   "title": "Vice-President Shri C. P. Radhakrishnan Commissions Indian Navy’s First Indigenous Multi-Purpose Vessel INS Samarthak at Karwar",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324319",
-   "published": "2026-10-16T11:28:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
    ]
   }
  ],
