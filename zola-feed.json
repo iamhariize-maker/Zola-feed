@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-25T16:25:17Z",
+ "updated": "2026-10-26T04:50:58Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,17 @@
   }
  ],
  "inbox": [
+  {
+   "id": "c5854ee82959feb3",
+   "title": "Prime Minister extends greetings on the occasion of Maharishi Valmiki Jayanti",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328310",
+   "published": "2026-10-26T04:50:58Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
   {
    "id": "eddb9c8f3b46781c",
    "title": "Prime Minister Shri Narendra Modi boosts morale of artisans by highlighting achievements of the Khadi and Village Industries sector in his ‘Mann Ki Baat’ programme",
@@ -1760,17 +1771,6 @@
    "machines": [],
    "subjects": [
     "S&T"
-   ]
-  },
-  {
-   "id": "5d24518278ae7493",
-   "title": "India’s Ramsar Site tally reaches 103 with addition of Sukhna Wetland (Chandigarh) and Sauj Jheel (UP)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324120",
-   "published": "2026-10-15T17:03:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
    ]
   }
  ],
