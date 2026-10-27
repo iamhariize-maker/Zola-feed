@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-27T05:09:26Z",
+ "updated": "2026-10-27T12:16:10Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,156 @@
   }
  ],
  "inbox": [
+  {
+   "id": "86eac5b976ea9844",
+   "title": "Joint Declaration 12th BRICS Parliamentary Forum New Delhi, India 26-27 October 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329065",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "IR"
+   ]
+  },
+  {
+   "id": "2af3d7e6ccda9abb",
+   "title": "Chairman, Rajya Sabha, Shri C. P. Radhakrishnan Meets Russian Parliamentary Delegation Led by the Chairman of the State Duma",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329062",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "IR"
+   ]
+  },
+  {
+   "id": "70e053b3129ed086",
+   "title": "Chairman, Rajya Sabha, Shri C. P. Radhakrishnan Hosts Luncheon for Presiding Officers and Leaders of Delegations of BRICS Member and Partner Countries",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329057",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "IR"
+   ]
+  },
+  {
+   "id": "7941fe7c2f6f6d4b",
+   "title": "Deputy Chairman, Rajya Sabha, Shri Harivansh Addresses Plenary Session of 12th BRICS Parliamentary Forum in New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329052",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "IR"
+   ]
+  },
+  {
+   "id": "f7eafe0852f8e1be",
+   "title": "Minister of State for Commerce and Industry, Shri Jitin Prasada, Calls on Liechtenstein Deputy Prime Minister to Strengthen Bilateral Trade and Investment Ties",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329023",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "f79aa703ef1f0eb3",
+   "title": "India’s Genetic Diversity Could Make It a Global Destination for Gene Research: Dr. Jitendra Singh",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328989",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "7899ea131b3dd9fb",
+   "title": "FIRST TRAINING SQUADRON OF THE INDIAN NAVY ARRIVES AT COLOMBO, SRI LANKA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328986",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "bb55b668d794a074",
+   "title": "Shram Samvad - Two-Day State-Level Capacity-Building and Awareness Programme on Labour Codes, Labour Welfare and Social Protection Concludes in Lucknow",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328983",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "8fe31687da0fc1a0",
+   "title": "12TH BRICS PARLIAMENTARY FORUM CONCLUDES IN NEW DELHI, WITH ADOPTION OF A JOINT DECLARATION",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328977",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "IR"
+   ]
+  },
+  {
+   "id": "00716039d088e9d0",
+   "title": "Janjatiya Gaurav Diwas 2026: Nationwide Tribal Pride Celebration from Nov 1 to 15",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328976",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "4dcb83558eed5c9c",
+   "title": "PM Vishwakarma Artisans Showcase India’s Traditional Crafts at BRICS Cultural Bazar",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328975",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR",
+    "History"
+   ]
+  },
+  {
+   "id": "20fe5c8da643b366",
+   "title": "Ministry of Textiles Highlights Significant Achievements of Central Silk Board under Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328968",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "2dc37877e744ca00",
+   "title": "Special Campaign 6: Department of Telecommunications records notable achievements against campaign targets",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328964",
+   "published": "2026-10-27T12:16:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "d7b94c28aaff0cce",
    "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Holds High-Level Engagements in the Netherlands to Strengthen Bilateral Trade and Investment Ties",
@@ -1632,151 +1782,6 @@
    "subjects": [
     "Environment",
     "S&T"
-   ]
-  },
-  {
-   "id": "0b8eca2a7c55508e",
-   "title": "Vice-President Shri C. P. Radhakrishnan Expresses Grief over the Demise of Music Composer Deva",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324658",
-   "published": "2026-10-17T10:47:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "56f8bfc5202cba23",
-   "title": "FSSAI Proposes Science-Based Pesticide Residue Limits for Tea, Reaffirming Commitment to Consumer Safety",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324656",
-   "published": "2026-10-17T10:47:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "fa438f223920883d",
-   "title": "INAUGURATION OF PROJECT SEABIRD INFRASTRUCTURE BY VICE ADMIRAL SANJAY VATSAYAN, FOC-IN-C (WNC)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324655",
-   "published": "2026-10-17T10:47:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "c40503d76da9b4b8",
-   "title": "Union Environment Minister interacts with Start-ups to explore Affordable, Scalable, Technology-driven Solutions for Air Pollution in Delhi-NCR",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324638",
-   "published": "2026-10-17T10:47:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment",
-    "S&T"
-   ]
-  },
-  {
-   "id": "fe47b5d73bfda2f9",
-   "title": "Connecting Kashmir: Building the Infrastructure for Growth",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324629",
-   "published": "2026-10-17T10:47:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "76db8e98c905643d",
-   "title": "ITRA Jamnagar Hosts National Conference “Ayu-Tech Navonmesh 2026” on the Integration of Ayurveda and Artificial Intelligence",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324601",
-   "published": "2026-10-16T16:41:51Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "ee8b9e41677fa403",
-   "title": "CAQM expands PTZ Camera-based Remote Monitoring to all Industries covered under Direction No. 98 in NCR",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324557",
-   "published": "2026-10-16T16:41:51Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment"
-   ]
-  },
-  {
-   "id": "1baf80e7cce7b349",
-   "title": "CAQM team visits Punjab’s Moga District to review Enforcement Measures during Paddy Harvesting Season 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324555",
-   "published": "2026-10-16T16:41:51Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "6d3d9a64a65bd113",
-   "title": "Union Minister Ashwini Vaishnaw Meets Asian Games 2026 Gold Medal-Winning Indian Women’s Kabaddi Team at Rail Bhawan",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324508",
-   "published": "2026-10-16T16:41:51Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "20f33d3d43c0e495",
-   "title": "Vice-President Inaugurates Navaratri Sargotsavam 2026 in Kozhikode",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324497",
-   "published": "2026-10-16T16:41:51Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "253b6e2ebfd63f68",
-   "title": "Union Minister of Culture and Tourism Shri Gajendra Singh Shekhawat will confer the Ustad Bismillah Khan Yuva Puraskar for the years 2024 and 2025 on 19th October 2026 in New Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324489",
-   "published": "2026-10-16T16:41:51Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "e51068edcf9d11a5",
-   "title": "Two-day National Conference on e-Governance Reforms begins in Dharamshala",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324475",
-   "published": "2026-10-16T16:41:51Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "bc4d07a40b37b4bd",
-   "title": "PM-AJAY Drives Inclusive Development Through Adarsh Grams, Socio-Economic Projects and Educational Infrastructure",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324472",
-   "published": "2026-10-16T16:41:51Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
