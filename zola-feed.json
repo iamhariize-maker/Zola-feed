@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-27T12:16:10Z",
+ "updated": "2026-10-27T22:16:53Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,118 @@
   }
  ],
  "inbox": [
+  {
+   "id": "c76cdd133150207f",
+   "title": "Ministry of Civil Aviation reviews Cyclone \"Arnab\" situation and operational readiness",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329274",
+   "published": "2026-10-27T22:16:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "69c3e3089f509bfd",
+   "title": "PRESIDENT OF INDIA HOSTS HEREDITARY PRINCE ALOIS AND PRINCESS SOPHIE OF LIECHTENSTEIN",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329254",
+   "published": "2026-10-27T22:16:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "4191e40b6fa415cc",
+   "title": "29th Energy Technology Meet Inaugurated in Goa, Highlights Innovation and India’s Energy Security Priorities",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329238",
+   "published": "2026-10-27T22:16:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "845a4fb96b254579",
+   "title": "Union Commerce and Industry Minister Shri Piyush Goyal’s Netherlands Visit Strengthens India-Netherlands Trade and Investment Partnership",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329208",
+   "published": "2026-10-27T22:16:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "1c0329a3dee508be",
+   "title": "India widens its Maritime Partnerships in Busan, from Shipbuilding Supply Chains to Ship Recycling",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329195",
+   "published": "2026-10-27T22:16:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "5dac6a943edaf5bb",
+   "title": "Prime Minister Shri Narendra Modi inaugurates Emerging Science, Technology and Innovation Conclave 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329164",
+   "published": "2026-10-27T22:16:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "ed64a45418b29ec9",
+   "title": "Ministry of Culture signs MoU with Bibliothèque nationale de France to strengthen preservation of India’s manuscript heritage",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329163",
+   "published": "2026-10-27T22:16:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR",
+    "History"
+   ]
+  },
+  {
+   "id": "3fa80e78418ded9c",
+   "title": "English rendering of PM’s address during inauguration of the Emerging Science, Technology and Innovation Conclave 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329161",
+   "published": "2026-10-27T22:16:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "b310891cad305a65",
+   "title": "IGNCA and ASI to Launch Timeless India: Protection & Revival of Indian Cultural Identity",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329152",
+   "published": "2026-10-27T22:16:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "655288375cecf7f4",
+   "title": "CONCLUSION OF 33rd EDITION OF SINGAPORE-INDIA MARITIME BILATERAL EXERCISE (SIMBEX-2026)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329151",
+   "published": "2026-10-27T22:16:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
   {
    "id": "86eac5b976ea9844",
    "title": "Joint Declaration 12th BRICS Parliamentary Forum New Delhi, India 26-27 October 2026",
@@ -1668,119 +1780,6 @@
    "source": "PIB",
    "machines": [],
    "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "b2b85c6b1ea40e75",
-   "title": "EXERCISE KONKAN-26 CONCLUDES OFF PLYMOUTH, UK",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324800",
-   "published": "2026-10-17T20:38:37Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "553673c3649debe5",
-   "title": "NBA disburses Rs 1.19 Crore to 29 State Biodiversity Boards and one UT Biodiversity Council under Access and Benefit Sharing Mechanism",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324757",
-   "published": "2026-10-17T15:38:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "d625a4ddca2626dd",
-   "title": "CAQM reviews Paddy Stubble Management Measures in Firozpur and Faridkot; stresses Timely Availability of CRM Machinery and Farmer Facilitation",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324755",
-   "published": "2026-10-17T15:38:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment"
-   ]
-  },
-  {
-   "id": "a0ca0235594fd68e",
-   "title": "FIRST TRAINING SQUADRON DEPARTS SEYCHELLES, REINFORCING MARITIME COOPERATION",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324739",
-   "published": "2026-10-17T15:38:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "8d13df908387d6ad",
-   "title": "Department of Commerce Organises “Leveraging FTAs” Outreach Programme in Jaipur to Strengthen Export Opportunities",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324727",
-   "published": "2026-10-17T15:38:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "7226e8f7b8a56565",
-   "title": "CAQM reviews Compliance Status and Enforcement Actions across NCR; 124 inspections conducted from 25.09.2026 to 09.10.2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324707",
-   "published": "2026-10-17T15:38:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "e9a9988cae71d48e",
-   "title": "The Hon’ble Supreme Court of India had constituted a High Powered Enquiry Committee (HPEC) to enquire into all aspects of the incidents relating to violence at Jantar Mantar, Delhi, and at places outside Delhi, during the month of July 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324691",
-   "published": "2026-10-17T15:38:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "c6d1db3a73be55a9",
-   "title": "Ministry of Mines and Its Field Offices Actively Participated in Swachhata Hi Seva Campaign 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324685",
-   "published": "2026-10-17T15:38:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "2a23ac15bc4ba1bb",
-   "title": "India’s Space Economy to Reach USD 40-45 Billion in 7–8 Years; Dr Jitendra Singh underlines increasing Private Investments following Space Unlocking by PM Modi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324662",
-   "published": "2026-10-17T10:47:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
-   ]
-  },
-  {
-   "id": "0fabf5b20eda9578",
-   "title": "IITM Hosts First Stakeholder Consultation Meeting on Climate Science into Services for India Forum (CSSIF)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324660",
-   "published": "2026-10-17T10:47:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment",
     "S&T"
    ]
   }
