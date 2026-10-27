@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-26T22:42:15Z",
+ "updated": "2026-10-27T05:09:26Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,18 @@
   }
  ],
  "inbox": [
+  {
+   "id": "d7b94c28aaff0cce",
+   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Holds High-Level Engagements in the Netherlands to Strengthen Bilateral Trade and Investment Ties",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328791",
+   "published": "2026-10-27T05:09:26Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
   {
    "id": "3aa4e56933a57aea",
    "title": "LOK SABHA SPEAKER URGES BRICS PARLIAMENTS TO CHAMPION ETHICAL, RESPONSIBLE, AND TRANSPARENT TECHNOLOGY WITH PARAMOUNT HUMAN OVERSIGHT",
@@ -1765,17 +1777,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "7128588ec7d9b9ba",
-   "title": "DARE/ ICAR raises awareness of cleanliness in Swachhata Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324471",
-   "published": "2026-10-16T16:41:51Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
    ]
   }
  ],
