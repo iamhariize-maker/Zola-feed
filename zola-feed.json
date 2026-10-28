@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-27T22:16:53Z",
+ "updated": "2026-10-28T05:45:26Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,50 @@
   }
  ],
  "inbox": [
+  {
+   "id": "3c0aead8787fa7f3",
+   "title": "DRI seizes around 55,000 e-cigarettes worth more than Rs. 13.5 crore in two operations at Syama Prasad Mookerjee Port in Kolkata",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329318",
+   "published": "2026-10-28T05:45:26Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "e0ba5b209bcf72ca",
+   "title": "DRI busts wildlife smuggling racket at Trichy Airport; 45 live reptiles recovered; 2 arrested",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329316",
+   "published": "2026-10-28T05:45:26Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "32723e1ac838a898",
+   "title": "India and Mexico launch Negotiations for Preferential Trade Agreement, Sign Terms of Reference",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329303",
+   "published": "2026-10-28T05:45:26Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "045af8b3d520634b",
+   "title": "Prime Minister Shri Narendra Modi inaugurates Emerging Science, Technology and Innovation Conclave 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329291",
+   "published": "2026-10-28T05:45:26Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "c76cdd133150207f",
    "title": "Ministry of Civil Aviation reviews Cyclone \"Arnab\" situation and operational readiness",
@@ -1736,50 +1780,6 @@
    "machines": [],
    "subjects": [
     "Environment",
-    "S&T"
-   ]
-  },
-  {
-   "id": "5bb4487ff76eeb49",
-   "title": "Dr. Abhilaksh Likhi, Union Secretary, Department of Fisheries, Visits Munsyari Coldwater Fisheries Cluster; Interacts with Trout Farmers and Reviews Cluster Development Initiatives",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324891",
-   "published": "2026-10-18T11:09:58Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "c6e565dbc47ff8a2",
-   "title": "Raksha Mantri Shri Rajnath Singh to represent India at SCO Council of Heads of Government Meeting in Tajikistan",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324852",
-   "published": "2026-10-18T11:09:58Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "3865d45a271bbea6",
-   "title": "STPI Tech Conclave highlights AI's Potential in Healthcare & Assistive Technologies",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324850",
-   "published": "2026-10-18T11:09:58Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "6c5b63e2f7b9090b",
-   "title": "AIIA Marks Its 10th Foundation Day with Two MoUs, Major Academic Publications and Digital Launches",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324808",
-   "published": "2026-10-17T20:38:37Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
     "S&T"
    ]
   }
