@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-28T12:58:51Z",
+ "updated": "2026-10-28T22:37:33Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,139 @@
   }
  ],
  "inbox": [
+  {
+   "id": "3208ad2d45908d15",
+   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Interacts with Export Promotion Councils, Calls for Greater Export Competitiveness and Market Diversification",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329839",
+   "published": "2026-10-28T22:37:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "2127ad95cfde8c4d",
+   "title": "Raksha Mantri and his South Korean counterpart hold bilateral talks on the margins of 13th ADMM-Plus",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329830",
+   "published": "2026-10-28T22:37:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "46ed392464f290d4",
+   "title": "Union Minister for MSME Shri Jitan Ram Manjhi releases ₹1,000 Crore Margin Money Subsidy under PMEGP to support 11,333 new Micro Enterprises across India",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329819",
+   "published": "2026-10-28T22:37:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "9eba449501350baa",
+   "title": "India’s Cultural Consciousness and Knowledge Traditions Form the Foundation of Its Civilisational Continuity: Shri Gajendra Singh Shekhawat",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329786",
+   "published": "2026-10-28T22:37:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "f8a28944e08fe158",
+   "title": "GeM Samvad 2026 Highlights Reforms to Improve Public Procurement Access and Affordability for MSEs",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329780",
+   "published": "2026-10-28T22:37:33Z",
+   "source": "PIB",
+   "machines": [
+    "M16"
+   ],
+   "subjects": []
+  },
+  {
+   "id": "440104ff5d275fad",
+   "title": "Raksha Mantri holds bilateral talks with Defence Minister of Singapore on the sidelines of 13th ADMM-Plus",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329765",
+   "published": "2026-10-28T22:37:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "3c985cd9ea1b5363",
+   "title": "Workshop on Base Revision of State level Index of Industrial Production during 28–30 October 2026 at Thiruvananthapuram, Keralam",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329767",
+   "published": "2026-10-28T22:37:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "323cacdd9abd96c3",
+   "title": "DoT Leads Thematic Session on ‘Intelligent Networks and Quantum Communication’ at ESTIC 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329732",
+   "published": "2026-10-28T22:37:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "37fb0087f92a7624",
+   "title": "Ministry of New and Renewable Energy Steps Up E-Waste Management under Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329730",
+   "published": "2026-10-28T22:37:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "66497d0075e74aa7",
+   "title": "LOK SABHA SPEAKER EMPHASISES THE NEED FOR MUTUAL RESPECT EVEN AMID DIFFERENCES OF OPINION IN A DEMOCRACY",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329726",
+   "published": "2026-10-28T22:37:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "23698fcbc93f8a27",
+   "title": "Vice-President of India and Chairman, Rajya Sabha, Shri C. P. Radhakrishnan Meets Delegation of European Parliament’s Committee on Foreign Affairs (AFET)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329718",
+   "published": "2026-10-28T22:37:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "IR"
+   ]
+  },
+  {
+   "id": "1833d278ea836ed6",
+   "title": "Khelo India Sports Goods Manufacturing Scheme",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329701",
+   "published": "2026-10-28T22:37:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "6ab7e62821302556",
    "title": "Ministry of Heavy Industries and its Central Public Sector Enterprises (CPSEs) & Autonomous Bodies(ABs) observe Swachhata Hi Seva (SHS) 2026 and Special Campaign 6",
@@ -1652,138 +1785,6 @@
     "Economy",
     "S&T",
     "History"
-   ]
-  },
-  {
-   "id": "74490d63d0ec0f76",
-   "title": "Prime Minister shares an article by Union Ministers Shri Pralhad Joshi and Shri Shivraj Singh Chouhan highlighting the potential of agrivoltaics to boost farmers' incomes and advance rural prosperity",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325735",
-   "published": "2026-10-21T11:53:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "8fb717be2c31b8b5",
-   "title": "Prime Minister congratulates Nishad Kumar on winning Gold at the Asian Para Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325619",
-   "published": "2026-10-20T17:11:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "c632b573170d9228",
-   "title": "Prime Minister congratulates Devender Kumar on winning Gold at the Asian Para Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325611",
-   "published": "2026-10-20T17:11:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "7361563b40ee2d75",
-   "title": "Prime Minister congratulates Pranav Soorma on winning Gold at the Asian Para Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325602",
-   "published": "2026-10-20T17:11:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "e0086afe91b92d6c",
-   "title": "Prime Minister congratulates Simran on winning Gold at the Asian Para Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325590",
-   "published": "2026-10-20T17:11:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "852fcf64e797e033",
-   "title": "Union Home Minister and Minister of Cooperation Shri Amit Shah participates in Vijayadashami festival in Ludhiana, Punjab, and performs burning of the symbolic Ravana of ‘Chitta’",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325520",
-   "published": "2026-10-20T17:11:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "2cfd6d9daa61361f",
-   "title": "India’s Nuclear Programme Dedicated to Peaceful Purposes, Says Union Minister Dr. Jitendra Singh; Nuclear Energy to Power AI-Driven Future",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325436",
-   "published": "2026-10-20T11:41:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "c2975b3ab722473b",
-   "title": "25th SCO Council of Heads of Government Meeting: Raksha Mantri calls for unified action to dismantle the entire ecosystem of terrorism",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325428",
-   "published": "2026-10-20T11:41:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "bb67d4dd7e60bd62",
-   "title": "Prime Minister congratulates Soumya on winning Gold in Women’s 1500m T12/13 at Asian Para Games 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325319",
-   "published": "2026-10-19T22:22:47Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "4695a45d433c36f0",
-   "title": "Prime Minister congratulates Rinku Hooda on winning Gold in Men’s Javelin Throw F46 at Asian Para Games 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325317",
-   "published": "2026-10-19T22:22:47Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "0c8532945e6621cf",
-   "title": "Prime Minister congratulates Nishad Kumar on winning Gold in Men’s Long Jump T47 at Asian Para Games 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325315",
-   "published": "2026-10-19T22:22:47Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "5b27614793f648c4",
-   "title": "DRI foils major ganja trafficking attempt; seizes 591 kg cannabis smuggled from Nepal",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325281",
-   "published": "2026-10-19T22:22:47Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
    ]
   }
  ],
