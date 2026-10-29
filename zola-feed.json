@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-29T13:06:05Z",
+ "updated": "2026-10-29T22:46:53Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,72 @@
   }
  ],
  "inbox": [
+  {
+   "id": "f39b525245d8aca0",
+   "title": "Clarification on the Process of Strategic Restructuring of the IDBI Bank Ltd.",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330284",
+   "published": "2026-10-29T22:46:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "8878a16d9c5f6ba8",
+   "title": "Union Minister of Commerce and Industry, Shri Piyush Goyal Calls for Greater FTA Utilisation by Telangana",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330281",
+   "published": "2026-10-29T22:46:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "b76806837cca6269",
+   "title": "National Small Industries Corporation Limited (NSIC) presents dividend for FY 2025–26 to the Government of India",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330269",
+   "published": "2026-10-29T22:46:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "812b56243cab9501",
+   "title": "AIIA-iCAINE Marks Sixth Foundation Day with Launch of National Ayurveda AI Challenge in Collaboration with Techfest, IIT Bombay",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330195",
+   "published": "2026-10-29T22:46:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "a972434e510153d9",
+   "title": "‘ESTIC 2026’ Concludes with a call by Dr Jitendra Singh for transformation through technology;",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330191",
+   "published": "2026-10-29T22:46:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "a078eed3433d24ee",
+   "title": "Prime Minister Shri Narendra Modi to Release 24th Instalment of PM-KISAN tomorrow at Banaskantha, Gujarat",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330171",
+   "published": "2026-10-29T22:46:53Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "de8b5469aa206ce0",
    "title": "Telecom-CSIRT, DGT HQ, DoT organizes Awareness Webinar on “Build a Culture of Cyber Hygiene” as part of National Cyber Security Awareness Month 2026",
@@ -1715,73 +1781,6 @@
    "subjects": [
     "Economy",
     "IR"
-   ]
-  },
-  {
-   "id": "dff51d08c16ff502",
-   "title": "INDIAN AIR FORCE ENGAGES INDUSTRY OUTREACH PROGRAMME ON UNMANNED AND AUTONOMOUS SYSTEMS ROADMAP ON 21 OCT 26",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326184",
-   "published": "2026-10-21T17:14:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "e84e53a32df5de3c",
-   "title": "Prime Minister congratulates Simran on winning Gold at the Asian Para Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326163",
-   "published": "2026-10-21T17:14:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "f744fd5f5c6ff963",
-   "title": "“Solar panels above, thriving crops below”: Union Minister Shri Shivraj Singh Chouhan inaugurates the 7th AgriVoltaics World Conference at Bharat Mandapam",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326152",
-   "published": "2026-10-21T17:14:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "d22848cd60ac8f3d",
-   "title": "CAQM holds meeting with Delhi Government agencies to review Dust Pollution issues and strengthen Air Pollution Mitigation",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326148",
-   "published": "2026-10-21T17:14:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "c82a32772a6ae0b1",
-   "title": "National Institute for Micro, Small and Medium Enterprises (ni-msme) strengthens MSMEs through Capacity Building, Entrepreneurship Development and Digital Empowerment",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326147",
-   "published": "2026-10-21T17:14:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
-   ]
-  },
-  {
-   "id": "4216938170163351",
-   "title": "Prime Minister congratulates Dilip Gavit on winning Gold at the Asian Para Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326138",
-   "published": "2026-10-21T17:14:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
