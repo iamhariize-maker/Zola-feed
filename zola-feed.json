@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-28T22:37:33Z",
+ "updated": "2026-10-29T13:06:05Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,119 @@
   }
  ],
  "inbox": [
+  {
+   "id": "de8b5469aa206ce0",
+   "title": "Telecom-CSIRT, DGT HQ, DoT organizes Awareness Webinar on “Build a Culture of Cyber Hygiene” as part of National Cyber Security Awareness Month 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330125",
+   "published": "2026-10-29T13:06:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T",
+    "History"
+   ]
+  },
+  {
+   "id": "98a3864bbe5881a2",
+   "title": "Supporting Research, Advancing Knowledge A Journey Of Academic Achievement",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330124",
+   "published": "2026-10-29T13:06:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "fab72c370a5dfcdc",
+   "title": "93rd Meeting of the General Council of the National Cooperative Development Corporation (NCDC) held in New Delhi under the chairmanship of Union Home Minister and Minister of Cooperation Shri Amit Shah",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330122",
+   "published": "2026-10-29T13:06:05Z",
+   "source": "PIB",
+   "machines": [
+    "M23"
+   ],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "eb86a66f6407af1f",
+   "title": "Ministry of Textiles Highlights Jute Corporation of India’s Extensive Outreach and Cleanliness Activities under Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330119",
+   "published": "2026-10-29T13:06:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "ebed2c7c2645cfe9",
+   "title": "Indian Railways Surpasses Key Targets under Special Campaign 6 Ahead of its Conclusion on 31st October 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330111",
+   "published": "2026-10-29T13:06:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "372a89c599a0a347",
+   "title": "INS TRISHUL CONCLUDES PORT CALL AT CIVITAVECCHIA, ITALY",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330070",
+   "published": "2026-10-29T13:06:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "417079132486e3cb",
+   "title": "TRAI Assesses Mobile Network Quality across Kachchh area including Gandhidham & Bhuj cities and Bhuj to Bachau highway (in Gujarat LSA)during the month of September 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330060",
+   "published": "2026-10-29T13:06:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "aac5c8bc4f3d0dfd",
+   "title": "DRDO Undertakes Special Campaign 6.0 to Expedite Disposal of Pending Matters",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330042",
+   "published": "2026-10-29T13:06:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "cf5f2d9994aa7454",
+   "title": "Commerce and Industry Minister Shri Piyush Goyal Calls for Quality, Scale and Global Market Access to Drive India’s Industrial Transformation",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330034",
+   "published": "2026-10-29T13:06:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "77c1e13708899d67",
+   "title": "From Bharat to Antalya: Delhi Declaration 2026 Calls for Stronger Multilevel Climate Action Ahead of COP31",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330002",
+   "published": "2026-10-29T13:06:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "3208ad2d45908d15",
    "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Interacts with Export Promotion Councils, Calls for Greater Export Competitiveness and Market Diversification",
@@ -1669,122 +1782,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "21983d5e5d392fd7",
-   "title": "CAQM invokes Stage-I of GRAP in Delhi-NCR with immediate effect amid sharp rise in AQI",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326133",
-   "published": "2026-10-21T17:14:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "39ed46a794c04ec3",
-   "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326043",
-   "published": "2026-10-21T11:53:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "b3f44db5708b04d7",
-   "title": "PROVISIONAL INDEX OF CORE INDUSTRIES FOR THE MONTH OF SEPTEMBER 2026, AND FINAL INDEX FOR THE MONTH OF AUGUST 2026 WITH BASE YEAR 2022-23",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326038",
-   "published": "2026-10-21T11:53:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "29465168fbc1d258",
-   "title": "Transforming Wastewater Treatment",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325989",
-   "published": "2026-10-21T11:53:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "627a3835170f12b3",
-   "title": "Union Minister joins Dr Jitendra Singh joins an e-waste disposal activity at DoPT under Special Campaign 6.0",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325966",
-   "published": "2026-10-21T11:53:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "d1ce52f7526ac21f",
-   "title": "PRESIDENT OF INDIA PRESENTS LALIT KALA AKADEMI AWARDS TO SELECTED ARTISTS OF THE 65TH NATIONAL EXHIBITION OF ART",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325915",
-   "published": "2026-10-21T11:53:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "265cb59cf9c98e84",
-   "title": "Law Commission of India to organise National Conference on ‘Co-operative Federalism and Law Reforms: National and State Perspectives’",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325856",
-   "published": "2026-10-21T11:53:14Z",
-   "source": "PIB",
-   "machines": [
-    "M23"
-   ],
-   "subjects": [
-    "Polity",
-    "Economy"
-   ]
-  },
-  {
-   "id": "13077ca29e6ef25a",
-   "title": "DARE/ICAR Undertakes Nearly 4,000 Cleanliness Drives under Swachhata Special Campaign 6.0",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325852",
-   "published": "2026-10-21T11:53:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "750a8a42314f52a9",
-   "title": "CCO's SUVIKALP Initiative Advances Sustainable Mine Repurposing, Receives SKOCH Gold Award 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325820",
-   "published": "2026-10-21T11:53:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "2fb722d818a27d69",
-   "title": "Prime Minister shares an article by Union Minister Shri Shivraj Singh Chouhan highlighting the role of technology and research in transforming agriculture and improving farmers' lives",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325772",
-   "published": "2026-10-21T11:53:14Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T",
-    "History"
    ]
   }
  ],
