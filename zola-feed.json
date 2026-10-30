@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-30T05:52:42Z",
+ "updated": "2026-10-30T12:59:06Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,117 @@
   }
  ],
  "inbox": [
+  {
+   "id": "b20582727b9fd36a",
+   "title": "41st Webinar of the National Good Governance Webinar Series on the theme ‘Sustainability and Replication of the Awarded Initiatives under PMA’ held on 30th October 2026.",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330512",
+   "published": "2026-10-30T12:59:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "294a94306a0522b1",
+   "title": "Uttar Pradesh Chief Minister and Railway Minister to Flag Off New Vande Bharat Sleeper Trains Connecting Varanasi to New Delhi Tomorrow",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330492",
+   "published": "2026-10-30T12:59:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "c3aca7794957a0c9",
+   "title": "DRI deals major blow to Myanmar-linked drug smuggling network; seizes huge consignment of 50 kg methamphetamine tablets and crystal meth in North-East; four arrested",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330453",
+   "published": "2026-10-30T12:59:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "8db2b6641bd8200e",
+   "title": "Union Environment Minister visits CAQM’s ‘PAVAN-I3C’ Integrated Command and Control Centre to review Air Pollution Mitigation Operations",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330449",
+   "published": "2026-10-30T12:59:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "f40111eb39446c75",
+   "title": "DRDO leads thematic session on ‘Semiconductors & Next-Generation Chips’ and showcases advanced technologies at ESTIC 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330447",
+   "published": "2026-10-30T12:59:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "22b9cca777b60c10",
+   "title": "Department of Financial Services Achieves Significant Milestones under Special Campaign 6; Frees Up Nearly 7 Lakh Sq. Ft. Office Space and Generates ₹4.12 Crore from Scrap Disposal",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330448",
+   "published": "2026-10-30T12:59:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "12a4fc86d05efd20",
+   "title": "Telecom Regulatory Authority of India",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330429",
+   "published": "2026-10-30T12:59:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "cb7a64be68a45cbf",
+   "title": "24th Instalment of PM-KISAN",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330414",
+   "published": "2026-10-30T12:59:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "e1b7b28002a399f2",
+   "title": "Vice-President calls for holistic rural development to realise Viksit Bharat 2047; graces Golden Jubilee Celebrations and 39th Convocation of Gandhigram Rural Institute",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330383",
+   "published": "2026-10-30T12:59:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "Economy"
+   ]
+  },
+  {
+   "id": "3e5db59e0013b0d4",
+   "title": "India to Host ICAR- CGIAR Science and Partnership Week 2027 in New Delhi from April 12–17; Over 5,000 Delegates Expected to participate",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330371",
+   "published": "2026-10-30T12:59:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "35c40147817e550e",
    "title": "DRI busts a big clandestine synthetic drug manufacturing laboratory in Uttar Pradesh; seizes approx. 1,100 kg drugs and precursor chemicals; two arrested",
@@ -1665,121 +1776,6 @@
    "machines": [],
    "subjects": [
     "Environment"
-   ]
-  },
-  {
-   "id": "d0f4df384125acfd",
-   "title": "“Strong States Contribute to a Strong Union; Cooperative Governance Transforms Constitutional Ideals into Public Good”: Vice-President",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326670",
-   "published": "2026-10-22T11:56:49Z",
-   "source": "PIB",
-   "machines": [
-    "M23"
-   ],
-   "subjects": [
-    "Polity",
-    "Economy"
-   ]
-  },
-  {
-   "id": "949db4ad49313ee3",
-   "title": "FIRST TRAINING SQUADRON ARRIVES IN MALDIVES",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326662",
-   "published": "2026-10-22T11:56:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "7252b873e8ad342e",
-   "title": "Secretary, DARPG Reviews Implementation of Special Campaign 6 at Field Offices of Railways and Finance Ministries in Mumbai",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326655",
-   "published": "2026-10-22T11:56:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "637fba68a40fd2d9",
-   "title": "NHAI Strengthens Air Pollution Control Measures Across Delhi-NCR through Intensified Dust-Control Measures and Faster Decongestion of National Highways",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326657",
-   "published": "2026-10-22T11:56:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment"
-   ]
-  },
-  {
-   "id": "b4880135db88b9dd",
-   "title": "As A Follow-Up to The Departmental Summit on Water 2026, Department of Drinking Water and Sanitation Organised Virtual Conference on Convergence of JJM 2.0 With 16th Finance Grants for Rural water Supply and Strengthening of O&M Systems",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326649",
-   "published": "2026-10-22T11:56:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "d6cbf6fffe4dcfea",
-   "title": "World Entering an Era of AI-Guided, Gene-Driven Precision Medicine; India Emerging Among Frontline Providers: Dr. Jitendra Singh at SRIHER Convocation, Chennai",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326639",
-   "published": "2026-10-22T11:56:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "c5aaeb857542568a",
-   "title": "12th BRICS Parliamentary Forum to be Held in the Central Hall of Samvidhan Sadan on 26–27 October 2026: Lok Sabha Speaker",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326629",
-   "published": "2026-10-22T11:56:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
-   ]
-  },
-  {
-   "id": "0f10e163a064234c",
-   "title": "Department of Science and Technology (DST) intensifies Special Campaign 6 with significant mid-campaign achievements (till 16th October, 2026)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326612",
-   "published": "2026-10-22T11:56:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "2d3507a0a5fcaa4c",
-   "title": "India-Poland Joint Statement",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326568",
-   "published": "2026-10-22T11:56:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "e32eaa920a2ac677",
-   "title": "Fisheries Investors & Exporters Conclave 2026 to Focus on Investment, Value Addition and Export Opportunities in Inland Fisheries",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326360",
-   "published": "2026-10-22T04:52:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
