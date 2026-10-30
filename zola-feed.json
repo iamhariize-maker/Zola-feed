@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-30T12:59:06Z",
+ "updated": "2026-10-30T22:23:28Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,117 @@
   }
  ],
  "inbox": [
+  {
+   "id": "4d11bb635b34c6e0",
+   "title": "Government Ensures Continuity of Telecom Connectivity amid Cyclone Arnab",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330702",
+   "published": "2026-10-30T22:23:28Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "S&T"
+   ]
+  },
+  {
+   "id": "d33bd288fc6843b5",
+   "title": "BOOKS ARE POWERFUL INSTRUMENTS OF TRANSFORMING LIVES AND BRINGING POSITIVE CHANGE IN SOCIETY: LOK SABHA SPEAKER",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330687",
+   "published": "2026-10-30T22:23:28Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "6eee7425c5e9be4b",
+   "title": "Extension of last date for submission of comments from stakeholders on the ‘Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026’",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330636",
+   "published": "2026-10-30T22:23:28Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "64795f799ab75118",
+   "title": "Commerce and Industry Shri Piyush Goyal Chairs Chintan Shivir on Digitisation of Trade",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330634",
+   "published": "2026-10-30T22:23:28Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "3b6896e307330266",
+   "title": "INS TARKASH CALLS AT PORT LOUIS, MAURITIUS",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330620",
+   "published": "2026-10-30T22:23:28Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "38a38ccb649dec34",
+   "title": "Special Campaign 6: Achievements of Department of Water Resources, River Development & Ganga Rejuvenation",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330616",
+   "published": "2026-10-30T22:23:28Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "cdde5ede9ef0adec",
+   "title": "The Government of India Constitutes the ‘High Level Committee on Banking for Viksit Bharat’",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330598",
+   "published": "2026-10-30T22:23:28Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "25b812d9000247bb",
+   "title": "PRESIDENT OF INDIA TO VISIT MAHARASHTRA AND HARYANA FROM OCTOBER 31 TO NOVEMBER 1",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330584",
+   "published": "2026-10-30T22:23:28Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "e167796451175ef7",
+   "title": "Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications; Government of Tamil Nadu & TANFINET for Utilisation of BharatNet Network in Tamil Nadu under ABP",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330586",
+   "published": "2026-10-30T22:23:28Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "0a5dc65fa3f9a0e8",
+   "title": "From Economic Challenges To Research Aspirations",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330568",
+   "published": "2026-10-30T22:23:28Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "b20582727b9fd36a",
    "title": "41st Webinar of the National Good Governance Webinar Series on the theme ‘Sustainability and Replication of the Awarded Initiatives under PMA’ held on 30th October 2026.",
@@ -1665,117 +1776,6 @@
    "subjects": [
     "Economy",
     "S&T"
-   ]
-  },
-  {
-   "id": "e25c20dd3af1feac",
-   "title": "Governor of Uttarakhand meets the Prime Minister",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327040",
-   "published": "2026-10-22T17:13:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "35d431c5cec2586d",
-   "title": "Prime Minister Shri Narendra Modi addresses the NDTV World Summit 2026 in New Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327006",
-   "published": "2026-10-22T17:13:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "a10fe2bf65241be2",
-   "title": "Prime Minister congratulates Solairaj Dharmaraj on winning Gold at the Asian Para Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327003",
-   "published": "2026-10-22T17:13:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "39bb61a71bdddfe9",
-   "title": "Shri Shivraj Singh Chouhan Interacts with Farmers at Kisan Chaupal in Haryana’s Karnal, Calls for Balanced Fertiliser Use and Natural Farming",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326997",
-   "published": "2026-10-22T17:13:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "546c91b852bcc1b2",
-   "title": "Prime Minister congratulates Dilip on winning Gold at the Asian Para Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326994",
-   "published": "2026-10-22T17:13:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "2fd5c33bd25d2c49",
-   "title": "English rendering of PM's address in NDTV World Summit",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326985",
-   "published": "2026-10-22T17:13:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "cce7e73a0411c3cf",
-   "title": "IICA signs MoU with Association of ARCs in India to strengthen industry linkages with its flagship programme",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326896",
-   "published": "2026-10-22T17:13:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "932b8c45d80cbbcc",
-   "title": "CCI approves acquisition by Integrace Private Ltd of share capital of Universal Nutriscience and certain related transaction",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326894",
-   "published": "2026-10-22T17:13:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "7efaf5885f7d85f0",
-   "title": "Tripartite MoU signed to strengthen livelihood opportunities for Scheduled Tribe youth",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326841",
-   "published": "2026-10-22T17:13:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "f25bd797bdabb8c5",
-   "title": "CAQM Reviews Air Pollution Control Measures in Punjab and Haryana, Calls for Prompt Ground-Level Action",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326828",
-   "published": "2026-10-22T17:13:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
    ]
   }
  ],
