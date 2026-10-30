@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-29T22:46:53Z",
+ "updated": "2026-10-30T05:52:42Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,28 @@
   }
  ],
  "inbox": [
+  {
+   "id": "35c40147817e550e",
+   "title": "DRI busts a big clandestine synthetic drug manufacturing laboratory in Uttar Pradesh; seizes approx. 1,100 kg drugs and precursor chemicals; two arrested",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330310",
+   "published": "2026-10-30T05:52:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "00f1f05d578c3d7b",
+   "title": "Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330299",
+   "published": "2026-10-30T05:52:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "f39b525245d8aca0",
    "title": "Clarification on the Process of Strategic Restructuring of the IDBI Bank Ltd.",
@@ -1758,29 +1780,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "2b711b525b9804ac",
-   "title": "Prime Minister shares a Sanskrit Subhashitam, highlighting the importance of humility and continuous learning",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326359",
-   "published": "2026-10-22T04:52:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "22a807db33ec4d26",
-   "title": "33rd EDITION OF SINGAPORE-INDIA MARITIME BILATERAL EXERCISE (SIMBEX-2026) COMMENCES AT VISAKHAPATNAM",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326348",
-   "published": "2026-10-21T21:45:01Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
    ]
   }
  ],
