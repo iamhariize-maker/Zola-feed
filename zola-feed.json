@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-30T22:23:28Z",
+ "updated": "2026-10-31T05:46:20Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,17 @@
   }
  ],
  "inbox": [
+  {
+   "id": "52aeb0b2dba56cdf",
+   "title": "PM congratulates ISRO scientists and engineers on successful launch of GSLV-F18 carrying NVS-03",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330735",
+   "published": "2026-10-31T05:46:20Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "4d11bb635b34c6e0",
    "title": "Government Ensures Continuity of Telecom Connectivity amid Cyclone Arnab",
@@ -1764,18 +1775,6 @@
    "machines": [],
    "subjects": [
     "Environment"
-   ]
-  },
-  {
-   "id": "6ba408dae46cc580",
-   "title": "C-DAC and Bank of India Join Hands to Advance Indigenous Quantum Technologies for Banking Applications",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327274",
-   "published": "2026-10-23T11:42:40Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
    ]
   }
  ],
