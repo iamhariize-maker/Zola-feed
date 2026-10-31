@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-31T12:36:56Z",
+ "updated": "2026-10-31T21:38:15Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,85 @@
   }
  ],
  "inbox": [
+  {
+   "id": "fb2e7c8ce0e5bc79",
+   "title": "Union Ministry of Environment, Forest and Climate Change and its organisations successfully conclude Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331056",
+   "published": "2026-10-31T21:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "5e06faba12fe4364",
+   "title": "High level CAQM Team reviews Paddy Straw Management Measures reviews in Sangrur, Patiala and Malerkotla of Punjab",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331055",
+   "published": "2026-10-31T21:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "e44ebb6459000f72",
+   "title": "Delhi Records Lowest Average AQI for October in the Last Eight Years at 166",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331032",
+   "published": "2026-10-31T21:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "da0192807a2a4906",
+   "title": "LOK SABHA SPEAKER CALLS UPON YOUTH TO UPHOLD NATIONAL UNITY AND INTEGRITY AND CONTRIBUTE TO BUILDING A DEVELOPED INDIA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331012",
+   "published": "2026-10-31T21:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "c7a1e8c81de85a99",
+   "title": "PRESIDENT OF INDIA GRACES the Dhwaj Stambh Pujan, Dhawaja Pujan and Dhwajarohan ceremony of Simhastha Maha Kumbh at Nashik",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331006",
+   "published": "2026-10-31T21:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "376b5e9eb878c3cb",
+   "title": "Union Government releases tax devolution of ₹1,09,019 crore to State Governments, as one advance instalment of tax devolution in view of upcoming festive season and to enable States to accelerate capital spending and finance their development/ welfare related expenditure",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330997",
+   "published": "2026-10-31T21:38:15Z",
+   "source": "PIB",
+   "machines": [
+    "M17"
+   ],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "7d6629ce5ebfbb07",
+   "title": "Vice-President Shri C. P. Radhakrishnan attends ‘Sardar Katha’ at Uprashtrapati Bhavan; pays tribute to Sardar Vallabhbhai Patel on Rashtriya Ekta Diwas",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330939",
+   "published": "2026-10-31T21:38:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
   {
    "id": "50d529fe221ea792",
    "title": "Vice-President Shri C. P. Radhakrishnan Addresses 72nd Annual General Body Meeting of IIPA; Calls for Transformative Reforms in Public Administration to Realise Viksit Bharat @ 2047",
@@ -1699,83 +1778,6 @@
    "subjects": [
     "Polity",
     "Environment"
-   ]
-  },
-  {
-   "id": "57a02c6eac42ac1a",
-   "title": "Union Minister for Railways and Chief Minister of Madhya Pradesh to Inaugurate Satna–Devendra Nagar (53 km) and Rewa–Churhat (65 km) Rail Sections Tomorrow",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327658",
-   "published": "2026-10-23T17:11:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "1d19e50adc8ad9f2",
-   "title": "Legislative Department Reviews Office Cleanliness and Pendency under Special Campaign 6 to Promote Swachhata",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327640",
-   "published": "2026-10-23T17:11:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "adce280c3ce10fee",
-   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Holds High-Level Economic Engagements in Berlin to Strengthen India–Germany Trade and Investment Ties",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327429",
-   "published": "2026-10-23T11:42:40Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "eaef9cfe398457cf",
-   "title": "ARI promotes scientific waste management and sustainable gardening under swachhata special campaign 6.0",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327414",
-   "published": "2026-10-23T11:42:40Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "48d56f753114b558",
-   "title": "INS TRISHUL CONCLUDES PORT CALL AT LISBON, PORTUGAL",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327413",
-   "published": "2026-10-23T11:42:40Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "9a27786bcf28ab61",
-   "title": "PRESIDENT OF INDIA GRACES PUBLIC PROGRAMME AT JAGDALPUR, CHHATTISGARH ON THE OCCASION OF BASTAR DUSSEHRA",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327376",
-   "published": "2026-10-23T11:42:40Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "a25020fc8b5d7e2a",
-   "title": "NHAI Issues Guidelines for Upgradation, Maintenance and Smart Monitoring of Toilet Facilities & Parking at National Highway Toll Plazas",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327363",
-   "published": "2026-10-23T11:42:40Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
