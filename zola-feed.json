@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-01T13:29:35Z",
+ "updated": "2026-11-01T22:04:21Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,28 @@
   }
  ],
  "inbox": [
+  {
+   "id": "d3a9d48755280766",
+   "title": "Union Minister for Railways Flags Off Bengaluru-Mumbai Vande Bharat Sleeper Express Train",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331297",
+   "published": "2026-11-01T22:04:21Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "cded60206a4a5f2f",
+   "title": "Union Minister Nitin Gadkari Performs Bhoomipujan of Multi-Modal Logistics Park at Sindi Railway",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331235",
+   "published": "2026-11-01T22:04:21Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "f1f4bb452e5a97c5",
    "title": "PRESIDENT OF INDIA GRACES THE BALIDAN SHATABDI SAMAROH OF SWAMI SHRADDHANAND JI AT KURUKSHETRA",
@@ -1757,28 +1779,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "4b542e19bea00b46",
-   "title": "CAQM reviews Paddy Stubble Management measures in Amritsar and Tarn Taran",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328041",
-   "published": "2026-10-24T15:59:32Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "6fe03cec2f776644",
-   "title": "INDIAN NAVY’S FLAGSHIP EVENT SWAVLAMBAN 2026 TO FOCUS ON EMERGING TECHNOLOGIES AND INDIGENOUS DEFENCE CAPABILITIES",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328089",
-   "published": "2026-10-24T15:59:32Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
    ]
   }
  ],
