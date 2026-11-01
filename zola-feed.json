@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-01T06:10:36Z",
+ "updated": "2026-11-01T13:29:35Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,99 @@
   }
  ],
  "inbox": [
+  {
+   "id": "f1f4bb452e5a97c5",
+   "title": "PRESIDENT OF INDIA GRACES THE BALIDAN SHATABDI SAMAROH OF SWAMI SHRADDHANAND JI AT KURUKSHETRA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331238",
+   "published": "2026-11-01T13:29:35Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "76ac7f42d7a2516e",
+   "title": "Coal India Marks 51 Glorious Years with Record-Breaking Performance in October 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331230",
+   "published": "2026-11-01T13:29:35Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "265f4d141e0e2315",
+   "title": "PRESIDENT OF INDIA GRACES THE ‘HIRAK JAYANTI’ CELEBRATION ON THE 60TH YEAR OF FORMATION OF THE STATE OF HARYANA AT KURUKSHETRA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331227",
+   "published": "2026-11-01T13:29:35Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "History"
+   ]
+  },
+  {
+   "id": "dadb30467559a177",
+   "title": "Shri Kiren Rijiju, Union Minister of Parliamentary Affairs and Minority Affairs, attends the raising of 108 Stupas in Bhutan",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331224",
+   "published": "2026-11-01T13:29:35Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "IR"
+   ]
+  },
+  {
+   "id": "e5c928b24f3e766b",
+   "title": "PM to Inaugurate Bharat Renewable Energy Summit & Expo 2026 on 2nd November",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331222",
+   "published": "2026-11-01T13:29:35Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "IR"
+   ]
+  },
+  {
+   "id": "fbbda27bf1fa306e",
+   "title": "Shri Dinesh V. Ganvir Takes Charge as Director General of GSI; Reaffirms Focus on Mineral Security, Scientific Excellence and Technological Advancement",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331156",
+   "published": "2026-11-01T13:29:35Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "f3a291269a4c2061",
+   "title": "LOK SABHA SPEAKER TO INAUGURATE CONFERENCE OF CHAIRPERSONS OF PUBLIC ACCOUNTS COMMITTEES OF PARLIAMENT OF INDIA AND STATE/UT LEGISLATURES IN THIRUVANANTHAPURAM",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331150",
+   "published": "2026-11-01T13:29:35Z",
+   "source": "PIB",
+   "machines": [
+    "M22"
+   ],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "5f9bea157f3e55d4",
+   "title": "Vice-President Inaugurates National Organ Transplant Games 2026; Calls Organ Donation a ‘Mahadaan’",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331147",
+   "published": "2026-11-01T13:29:35Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
   {
    "id": "a0299a621c1c0b93",
    "title": "Coal Imports Decline by 5.83% in August 2026, Reflecting Reduced Import Dependence",
@@ -1686,97 +1779,6 @@
    "machines": [],
    "subjects": [
     "S&T"
-   ]
-  },
-  {
-   "id": "07d1d86b61f2e170",
-   "title": "Union Minister Dr Jitendra Singh inaugurates World's first- of -its-kind 'Air Pollution Analysis' facility for Delhi NCR",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327957",
-   "published": "2026-10-24T11:05:30Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "2fcc53bbd7e44e56",
-   "title": "Two-Day State-Level ‘Shram Samvad’ Programme on Labour Codes, Labour Welfare and Social Protection to begin in Lucknow on 26th October",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327906",
-   "published": "2026-10-24T11:05:30Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "3320d8f82b0c3e3d",
-   "title": "11 Crore Farmer IDs Created Five Months Ahead of Schedule, Marking Major Milestone in Digital Agriculture: Shri Shivraj Singh Chouhan",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327905",
-   "published": "2026-10-24T11:05:30Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T",
-    "History"
-   ]
-  },
-  {
-   "id": "5fb52e75f1c66e22",
-   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Holds Meetings with German Industry Leaders and Research Institutions in Berlin",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327842",
-   "published": "2026-10-24T11:05:30Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
-   ]
-  },
-  {
-   "id": "67e5890803e0b7c3",
-   "title": "Prime Minister congratulates Pranav Soorma and Dharambir on winning Gold and Bronze at the Asian Para Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327739",
-   "published": "2026-10-23T17:11:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "749571c74942790b",
-   "title": "Prime Minister congratulates Thulasimathi Murugesan and Manasi Joshi on winning Gold at the Asian Para Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327730",
-   "published": "2026-10-23T17:11:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "06c9c2ae0af07658",
-   "title": "Prime Minister congratulates Mona Agarwal on winning Gold and setting a new World Record at the Asian Para Games",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327727",
-   "published": "2026-10-23T17:11:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "10396a1a11fac9b2",
-   "title": "Soliciting public opinion and stake holders input on Design of Network Architecture for the proposed Broadband Public Protection and Disaster Relief (BB-PPDR) System",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327670",
-   "published": "2026-10-23T17:11:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
    ]
   }
  ],
