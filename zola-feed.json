@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-10-31T21:38:15Z",
+ "updated": "2026-11-01T06:10:36Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,28 @@
   }
  ],
  "inbox": [
+  {
+   "id": "a0299a621c1c0b93",
+   "title": "Coal Imports Decline by 5.83% in August 2026, Reflecting Reduced Import Dependence",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331073",
+   "published": "2026-11-01T06:10:36Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "13e98e2f2ca9adfc",
+   "title": "Ministry of Coal to Recognize Outstanding Achievements in Coal and Lignite Mining at Star Rating Awards in Raipur on 2nd November",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331074",
+   "published": "2026-11-01T06:10:36Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "fb2e7c8ce0e5bc79",
    "title": "Union Ministry of Environment, Forest and Climate Change and its organisations successfully conclude Special Campaign 6",
@@ -1754,29 +1776,6 @@
    "source": "PIB",
    "machines": [],
    "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "0279a6c0498fe72c",
-   "title": "India's First Maritime NBFC SMFCL Scales up with Rs 5,107 Crs Disbursed, Aims for Rs 60,205 Crs by 2031",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327664",
-   "published": "2026-10-23T17:11:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "5c6e9abd00ae13ec",
-   "title": "Third Regional Review Conference on Forest Rights Act Implementation Held in Srinagar",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327660",
-   "published": "2026-10-23T17:11:09Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
     "Environment"
    ]
   }
