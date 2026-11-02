@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-02T06:10:34Z",
+ "updated": "2026-11-02T16:01:57Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,110 @@
   }
  ],
  "inbox": [
+  {
+   "id": "24354bafc4868ac9",
+   "title": "Prime Minister Shri Narendra Modi inaugurates Bharat Renewable Energy Summit & Expo 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331789",
+   "published": "2026-11-02T16:01:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "IR"
+   ]
+  },
+  {
+   "id": "2821418819538229",
+   "title": "Ministry of Coal recognises outstanding performance of coal mines under Star Rating Programme for FY 2024-25; 50 mines receive Five-Star Ratings",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331780",
+   "published": "2026-11-02T16:01:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "fd8a1039f792ece5",
+   "title": "Ministry of Heavy Industries and its CPSEs and ABs conclude Special Campaign for Disposal of Pending Matters 6 (SCDPM 6)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331772",
+   "published": "2026-11-02T16:01:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "31a47518f9643912",
+   "title": "Prime Minister Shri Narendra Modi inaugurates Bharat Renewable Energy Summit & Expo 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331758",
+   "published": "2026-11-02T16:01:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "IR"
+   ]
+  },
+  {
+   "id": "67e8e4fd1171afe9",
+   "title": "English rendering of PM's address at the inauguration of Bharat Renewable Energy Summit & Expo in Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331737",
+   "published": "2026-11-02T16:01:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "IR"
+   ]
+  },
+  {
+   "id": "5d9ea5a73fb8f0be",
+   "title": "TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331704",
+   "published": "2026-11-02T16:01:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "S&T"
+   ]
+  },
+  {
+   "id": "67d8eeb051393612",
+   "title": "DoPPW Accelerates Digital Empowerment of Pensioners Through Nationwide Digital Life Certificate Campaign 5",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331689",
+   "published": "2026-11-02T16:01:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "5980e1ad32424ae2",
+   "title": "PM-SETU to strengthen North-East's skilling ecosystem through industry-led ITI transformation; Tourism and Hospitality identified as key sectors for global employment opportunities",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331682",
+   "published": "2026-11-02T16:01:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "a0191e91fb5f4ccd",
+   "title": "Department of Rural Development Successfully Concludes Special Campaign 6 with Significant Achievements in institutionalising Swachhata, reducing Pendency, improving Record Management and Optimising Office Space",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331659",
+   "published": "2026-11-02T16:01:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "S&T"
+   ]
+  },
   {
    "id": "3980e2a93246d4fc",
    "title": "National Orientation Programme for Tribal Healers on Public Health, Kanha Shanti Vanam, Hyderabad",
@@ -1676,107 +1780,6 @@
    "machines": [],
    "subjects": [
     "History"
-   ]
-  },
-  {
-   "id": "eddb9c8f3b46781c",
-   "title": "Prime Minister Shri Narendra Modi boosts morale of artisans by highlighting achievements of the Khadi and Village Industries sector in his ‘Mann Ki Baat’ programme",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328288",
-   "published": "2026-10-25T16:25:17Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "a4d38be1cf7f6aa3",
-   "title": "Sarbananda Sonowal to pitch India's Shipbuilding Opportunity to Korean Industry during Korea Visit",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328265",
-   "published": "2026-10-25T16:25:17Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "595bc76a651bc492",
-   "title": "Union Minister Piyush Goyal Holds Trade and Investment Talks in the Netherlands",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328254",
-   "published": "2026-10-25T16:25:17Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "a8be37274abb2830",
-   "title": "NIFTEM-K Hosts India’s First AI × Food Tech Hackathon, ‘Hack the Fork’",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328253",
-   "published": "2026-10-25T16:25:17Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "a9c783ad40b7580c",
-   "title": "Prime Minister Shri Narendra Modi inaugurates RBI’s newly established Data Centre and Cybersecurity Training Institute in Bhubaneswar, Odisha",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328250",
-   "published": "2026-10-25T16:25:17Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
-   ]
-  },
-  {
-   "id": "b4805feb296b7bde",
-   "title": "English rendering of PM’s address during inauguration of RBI facilities in Bhubaneswar, Odisha",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328234",
-   "published": "2026-10-25T16:25:17Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "a73c8d911d61e045",
-   "title": "Vice-President Shri C. P. Radhakrishnan to Visit Andhra Pradesh on October 26–27",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328201",
-   "published": "2026-10-25T11:34:54Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "a922ead48d28f3a1",
-   "title": "12TH BRICS PARLIAMENTARY FORUM TO BE INAUGURATED TOMORROW IN PARLIAMENT HOUSE COMPLEX",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328196",
-   "published": "2026-10-25T11:34:54Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
-   ]
-  },
-  {
-   "id": "1a97e544d56c6143",
-   "title": "National Urban Conclave 2026 concludes with actionable recommendations to strengthen urban governance, planning and service delivery towards Viksit Bharat 2047",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328185",
-   "published": "2026-10-25T11:34:54Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
    ]
   }
  ],
