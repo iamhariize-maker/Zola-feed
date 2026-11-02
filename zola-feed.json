@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-01T22:04:21Z",
+ "updated": "2026-11-02T06:10:34Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,50 @@
   }
  ],
  "inbox": [
+  {
+   "id": "3980e2a93246d4fc",
+   "title": "National Orientation Programme for Tribal Healers on Public Health, Kanha Shanti Vanam, Hyderabad",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331397",
+   "published": "2026-11-02T06:10:34Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "370d53e663c94945",
+   "title": "Ministry of Rural Development Notifies Grievance Redressal Rules, 2026 under VB–G RAM G Act",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331390",
+   "published": "2026-11-02T06:10:34Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "176b7e85231a3690",
+   "title": "Sacred Relics of Lord Buddha Arrive at Tawang Monastery; Exposition Marks a Significant Moment in Arunachal Pradesh's Buddhist Heritage",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331377",
+   "published": "2026-11-02T06:10:34Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "6cfbb44d5ef87c3b",
+   "title": "Commerce Secretary Shri Rajesh Agrawal holds high-level meetings with European Commission officials and industry representatives in Brussels",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331376",
+   "published": "2026-11-02T06:10:34Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "d3a9d48755280766",
    "title": "Union Minister for Railways Flags Off Bengaluru-Mumbai Vande Bharat Sleeper Express Train",
@@ -1733,52 +1777,6 @@
    "machines": [],
    "subjects": [
     "Polity"
-   ]
-  },
-  {
-   "id": "5633253ec92b8aac",
-   "title": "Ministry of New & Renewable Energy Actively Implementing Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328141",
-   "published": "2026-10-25T11:34:54Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "570d99004f482af9",
-   "title": "Agricultural Biological Resources generate around ₹1.04 Crore in ABS Benefits for Biodiversity Initiatives across India",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328118",
-   "published": "2026-10-24T20:52:27Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment",
-    "History"
-   ]
-  },
-  {
-   "id": "9d23944382bbe00c",
-   "title": "Digital India BHASHINI Division Showcases Multilingual AI Solutions for Accessible Research at ETD-2026, IIT Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328087",
-   "published": "2026-10-24T15:59:32Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "e900d066ac4783b3",
-   "title": "NICDC Advances Industrial Development in Bihar with Launch of Bihar Integrated Manufacturing City Gaya Limited",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328067",
-   "published": "2026-10-24T15:59:32Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
