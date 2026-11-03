@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-03T01:00:10Z",
+ "updated": "2026-11-03T14:19:42Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,105 @@
   }
  ],
  "inbox": [
+  {
+   "id": "15233f6aa899f510",
+   "title": "Ministry of Labour & Employment Successfully Concludes Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332241",
+   "published": "2026-11-03T14:19:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "f22e9cc86660ccb0",
+   "title": "Union Health Ministry has proposed amendments to Drugs Rules, 1945 to mandate Authorisation of qualified personnel for drug batch release",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332192",
+   "published": "2026-11-03T14:19:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "6715937f4aba85ec",
+   "title": "Indian Coast Guard and Sri Lanka Coast Guard hold 9th High-Level Meeting",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332184",
+   "published": "2026-11-03T14:19:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "8a479a28e79a99fd",
+   "title": "Smt. Punya Salila Srivastava, Secretary, Union Health Ministry, selects part-time members of National Dental Commission and its Autonomous Boards through draw of lots as per procedure prescribed under the National Dental Commission Act, 2023",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332176",
+   "published": "2026-11-03T14:19:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "3e1de120401c2da0",
+   "title": "Seminar on Cyber-Enabled Cognitive Warfare by CENJOWS & HQIDS Concludes in New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332169",
+   "published": "2026-11-03T14:19:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "689f701640f01661",
+   "title": "NITI Aayog and TEXMiN Sign Joint Statement of Intent to Strengthen India’s Critical Minerals Ecosystem",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332152",
+   "published": "2026-11-03T14:19:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "ab1f8bdf7112c0bb",
+   "title": "Ministry of MSME observes Vigilance Awareness Week 2026 on the Theme of “Probity for Prosperity”",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332151",
+   "published": "2026-11-03T14:19:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "6abab75337b2aba7",
+   "title": "APEDA Facilitates Export of 1.3 MT of Sinduri Pomegranates from Kullu to Dubai",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332080",
+   "published": "2026-11-03T14:19:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "3c1b8daa353fecd9",
+   "title": "APEDA Facilitates Trial Export of 1.5 MT of Arunachal Pradesh Kiwi to Dubai",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332077",
+   "published": "2026-11-03T14:19:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "628cb61a9848c875",
    "title": "International Buddhist Confederation, in Collaboration with the Ministry of Culture and the Government of Arunachal Pradesh, Organises International Conference on “Buddhism: Dissemination in the Himalayan Region and Beyond” today at Tawang, Arunachal Pradesh",
@@ -1678,108 +1777,6 @@
    "machines": [],
    "subjects": [
     "S&T"
-   ]
-  },
-  {
-   "id": "135046fdb1a91c70",
-   "title": "Railway Minister and Chief Minister of West Bengal Flag Off Jaipur (Khatipura) – Tatanagar – Santragachi Express Train",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328643",
-   "published": "2026-10-26T22:42:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "61912e4431ad2994",
-   "title": "Ministry of Road Transport and Highways (MoRTH) updates rules to facilitate E85/E100 flex fuel vehicles",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328642",
-   "published": "2026-10-26T22:42:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "6856664387821f1a",
-   "title": "Hon’ble Deputy Chairman, Rajya Sabha, Shri Harivansh Delivers Welcome Address at the Inaugural Session of 12th BRICS Parliamentary Forum in Central Hall, Parliament of India, New Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328640",
-   "published": "2026-10-26T13:07:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
-   ]
-  },
-  {
-   "id": "88cd84553f57b4fa",
-   "title": "Dr. Jitendra Singh reviews Special Swachhata Campaign at Loknayak Bhavan premises, Department of Pensions & Pensioners' Welfare offices; Felicitates 'Safai' staff",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328582",
-   "published": "2026-10-26T13:07:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "1c3352e0352ed89e",
-   "title": "CBIC actively implements Special Campaign 6 for institutionalising Swachhata and administrative efficiency",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328576",
-   "published": "2026-10-26T13:07:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "8da509dbf8656bc6",
-   "title": "Ministry of Ports, Shipping and Waterways Strengthens Swachhata Drives and Promotes Good Governance under Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328543",
-   "published": "2026-10-26T13:07:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "Economy",
-    "Environment"
-   ]
-  },
-  {
-   "id": "27379b49c24aa23d",
-   "title": "Ministry of Coal CPSEs Achieve Major Milestones under Special Campaign 6, Clean 130.16 Lakh Sq. Ft. Area and Generate ₹53.94 Crore from Scrap Disposal",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328508",
-   "published": "2026-10-26T13:07:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "d03e50df53c7fb18",
-   "title": "Ministry of New & Renewable Energy Reviews Progress of Swachhata and File Disposal under Special Campaign 6.0",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328501",
-   "published": "2026-10-26T13:07:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "e0c86bd5cbc8d57b",
-   "title": "Monthly Flash Report on Central Sector Infrastructure Projects tracks 1,853 Infrastructure Projects worth ₹37.56 lakh crore as of September 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328472",
-   "published": "2026-10-26T13:07:50Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
