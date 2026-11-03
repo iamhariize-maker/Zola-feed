@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-02T16:01:57Z",
+ "updated": "2026-11-03T01:00:10Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,17 @@
   }
  ],
  "inbox": [
+  {
+   "id": "628cb61a9848c875",
+   "title": "International Buddhist Confederation, in Collaboration with the Ministry of Culture and the Government of Arunachal Pradesh, Organises International Conference on “Buddhism: Dissemination in the Himalayan Region and Beyond” today at Tawang, Arunachal Pradesh",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331839",
+   "published": "2026-11-03T01:00:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
   {
    "id": "24354bafc4868ac9",
    "title": "Prime Minister Shri Narendra Modi inaugurates Bharat Renewable Energy Summit & Expo 2026",
@@ -1769,17 +1780,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "c5854ee82959feb3",
-   "title": "Prime Minister extends greetings on the occasion of Maharishi Valmiki Jayanti",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328310",
-   "published": "2026-10-26T04:50:58Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
    ]
   }
  ],
