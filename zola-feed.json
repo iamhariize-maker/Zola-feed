@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-03T14:19:42Z",
+ "updated": "2026-11-03T23:25:41Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,40 @@
   }
  ],
  "inbox": [
+  {
+   "id": "242d779144f7b671",
+   "title": "IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B & Dhīr 5B by ZenteiQ Under the IndiaAI Innovation Centre Pillar",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332315",
+   "published": "2026-11-03T23:25:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "203661c18fabad11",
+   "title": "Shilp Samagam Mela 2026 Celebrates India's Cultural Diversity Through Traditional Art, Craft and Cultural Performances",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332256",
+   "published": "2026-11-03T23:25:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "8ef362e1516b9b00",
+   "title": "BRE Summit and Expo 2026 Brings Global Investors and Industry Leaders Together",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332293",
+   "published": "2026-11-03T23:25:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
   {
    "id": "15233f6aa899f510",
    "title": "Ministry of Labour & Employment Successfully Concludes Special Campaign 6",
@@ -1744,39 +1778,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "85ad50d6ce38e40b",
-   "title": "Ministry of Women and Child Development reviews progress of Special Campaign 6 for Swachhata and Grievance Disposal",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328675",
-   "published": "2026-10-26T22:42:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "bd068b191ac87bdd",
-   "title": "SWACHHATA CAMPAIGN 6.0",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328668",
-   "published": "2026-10-26T22:42:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "0e28b50987a4847f",
-   "title": "PM to inaugurate Emerging Science, Technology and Innovation Conclave 2026 on 27 October",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328654",
-   "published": "2026-10-26T22:42:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
    ]
   }
  ],
