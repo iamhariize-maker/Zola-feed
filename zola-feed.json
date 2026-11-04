@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-04T06:28:05Z",
+ "updated": "2026-11-04T19:48:04Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,118 @@
   }
  ],
  "inbox": [
+  {
+   "id": "8bedb5d0cdc0f25f",
+   "title": "Union Health Ministry Proposes Immediate Suspension of Manufacturing Licences for Drugs Found Not of Standard Quality on Specified Critical Parameters",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332796",
+   "published": "2026-11-04T19:48:04Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "3df7bb9d5291a4f1",
+   "title": "Union Environment Minister Shri Bhupender Yadav releases Guidelines for Designation of India’s Other Effective Area-Based Conservation Measures (I-OECMs), 2026, at CBD COP-17 in Yerevan, Armenia",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332733",
+   "published": "2026-11-04T19:48:04Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "505d66614ab37bef",
+   "title": "IICA signs MoU with IAMC to augment Alternative Dispute Resolution ecosystem and facilitate Ease of Doing Business in India",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332723",
+   "published": "2026-11-04T19:48:04Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "45ae565129cf28f8",
+   "title": "Commission approves subscription of certain securities of Gentari Renewables India Pte. Ltd. by Sapphire US HoldCo (USA), LLC",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332720",
+   "published": "2026-11-04T19:48:04Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "IR"
+   ]
+  },
+  {
+   "id": "91f99637800c0c3c",
+   "title": "CCI approves acquisition of certain business of Deutsche Bank Aktiengesellschaft by Kotak Mahindra Bank, and other related transactions",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332721",
+   "published": "2026-11-04T19:48:04Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "954f9d7ffda32b68",
+   "title": "Conclusion of Special Campaign 6 of Department of Food and Public Distribution",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332719",
+   "published": "2026-11-04T19:48:04Z",
+   "source": "PIB",
+   "machines": [
+    "M16"
+   ],
+   "subjects": []
+  },
+  {
+   "id": "54cf8397158975c7",
+   "title": "Shilp Samagam Mela 2026 Captivates Visitors with Vibrant Cultural Performances and Traditional Craftsmanship at Dilli Haat",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332718",
+   "published": "2026-11-04T19:48:04Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "41425aebdc552281",
+   "title": "Governor of Keralam meets Prime Minister",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332676",
+   "published": "2026-11-04T19:48:04Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "3013d1be8a44ec9e",
+   "title": "Supply chain diversification & greater regional cooperation are key to stronger maritime inter-dependence amid strained security environment: Raksha Mantri at Indo-Pacific Regional Dialogue 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332665",
+   "published": "2026-11-04T19:48:04Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "Environment"
+   ]
+  },
+  {
+   "id": "b7b7b55407fa2b96",
+   "title": "Commerce and Industry Minister Shri Piyush Goyal inaugurates Vanijya Bhawan and Udyog Bhawan in Jaipur",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332658",
+   "published": "2026-11-04T19:48:04Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "5811111422db5ed5",
    "title": "Indian Railways Registers Freight Loading of 145.07 Million Tonnes in October 2026",
@@ -1663,121 +1775,6 @@
    "machines": [],
    "subjects": [
     "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "f79aa703ef1f0eb3",
-   "title": "India’s Genetic Diversity Could Make It a Global Destination for Gene Research: Dr. Jitendra Singh",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328989",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "7899ea131b3dd9fb",
-   "title": "FIRST TRAINING SQUADRON OF THE INDIAN NAVY ARRIVES AT COLOMBO, SRI LANKA",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328986",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "bb55b668d794a074",
-   "title": "Shram Samvad - Two-Day State-Level Capacity-Building and Awareness Programme on Labour Codes, Labour Welfare and Social Protection Concludes in Lucknow",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328983",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "8fe31687da0fc1a0",
-   "title": "12TH BRICS PARLIAMENTARY FORUM CONCLUDES IN NEW DELHI, WITH ADOPTION OF A JOINT DECLARATION",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328977",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
-   ]
-  },
-  {
-   "id": "00716039d088e9d0",
-   "title": "Janjatiya Gaurav Diwas 2026: Nationwide Tribal Pride Celebration from Nov 1 to 15",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328976",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "4dcb83558eed5c9c",
-   "title": "PM Vishwakarma Artisans Showcase India’s Traditional Crafts at BRICS Cultural Bazar",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328975",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR",
-    "History"
-   ]
-  },
-  {
-   "id": "20fe5c8da643b366",
-   "title": "Ministry of Textiles Highlights Significant Achievements of Central Silk Board under Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328968",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "2dc37877e744ca00",
-   "title": "Special Campaign 6: Department of Telecommunications records notable achievements against campaign targets",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328964",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "d7b94c28aaff0cce",
-   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Holds High-Level Engagements in the Netherlands to Strengthen Bilateral Trade and Investment Ties",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328791",
-   "published": "2026-10-27T05:09:26Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "3aa4e56933a57aea",
-   "title": "LOK SABHA SPEAKER URGES BRICS PARLIAMENTS TO CHAMPION ETHICAL, RESPONSIBLE, AND TRANSPARENT TECHNOLOGY WITH PARAMOUNT HUMAN OVERSIGHT",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328772",
-   "published": "2026-10-26T22:42:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "S&T",
     "IR"
    ]
   }
