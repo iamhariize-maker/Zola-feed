@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-03T23:25:41Z",
+ "updated": "2026-11-04T06:28:05Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,41 @@
   }
  ],
  "inbox": [
+  {
+   "id": "5811111422db5ed5",
+   "title": "Indian Railways Registers Freight Loading of 145.07 Million Tonnes in October 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332375",
+   "published": "2026-11-04T06:28:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "ed967e8a3dfd7311",
+   "title": "Prime Minister shares Sanskrit Subhashitam highlighting the importance of self-realisation and inner strength",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332369",
+   "published": "2026-11-04T06:28:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "dafc045d031c4d05",
+   "title": "Minister of State for Commerce and Industry Shri Jitin Prasada Visits Poland to Strengthen Bilateral Trade, Investment and Technology Cooperation",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332357",
+   "published": "2026-11-04T06:28:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T",
+    "IR"
+   ]
+  },
   {
    "id": "242d779144f7b671",
    "title": "IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B & Dhīr 5B by ZenteiQ Under the IndiaAI Innovation Centre Pillar",
@@ -1744,40 +1779,6 @@
     "Polity",
     "S&T",
     "IR"
-   ]
-  },
-  {
-   "id": "cf4c1d9d1be20f99",
-   "title": "Governor of Telangana Shri Shiv Pratap Shukla meets the Prime Minister",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328731",
-   "published": "2026-10-26T22:42:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "e7c07e3b8b54b5fd",
-   "title": "Prime Minister interacts with MPs from BRICS nations during the 12th BRICS Parliamentary Forum in New Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328729",
-   "published": "2026-10-26T22:42:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
-   ]
-  },
-  {
-   "id": "f6a325f45f768092",
-   "title": "Sarbananda Sonowal Woos Korean Firms for India's Shipyards, Seeks Global Shipping Rules All Can Follow",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328701",
-   "published": "2026-10-26T22:42:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
