@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-05T06:51:06Z",
+ "updated": "2026-11-05T19:59:03Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,111 @@
   }
  ],
  "inbox": [
+  {
+   "id": "08e11eec15236e0a",
+   "title": "International Prosthetist and Orthotist Day 2026 Celebrated in New Delhi; Focus on Innovation, Accessibility and Global Opportunities",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333378",
+   "published": "2026-11-05T19:59:03Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "283b26e49c4e0fb2",
+   "title": "Ministry of Micro, Small and Medium Enterprises (MSME) signs MoU with TRIFED to Strengthen Market Access for PM Vishwakarma Artisans",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333311",
+   "published": "2026-11-05T19:59:03Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "0c1326d8f0038a3f",
+   "title": "Ministry of Micro, Small and Medium Enterprises (MSME) and Samsung India Partner to Strengthen Skill Development and Youth Employability",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333308",
+   "published": "2026-11-05T19:59:03Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "c00ea9f70c3728f2",
+   "title": "Ministry of Railways Concludes Year-Long Celebrations Marking 150 Years of Vande Mataram",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333284",
+   "published": "2026-11-05T19:59:03Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "10b0406b49925604",
+   "title": "DRDO conducts successful flight-test of quasi-ballistic missile ‘Pralay’",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333276",
+   "published": "2026-11-05T19:59:03Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "ed5d8938f8130ec2",
+   "title": "MINISTRY OF CULTURE SIGNS MEMORANDUM OF UNDERSTANDING WITH GOOGLE ARTS & CULTURE TO DIGITISE AND SHARE INDIA’S CULTURAL HERITAGE",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333271",
+   "published": "2026-11-05T19:59:03Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "1a111c89b9a1c6bb",
+   "title": "IPRD-2026 CONCLUDES WITH FOCUS ON COOPERATIVE OCEAN GOVERNANCE AND RESPONSIBLE MARITIME TECHNOLOGIES",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333261",
+   "published": "2026-11-05T19:59:03Z",
+   "source": "PIB",
+   "machines": [
+    "M23"
+   ],
+   "subjects": [
+    "Polity",
+    "Economy",
+    "S&T"
+   ]
+  },
+  {
+   "id": "a754a4b725813109",
+   "title": "Department of Fisheries successfully concludes Special Campaign 6 for institutionalising Swachhata and reducing pendency",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333254",
+   "published": "2026-11-05T19:59:03Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "3dd1110ab0f2e827",
+   "title": "Union Minister Shri G. Kishan Reddy Calls for Accelerated Coal Sector Reforms, Coal Gasification and Technology-Driven Mining to Strengthen India's Energy Security",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333249",
+   "published": "2026-11-05T19:59:03Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
   {
    "id": "09bb9e468c95ac60",
    "title": "Prime Minister shares Sanskrit Subhashitam highlighting the importance of truth, knowledge and virtuous conduct",
@@ -1670,110 +1775,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "1c0329a3dee508be",
-   "title": "India widens its Maritime Partnerships in Busan, from Shipbuilding Supply Chains to Ship Recycling",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329195",
-   "published": "2026-10-27T22:16:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "5dac6a943edaf5bb",
-   "title": "Prime Minister Shri Narendra Modi inaugurates Emerging Science, Technology and Innovation Conclave 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329164",
-   "published": "2026-10-27T22:16:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "ed64a45418b29ec9",
-   "title": "Ministry of Culture signs MoU with Bibliothèque nationale de France to strengthen preservation of India’s manuscript heritage",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329163",
-   "published": "2026-10-27T22:16:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR",
-    "History"
-   ]
-  },
-  {
-   "id": "3fa80e78418ded9c",
-   "title": "English rendering of PM’s address during inauguration of the Emerging Science, Technology and Innovation Conclave 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329161",
-   "published": "2026-10-27T22:16:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "b310891cad305a65",
-   "title": "IGNCA and ASI to Launch Timeless India: Protection & Revival of Indian Cultural Identity",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329152",
-   "published": "2026-10-27T22:16:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "655288375cecf7f4",
-   "title": "CONCLUSION OF 33rd EDITION OF SINGAPORE-INDIA MARITIME BILATERAL EXERCISE (SIMBEX-2026)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329151",
-   "published": "2026-10-27T22:16:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "86eac5b976ea9844",
-   "title": "Joint Declaration 12th BRICS Parliamentary Forum New Delhi, India 26-27 October 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329065",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
-   ]
-  },
-  {
-   "id": "2af3d7e6ccda9abb",
-   "title": "Chairman, Rajya Sabha, Shri C. P. Radhakrishnan Meets Russian Parliamentary Delegation Led by the Chairman of the State Duma",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329062",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
-   ]
-  },
-  {
-   "id": "70e053b3129ed086",
-   "title": "Chairman, Rajya Sabha, Shri C. P. Radhakrishnan Hosts Luncheon for Presiding Officers and Leaders of Delegations of BRICS Member and Partner Countries",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329057",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
    ]
   }
  ],
