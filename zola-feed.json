@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-04T19:48:04Z",
+ "updated": "2026-11-05T06:51:06Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,28 @@
   }
  ],
  "inbox": [
+  {
+   "id": "09bb9e468c95ac60",
+   "title": "Prime Minister shares Sanskrit Subhashitam highlighting the importance of truth, knowledge and virtuous conduct",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332857",
+   "published": "2026-11-05T06:51:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "28a92afd3c91fcad",
+   "title": "Department of Rural Development and DAHD Join Hands to Boost Fodder Production, Strengthen Livestock Infrastructure and Support Rural Livelihoods under VB–G RAM G",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332844",
+   "published": "2026-11-05T06:51:06Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "8bedb5d0cdc0f25f",
    "title": "Union Health Ministry Proposes Immediate Suspension of Manufacturing Licences for Drugs Found Not of Standard Quality on Specified Critical Parameters",
@@ -1751,30 +1773,6 @@
    "machines": [],
    "subjects": [
     "Polity",
-    "IR"
-   ]
-  },
-  {
-   "id": "7941fe7c2f6f6d4b",
-   "title": "Deputy Chairman, Rajya Sabha, Shri Harivansh Addresses Plenary Session of 12th BRICS Parliamentary Forum in New Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329052",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
-   ]
-  },
-  {
-   "id": "f7eafe0852f8e1be",
-   "title": "Minister of State for Commerce and Industry, Shri Jitin Prasada, Calls on Liechtenstein Deputy Prime Minister to Strengthen Bilateral Trade and Investment Ties",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329023",
-   "published": "2026-10-27T12:16:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
     "IR"
    ]
   }
