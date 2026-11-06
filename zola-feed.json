@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-05T19:59:03Z",
+ "updated": "2026-11-06T06:51:10Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,17 @@
   }
  ],
  "inbox": [
+  {
+   "id": "1a0796b5b658bcc3",
+   "title": "Shram Samvad: Regional Level Capacity-Building and Awareness Programme on Labour Codes held in Ujjain, Madhya Pradesh",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333451",
+   "published": "2026-11-06T06:51:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "08e11eec15236e0a",
    "title": "International Prosthetist and Orthotist Day 2026 Celebrated in New Delhi; Focus on Innovation, Accessibility and Global Opportunities",
@@ -1764,17 +1775,6 @@
    "machines": [],
    "subjects": [
     "S&T"
-   ]
-  },
-  {
-   "id": "845a4fb96b254579",
-   "title": "Union Commerce and Industry Minister Shri Piyush Goyal’s Netherlands Visit Strengthens India-Netherlands Trade and Investment Partnership",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329208",
-   "published": "2026-10-27T22:16:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
