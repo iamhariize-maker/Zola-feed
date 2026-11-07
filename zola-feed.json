@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-06T19:26:31Z",
+ "updated": "2026-11-07T06:01:42Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,17 @@
   }
  ],
  "inbox": [
+  {
+   "id": "356eb488d4a031f3",
+   "title": "India’s Chemicals and Petrochemicals Sector: A Foundation for Industrial Growth",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333894",
+   "published": "2026-11-07T06:01:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "3b799dfb48e74a0d",
    "title": "Central Bureau of Narcotics (CBN) celebrates 77th Foundation Day and reaffirms India's vision for a “Nasha Mukt Yuva for Viksit Bharat”, through intensified enforcement, digital governance, and mission \"Yuva Raksha\"",
@@ -1764,18 +1775,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "7a223f40fe68bcf9",
-   "title": "Government Facilitating Startup-Industry Linkages to Take Indigenous Innovations to the Market, says Union Minister Dr. Jitendra Singh",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329583",
-   "published": "2026-10-28T12:58:51Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
    ]
   }
  ],
