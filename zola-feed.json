@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-07T13:06:07Z",
+ "updated": "2026-11-07T21:53:27Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,39 @@
   }
  ],
  "inbox": [
+  {
+   "id": "1d64ef45dd6070ee",
+   "title": "Vice-President Shri C. P. Radhakrishnan inaugurates Deepotsav 2026 celebrations in Ayodhya",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334045",
+   "published": "2026-11-07T21:53:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "4722a55c1d274506",
+   "title": "Raksha Mantri reviews infrastructure development along LAC & deployment of advanced military equipment during visit to Trishakti Corps at Sukna",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334029",
+   "published": "2026-11-07T21:53:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "d57a6db9c8b46175",
+   "title": "PRESIDENT OF INDIA’S GREETINGS ON THE EVE OF DIWALI",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333992",
+   "published": "2026-11-07T21:53:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
   {
    "id": "4ce0aea43cfdf74c",
    "title": "LOK SABHA SPEAKER EXTENDS GREETINGS FOR DEEPAVALI, GOVARDHAN PUJA, AND BHAI DOOJ",
@@ -1738,40 +1771,6 @@
    "machines": [],
    "subjects": [
     "Environment"
-   ]
-  },
-  {
-   "id": "66497d0075e74aa7",
-   "title": "LOK SABHA SPEAKER EMPHASISES THE NEED FOR MUTUAL RESPECT EVEN AMID DIFFERENCES OF OPINION IN A DEMOCRACY",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329726",
-   "published": "2026-10-28T22:37:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "23698fcbc93f8a27",
-   "title": "Vice-President of India and Chairman, Rajya Sabha, Shri C. P. Radhakrishnan Meets Delegation of European Parliament’s Committee on Foreign Affairs (AFET)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329718",
-   "published": "2026-10-28T22:37:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
-   ]
-  },
-  {
-   "id": "1833d278ea836ed6",
-   "title": "Khelo India Sports Goods Manufacturing Scheme",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329701",
-   "published": "2026-10-28T22:37:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
