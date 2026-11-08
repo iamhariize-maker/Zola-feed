@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-07T21:53:27Z",
+ "updated": "2026-11-08T06:05:50Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,28 @@
   }
  ],
  "inbox": [
+  {
+   "id": "63675f6167387acb",
+   "title": "Prime Minister appreciates Maharashtra CM Devendra Fadnavis’s gesture of celebrating Diwali with farmers in Nagpur",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334072",
+   "published": "2026-11-08T06:05:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "7243a02407a84ac1",
+   "title": "Shram Samvad: District Level Capacity-Building and Awareness Programme on Labour Codes held in Dewas, Madhya Pradesh",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334064",
+   "published": "2026-11-08T06:05:50Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "1d64ef45dd6070ee",
    "title": "Vice-President Shri C. P. Radhakrishnan inaugurates Deepotsav 2026 celebrations in Ayodhya",
@@ -1749,28 +1771,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "323cacdd9abd96c3",
-   "title": "DoT Leads Thematic Session on ‘Intelligent Networks and Quantum Communication’ at ESTIC 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329732",
-   "published": "2026-10-28T22:37:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "37fb0087f92a7624",
-   "title": "Ministry of New and Renewable Energy Steps Up E-Waste Management under Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329730",
-   "published": "2026-10-28T22:37:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
    ]
   }
  ],
