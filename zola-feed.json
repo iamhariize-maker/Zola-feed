@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-08T06:05:50Z",
+ "updated": "2026-11-09T22:24:12Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,98 @@
   }
  ],
  "inbox": [
+  {
+   "id": "dc5cb21c17134f0d",
+   "title": "Union Minister of Minority Affairs & Parliamentary Affairs, Shri Kiren Rijiju visits Kingdom of Saudi Arabia.",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334463",
+   "published": "2026-11-09T22:24:12Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "66934add82c76967",
+   "title": "From Financial Challenges to Global Research Opportunities",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334453",
+   "published": "2026-11-09T22:24:12Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "ddf8cc10f19cce64",
+   "title": "Indian Railways Successfully Concludes Special Campaign 6; Over 1 Lakh Cleanliness Drives Conducted",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334410",
+   "published": "2026-11-09T22:24:12Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "369acb823f9fe4e3",
+   "title": "Department of Agriculture & Farmers Welfare actively undertakes various activities under special campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334407",
+   "published": "2026-11-09T22:24:12Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
+  {
+   "id": "30d860cba018fda7",
+   "title": "Ministry of New and Renewable Energy Successfully Concludes Special Campaign 6",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334368",
+   "published": "2026-11-09T22:24:12Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "3b7cbab91f25c3ba",
+   "title": "TRAI releases “The Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026”",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334365",
+   "published": "2026-11-09T22:24:12Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "Economy",
+    "S&T"
+   ]
+  },
+  {
+   "id": "6bc19e37aa7128f0",
+   "title": "TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railway station and Guwahati Railway station under Assam LSA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334364",
+   "published": "2026-11-09T22:24:12Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "5716ceb784df881d",
+   "title": "President of India to Confer 10th Edition Swachh Survekshan 2025-26 Awards",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334316",
+   "published": "2026-11-09T22:24:12Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "Environment"
+   ]
+  },
   {
    "id": "63675f6167387acb",
    "title": "Prime Minister appreciates Maharashtra CM Devendra Fadnavis’s gesture of celebrating Diwali with farmers in Nagpur",
@@ -1679,94 +1771,6 @@
    "title": "Commerce and Industry Minister Shri Piyush Goyal Calls for Quality, Scale and Global Market Access to Drive India’s Industrial Transformation",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330034",
    "published": "2026-10-29T13:06:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "77c1e13708899d67",
-   "title": "From Bharat to Antalya: Delhi Declaration 2026 Calls for Stronger Multilevel Climate Action Ahead of COP31",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330002",
-   "published": "2026-10-29T13:06:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "3208ad2d45908d15",
-   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Interacts with Export Promotion Councils, Calls for Greater Export Competitiveness and Market Diversification",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329839",
-   "published": "2026-10-28T22:37:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "2127ad95cfde8c4d",
-   "title": "Raksha Mantri and his South Korean counterpart hold bilateral talks on the margins of 13th ADMM-Plus",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329830",
-   "published": "2026-10-28T22:37:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "46ed392464f290d4",
-   "title": "Union Minister for MSME Shri Jitan Ram Manjhi releases ₹1,000 Crore Margin Money Subsidy under PMEGP to support 11,333 new Micro Enterprises across India",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329819",
-   "published": "2026-10-28T22:37:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "9eba449501350baa",
-   "title": "India’s Cultural Consciousness and Knowledge Traditions Form the Foundation of Its Civilisational Continuity: Shri Gajendra Singh Shekhawat",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329786",
-   "published": "2026-10-28T22:37:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "f8a28944e08fe158",
-   "title": "GeM Samvad 2026 Highlights Reforms to Improve Public Procurement Access and Affordability for MSEs",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329780",
-   "published": "2026-10-28T22:37:33Z",
-   "source": "PIB",
-   "machines": [
-    "M16"
-   ],
-   "subjects": []
-  },
-  {
-   "id": "440104ff5d275fad",
-   "title": "Raksha Mantri holds bilateral talks with Defence Minister of Singapore on the sidelines of 13th ADMM-Plus",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329765",
-   "published": "2026-10-28T22:37:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "3c985cd9ea1b5363",
-   "title": "Workshop on Base Revision of State level Index of Industrial Production during 28–30 October 2026 at Thiruvananthapuram, Keralam",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329767",
-   "published": "2026-10-28T22:37:33Z",
    "source": "PIB",
    "machines": [],
    "subjects": [
