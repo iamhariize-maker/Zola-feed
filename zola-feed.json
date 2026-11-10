@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-09T22:24:12Z",
+ "updated": "2026-11-10T07:22:42Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,17 @@
   }
  ],
  "inbox": [
+  {
+   "id": "9b03c47ad6434c9f",
+   "title": "MY Bharat Organises Nationwide Deepotsav and Neighbourhood Youth Parliaments Under 100-Week Anti-Drug Campaign",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334566",
+   "published": "2026-11-10T07:22:42Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
   {
    "id": "dc5cb21c17134f0d",
    "title": "Union Minister of Minority Affairs & Parliamentary Affairs, Shri Kiren Rijiju visits Kingdom of Saudi Arabia.",
@@ -1764,17 +1775,6 @@
    "machines": [],
    "subjects": [
     "S&T"
-   ]
-  },
-  {
-   "id": "cf5f2d9994aa7454",
-   "title": "Commerce and Industry Minister Shri Piyush Goyal Calls for Quality, Scale and Global Market Access to Drive India’s Industrial Transformation",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330034",
-   "published": "2026-10-29T13:06:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
