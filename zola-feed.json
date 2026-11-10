@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-10T07:22:42Z",
+ "updated": "2026-11-10T19:45:49Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,109 @@
   }
  ],
  "inbox": [
+  {
+   "id": "75cb8eebd772fc8d",
+   "title": "Bharat Mobility Expo gaining global recognition, third edition to be the second largest such expo in the world: Commerce and Industry Minister Shri Piyush Goyal",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334866",
+   "published": "2026-11-10T19:45:49Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "b5e0b3f4faf10b91",
+   "title": "Odisha charts a National Roadmap for Millet led Agricultural Transformation",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334764",
+   "published": "2026-11-10T19:45:49Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
+  {
+   "id": "6fe7ae427f330713",
+   "title": "Ministry of Micro, Small and Medium Enterprises (MSME) holds Round Table Discussion with CPSEs on Enhancing Procurement from SC/ST MSEs",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334759",
+   "published": "2026-11-10T19:45:49Z",
+   "source": "PIB",
+   "machines": [
+    "M16"
+   ],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "7e93571eaaf14a3b",
+   "title": "Delhi's River Tourism Begins with the Launch of Yamuna Recreational Cruise Service",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334740",
+   "published": "2026-11-10T19:45:49Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "6369020617fb97ba",
+   "title": "Union Minister of State For Agriculture and Farmers' Welfare Shri Ram Nath Thakur participates in Khet Bachao Abhiyan in North 24 Parganas",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334717",
+   "published": "2026-11-10T19:45:49Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
+  {
+   "id": "530073660f4c539a",
+   "title": "Union Minister Dr. Jitendra Singh Chairs ESSC General Body Meeting, Emphasises Citizen-Centric Science Communication to Showcase India's Scientific Achievements",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334718",
+   "published": "2026-11-10T19:45:49Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "7bf8e1bd125ab668",
+   "title": "India Post and IndiGo Bring Digital Detox 2.0 to 15 Flights Across 11 Destinations, Spreading Festive Cheer Through Handwritten Postcards",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334710",
+   "published": "2026-11-10T19:45:49Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "89b2c24879a1461e",
+   "title": "Round 2 of ₹37,500 Crore Scheme for Promotion of Surface Coal/Lignite Gasification Projects Concludes with Two Applications from NTPC Limited; Round 3 Opens Today",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334671",
+   "published": "2026-11-10T19:45:49Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "97b1d93fda98cdee",
+   "title": "Press Note on Periodic Labour Force Survey (PLFS) Quarterly Bulletin July-September 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334642",
+   "published": "2026-11-10T19:45:49Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "9b03c47ad6434c9f",
    "title": "MY Bharat Organises Nationwide Deepotsav and Neighbourhood Youth Parliaments Under 100-Week Anti-Drug Campaign",
@@ -1669,108 +1772,6 @@
    "title": "‘ESTIC 2026’ Concludes with a call by Dr Jitendra Singh for transformation through technology;",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330191",
    "published": "2026-10-29T22:46:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "a078eed3433d24ee",
-   "title": "Prime Minister Shri Narendra Modi to Release 24th Instalment of PM-KISAN tomorrow at Banaskantha, Gujarat",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330171",
-   "published": "2026-10-29T22:46:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "de8b5469aa206ce0",
-   "title": "Telecom-CSIRT, DGT HQ, DoT organizes Awareness Webinar on “Build a Culture of Cyber Hygiene” as part of National Cyber Security Awareness Month 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330125",
-   "published": "2026-10-29T13:06:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T",
-    "History"
-   ]
-  },
-  {
-   "id": "98a3864bbe5881a2",
-   "title": "Supporting Research, Advancing Knowledge A Journey Of Academic Achievement",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330124",
-   "published": "2026-10-29T13:06:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "fab72c370a5dfcdc",
-   "title": "93rd Meeting of the General Council of the National Cooperative Development Corporation (NCDC) held in New Delhi under the chairmanship of Union Home Minister and Minister of Cooperation Shri Amit Shah",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330122",
-   "published": "2026-10-29T13:06:05Z",
-   "source": "PIB",
-   "machines": [
-    "M23"
-   ],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "eb86a66f6407af1f",
-   "title": "Ministry of Textiles Highlights Jute Corporation of India’s Extensive Outreach and Cleanliness Activities under Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330119",
-   "published": "2026-10-29T13:06:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "ebed2c7c2645cfe9",
-   "title": "Indian Railways Surpasses Key Targets under Special Campaign 6 Ahead of its Conclusion on 31st October 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330111",
-   "published": "2026-10-29T13:06:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "372a89c599a0a347",
-   "title": "INS TRISHUL CONCLUDES PORT CALL AT CIVITAVECCHIA, ITALY",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330070",
-   "published": "2026-10-29T13:06:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "417079132486e3cb",
-   "title": "TRAI Assesses Mobile Network Quality across Kachchh area including Gandhidham & Bhuj cities and Bhuj to Bachau highway (in Gujarat LSA)during the month of September 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330060",
-   "published": "2026-10-29T13:06:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "aac5c8bc4f3d0dfd",
-   "title": "DRDO Undertakes Special Campaign 6.0 to Expedite Disposal of Pending Matters",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330042",
-   "published": "2026-10-29T13:06:05Z",
    "source": "PIB",
    "machines": [],
    "subjects": [
