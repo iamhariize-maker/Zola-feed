@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-11T06:27:59Z",
+ "updated": "2026-11-11T19:38:05Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,129 @@
   }
  ],
  "inbox": [
+  {
+   "id": "24735d1801c8c6fa",
+   "title": "PRESIDENT OF INDIA PRESENTS SWACHH SURVEKSHAN AWARDS",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335224",
+   "published": "2026-11-11T19:38:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "Environment"
+   ]
+  },
+  {
+   "id": "234ea1191879f255",
+   "title": "Sarbananda Sonowal Lays Foundation Stones for Projects Worth Rs 560 Crore at Visakhapatnam Port",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335212",
+   "published": "2026-11-11T19:38:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "cd85a16a06ff3ab9",
+   "title": "Swachh Survekshan Awards 2025-26",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335207",
+   "published": "2026-11-11T19:38:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "fa8fd84b755eb8bb",
+   "title": "INDIAN NAVY AND ROYAL NAVY OF OMAN CONDUCT 15TH EDITION OF BILATERAL MARITIME EXERCISE NASEEM AL BAHR (SEA BREEZE)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335193",
+   "published": "2026-11-11T19:38:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "a6227874cff197cd",
+   "title": "INDIAN NAVAL SHIP TRISHUL CONCLUDES PORT CALL AT SAFAGA, EGYPT",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335192",
+   "published": "2026-11-11T19:38:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "7fc024b6c8854bd9",
+   "title": "8TH EDITION OF INDIA–MYANMAR NAVAL EXERCISE (IMNEX-26) COMMENCES AT VISAKHAPATNAM",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335191",
+   "published": "2026-11-11T19:38:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "918e3da67df1e69f",
+   "title": "Janjatiya Gaurav Pakhwada 2026: Nationwide Celebrations to Honour Tribal Heritage, Empower Communities and Accelerate Last-Mile Delivery of Welfare Schemes",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335189",
+   "published": "2026-11-11T19:38:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "759a6df62e559fea",
+   "title": "Ministry of Tribal Affairs to Organise National Tribal Literary Festival in New Delhi on 12–13 November 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335187",
+   "published": "2026-11-11T19:38:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "e332080e0ce6d83f",
+   "title": "BUILDING A STRONGER AND MORE PROSPEROUS INDIA REQUIRES EFFECTIVE INSTITUTIONS AND PUBLIC SERVANTS: LOK SABHA SPEAKER",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335179",
+   "published": "2026-11-11T19:38:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "a58e33074854035c",
+   "title": "Cyber Threats Respect No Borders, Neither Should Cooperation: Union MoS for Communications Dr. Chandra Sekhar Pemmasani at ITU PP-26",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335168",
+   "published": "2026-11-11T19:38:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "a4437a272829a2f4",
+   "title": "Bharat Parv 2026 Showcases India’s Rich Cultural Heritage and Diversity at Ekta Nagar, Gujarat",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335115",
+   "published": "2026-11-11T19:38:05Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
   {
    "id": "b54bb952bc4baff8",
    "title": "India and Norway Explore Joint Technologies to Turn Industrial Waste into Resources for Sustainable Construction",
@@ -1652,128 +1775,6 @@
    "title": "DRDO leads thematic session on ‘Semiconductors & Next-Generation Chips’ and showcases advanced technologies at ESTIC 2026",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330447",
    "published": "2026-10-30T12:59:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "22b9cca777b60c10",
-   "title": "Department of Financial Services Achieves Significant Milestones under Special Campaign 6; Frees Up Nearly 7 Lakh Sq. Ft. Office Space and Generates ₹4.12 Crore from Scrap Disposal",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330448",
-   "published": "2026-10-30T12:59:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "12a4fc86d05efd20",
-   "title": "Telecom Regulatory Authority of India",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330429",
-   "published": "2026-10-30T12:59:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "cb7a64be68a45cbf",
-   "title": "24th Instalment of PM-KISAN",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330414",
-   "published": "2026-10-30T12:59:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "e1b7b28002a399f2",
-   "title": "Vice-President calls for holistic rural development to realise Viksit Bharat 2047; graces Golden Jubilee Celebrations and 39th Convocation of Gandhigram Rural Institute",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330383",
-   "published": "2026-10-30T12:59:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "Economy"
-   ]
-  },
-  {
-   "id": "3e5db59e0013b0d4",
-   "title": "India to Host ICAR- CGIAR Science and Partnership Week 2027 in New Delhi from April 12–17; Over 5,000 Delegates Expected to participate",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330371",
-   "published": "2026-10-30T12:59:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "35c40147817e550e",
-   "title": "DRI busts a big clandestine synthetic drug manufacturing laboratory in Uttar Pradesh; seizes approx. 1,100 kg drugs and precursor chemicals; two arrested",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330310",
-   "published": "2026-10-30T05:52:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "00f1f05d578c3d7b",
-   "title": "Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330299",
-   "published": "2026-10-30T05:52:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "f39b525245d8aca0",
-   "title": "Clarification on the Process of Strategic Restructuring of the IDBI Bank Ltd.",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330284",
-   "published": "2026-10-29T22:46:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "8878a16d9c5f6ba8",
-   "title": "Union Minister of Commerce and Industry, Shri Piyush Goyal Calls for Greater FTA Utilisation by Telangana",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330281",
-   "published": "2026-10-29T22:46:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "b76806837cca6269",
-   "title": "National Small Industries Corporation Limited (NSIC) presents dividend for FY 2025–26 to the Government of India",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330269",
-   "published": "2026-10-29T22:46:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "812b56243cab9501",
-   "title": "AIIA-iCAINE Marks Sixth Foundation Day with Launch of National Ayurveda AI Challenge in Collaboration with Techfest, IIT Bombay",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330195",
-   "published": "2026-10-29T22:46:53Z",
    "source": "PIB",
    "machines": [],
    "subjects": [
