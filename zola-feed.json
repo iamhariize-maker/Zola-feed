@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-10T19:45:49Z",
+ "updated": "2026-11-11T06:27:59Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,19 @@
   }
  ],
  "inbox": [
+  {
+   "id": "b54bb952bc4baff8",
+   "title": "India and Norway Explore Joint Technologies to Turn Industrial Waste into Resources for Sustainable Construction",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334888",
+   "published": "2026-11-11T06:27:59Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "Environment",
+    "S&T"
+   ]
+  },
   {
    "id": "75cb8eebd772fc8d",
    "title": "Bharat Mobility Expo gaining global recognition, third edition to be the second largest such expo in the world: Commerce and Industry Minister Shri Piyush Goyal",
@@ -1760,17 +1773,6 @@
    "id": "812b56243cab9501",
    "title": "AIIA-iCAINE Marks Sixth Foundation Day with Launch of National Ayurveda AI Challenge in Collaboration with Techfest, IIT Bombay",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330195",
-   "published": "2026-10-29T22:46:53Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "a972434e510153d9",
-   "title": "‘ESTIC 2026’ Concludes with a call by Dr Jitendra Singh for transformation through technology;",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330191",
    "published": "2026-10-29T22:46:53Z",
    "source": "PIB",
    "machines": [],
