@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-11T19:38:05Z",
+ "updated": "2026-11-12T07:14:38Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,17 @@
   }
  ],
  "inbox": [
+  {
+   "id": "78e9a79c8d1e9031",
+   "title": "Naturopathy Day 2026: Scientific Research Strengthens India's Nature-Based Healthcare Ecosystem",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335313",
+   "published": "2026-11-12T07:14:38Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "24735d1801c8c6fa",
    "title": "PRESIDENT OF INDIA PRESENTS SWACHH SURVEKSHAN AWARDS",
@@ -1768,17 +1779,6 @@
    "machines": [],
    "subjects": [
     "Environment"
-   ]
-  },
-  {
-   "id": "f40111eb39446c75",
-   "title": "DRDO leads thematic session on ‘Semiconductors & Next-Generation Chips’ and showcases advanced technologies at ESTIC 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330447",
-   "published": "2026-10-30T12:59:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
    ]
   }
  ],
