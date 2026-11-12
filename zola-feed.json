@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-12T07:14:38Z",
+ "updated": "2026-11-12T19:57:00Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,130 @@
   }
  ],
  "inbox": [
+  {
+   "id": "0b461186455362fa",
+   "title": "Prime Minister Shri Narendra Modi participates in the Kisan Tak Bharat Agriculture Conference 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335664",
+   "published": "2026-11-12T19:57:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
+  {
+   "id": "25f8f8881eb9ee08",
+   "title": "English rendering of PM's address at the Kisan Tak Bharat Agriculture Conference",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335657",
+   "published": "2026-11-12T19:57:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
+  {
+   "id": "fd086cf8f42010af",
+   "title": "2nd Edition of the National Tribal Literary Festival 2026 begins in New Delhi: “From Oral Tradition to Contemporary Tribal Literature",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335599",
+   "published": "2026-11-12T19:57:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "97169081567bd1c5",
+   "title": "NITI Aayog Launches Report on “Impact Assessment of PLI Schemes”",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335594",
+   "published": "2026-11-12T19:57:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "0b13ebec6b5d455f",
+   "title": "Andhra Pradesh Eyes Global Maritime Hub Status with Major Push for Ports and Shipbuilding",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335584",
+   "published": "2026-11-12T19:57:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "87e9c063e0b5c128",
+   "title": "Over 20 lakh defence pensioners complete Digital Life Certification under National DLC Campaign 5.0",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335578",
+   "published": "2026-11-12T19:57:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "7b7042b47a159c74",
+   "title": "Ministry of Tribal Affairs launches national initiative for conservation of medicinal plants and promotion of sustainable livelihoods in 16 tribal hotspots across 13 States/UTs",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335554",
+   "published": "2026-11-12T19:57:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "a7b15ceb0ca089f1",
+   "title": "DRI busts red sanders smuggling syndicate at Chennai Port; seizes around 13,000 kg red sanders worth Rs. 7.72 crore; three arrested",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335529",
+   "published": "2026-11-12T19:57:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "5e2fd9ebc99c9a58",
+   "title": "PRESIDENT OF INDIA INTERACTS WITH MERITORIOUS EMRS STUDENTS AT RASHTRAPATI BHAVAN",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335501",
+   "published": "2026-11-12T19:57:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "48554e7af6acbbd8",
+   "title": "Union Environment Minister holds interaction with LeadIT Industry Members and Project Partners",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335498",
+   "published": "2026-11-12T19:57:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "Environment"
+   ]
+  },
+  {
+   "id": "62a8565a9ef90462",
+   "title": "National Fellowship for Scheduled Caste Students Enables Research Scholar to Complete Ph.D. in Genetics and Plant Breeding",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335497",
+   "published": "2026-11-12T19:57:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "78e9a79c8d1e9031",
    "title": "Naturopathy Day 2026: Scientific Research Strengthens India's Nature-Based Healthcare Ecosystem",
@@ -1658,127 +1782,6 @@
    "machines": [],
    "subjects": [
     "S&T"
-   ]
-  },
-  {
-   "id": "64795f799ab75118",
-   "title": "Commerce and Industry Shri Piyush Goyal Chairs Chintan Shivir on Digitisation of Trade",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330634",
-   "published": "2026-10-30T22:23:28Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "3b6896e307330266",
-   "title": "INS TARKASH CALLS AT PORT LOUIS, MAURITIUS",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330620",
-   "published": "2026-10-30T22:23:28Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "38a38ccb649dec34",
-   "title": "Special Campaign 6: Achievements of Department of Water Resources, River Development & Ganga Rejuvenation",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330616",
-   "published": "2026-10-30T22:23:28Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "cdde5ede9ef0adec",
-   "title": "The Government of India Constitutes the ‘High Level Committee on Banking for Viksit Bharat’",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330598",
-   "published": "2026-10-30T22:23:28Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "25b812d9000247bb",
-   "title": "PRESIDENT OF INDIA TO VISIT MAHARASHTRA AND HARYANA FROM OCTOBER 31 TO NOVEMBER 1",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330584",
-   "published": "2026-10-30T22:23:28Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "e167796451175ef7",
-   "title": "Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications; Government of Tamil Nadu & TANFINET for Utilisation of BharatNet Network in Tamil Nadu under ABP",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330586",
-   "published": "2026-10-30T22:23:28Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "0a5dc65fa3f9a0e8",
-   "title": "From Economic Challenges To Research Aspirations",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330568",
-   "published": "2026-10-30T22:23:28Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "b20582727b9fd36a",
-   "title": "41st Webinar of the National Good Governance Webinar Series on the theme ‘Sustainability and Replication of the Awarded Initiatives under PMA’ held on 30th October 2026.",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330512",
-   "published": "2026-10-30T12:59:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "294a94306a0522b1",
-   "title": "Uttar Pradesh Chief Minister and Railway Minister to Flag Off New Vande Bharat Sleeper Trains Connecting Varanasi to New Delhi Tomorrow",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330492",
-   "published": "2026-10-30T12:59:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "c3aca7794957a0c9",
-   "title": "DRI deals major blow to Myanmar-linked drug smuggling network; seizes huge consignment of 50 kg methamphetamine tablets and crystal meth in North-East; four arrested",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330453",
-   "published": "2026-10-30T12:59:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "8db2b6641bd8200e",
-   "title": "Union Environment Minister visits CAQM’s ‘PAVAN-I3C’ Integrated Command and Control Centre to review Air Pollution Mitigation Operations",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330449",
-   "published": "2026-10-30T12:59:06Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
    ]
   }
  ],
