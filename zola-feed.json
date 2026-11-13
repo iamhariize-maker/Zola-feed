@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-12T19:57:00Z",
+ "updated": "2026-11-13T06:49:13Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,28 @@
   }
  ],
  "inbox": [
+  {
+   "id": "f514a3851b4add96",
+   "title": "DIPAM Participates in Special Campaign 6 for Institutionalising Swachhata and Minimising Pendency",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335680",
+   "published": "2026-11-13T06:49:13Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "c32f704397537a3d",
+   "title": "Prime Minister shares a Sanskrit Subhashitam, highlighting the importance of properly assimilating Dharma, wealth, food, a Guru's teachings, and medicine",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335672",
+   "published": "2026-11-13T06:49:13Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "0b461186455362fa",
    "title": "Prime Minister Shri Narendra Modi participates in the Kisan Tak Bharat Agriculture Conference 2026",
@@ -1759,28 +1781,6 @@
    "machines": [],
    "subjects": [
     "Environment",
-    "S&T"
-   ]
-  },
-  {
-   "id": "d33bd288fc6843b5",
-   "title": "BOOKS ARE POWERFUL INSTRUMENTS OF TRANSFORMING LIVES AND BRINGING POSITIVE CHANGE IN SOCIETY: LOK SABHA SPEAKER",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330687",
-   "published": "2026-10-30T22:23:28Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "6eee7425c5e9be4b",
-   "title": "Extension of last date for submission of comments from stakeholders on the ‘Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026’",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330636",
-   "published": "2026-10-30T22:23:28Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
     "S&T"
    ]
   }
