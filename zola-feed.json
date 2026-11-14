@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-13T19:44:49Z",
+ "updated": "2026-11-14T06:28:00Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,52 @@
   }
  ],
  "inbox": [
+  {
+   "id": "0d5a5a8a438efabf",
+   "title": "DRI seizes 10.8 kg amphetamine concealed in postal parcel from Europe foiling a syndicate's attempt to misuse legitimate postal trade channels",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336134",
+   "published": "2026-11-14T06:28:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "8ba18e1f4998a59b",
+   "title": "Coordination between Industrial Development and Environmental Protection is the Foundation for Building a Developed India: Union Minister of Textiles Giriraj Singh",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336127",
+   "published": "2026-11-14T06:28:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "Environment",
+    "History"
+   ]
+  },
+  {
+   "id": "e698234a65155e6c",
+   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal to Visit Egypt from 15–16 November 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336126",
+   "published": "2026-11-14T06:28:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "d488a46a0e5136d5",
+   "title": "National Tribal Literary Festival Concludes with Emphasis on Preserving Oral Traditions and Promoting Contemporary Tribal Literature",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336125",
+   "published": "2026-11-14T06:28:00Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
   {
    "id": "e853379347915ef7",
    "title": "Union Minister of Commerce and Industry Shri Piyush Goyal inaugurates 45th India International Trade Fair 2026",
@@ -1735,50 +1781,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "fb2e7c8ce0e5bc79",
-   "title": "Union Ministry of Environment, Forest and Climate Change and its organisations successfully conclude Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331056",
-   "published": "2026-10-31T21:38:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "5e06faba12fe4364",
-   "title": "High level CAQM Team reviews Paddy Straw Management Measures reviews in Sangrur, Patiala and Malerkotla of Punjab",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331055",
-   "published": "2026-10-31T21:38:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "e44ebb6459000f72",
-   "title": "Delhi Records Lowest Average AQI for October in the Last Eight Years at 166",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331032",
-   "published": "2026-10-31T21:38:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "da0192807a2a4906",
-   "title": "LOK SABHA SPEAKER CALLS UPON YOUTH TO UPHOLD NATIONAL UNITY AND INTEGRITY AND CONTRIBUTE TO BUILDING A DEVELOPED INDIA",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331012",
-   "published": "2026-10-31T21:38:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
    ]
   }
  ],
