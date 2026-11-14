@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-14T06:28:00Z",
+ "updated": "2026-11-14T18:07:15Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,75 @@
   }
  ],
  "inbox": [
+  {
+   "id": "5162ec8819c8fda0",
+   "title": "Union Home Minister and Minister of Cooperation Shri Amit Shah to perform Bhoomi Pujan of NHEC Multi-State Cooperative Society in Pune, Maharashtra",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336332",
+   "published": "2026-11-14T18:07:15Z",
+   "source": "PIB",
+   "machines": [
+    "M23"
+   ],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "244ce853296bfd58",
+   "title": "India’s Export Growth in FY 2026-27: Strong Performance, New Milestones",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336328",
+   "published": "2026-11-14T18:07:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "e87468817f6f1f28",
+   "title": "Ministry of Social Justice & Empowerment Showcases Artisans’ Products at 45th India International Trade Fair 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336326",
+   "published": "2026-11-14T18:07:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "1ffa19bedb12264f",
+   "title": "MoU Between DoSJE and DGDE to Extend Senior Citizen Welfare Schemes to Cantonment Boards Across the Country",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336265",
+   "published": "2026-11-14T18:07:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "b37d43bdb258f788",
+   "title": "BRICS Cinema takes centre stage at 57th IFFI with 21 films from across the world",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336218",
+   "published": "2026-11-14T18:07:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "7ef83d1ea30e5fb7",
+   "title": "Indian Railways Approves Weekly Train Service Connecting Janakpur Dham in Nepal with Ayodhya in India",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336212",
+   "published": "2026-11-14T18:07:15Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
   {
    "id": "0d5a5a8a438efabf",
    "title": "DRI seizes 10.8 kg amphetamine concealed in postal parcel from Europe foiling a syndicate's attempt to misuse legitimate postal trade channels",
@@ -1712,75 +1781,6 @@
    "subjects": [
     "Polity",
     "IR"
-   ]
-  },
-  {
-   "id": "e5c928b24f3e766b",
-   "title": "PM to Inaugurate Bharat Renewable Energy Summit & Expo 2026 on 2nd November",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331222",
-   "published": "2026-11-01T13:29:35Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment",
-    "IR"
-   ]
-  },
-  {
-   "id": "fbbda27bf1fa306e",
-   "title": "Shri Dinesh V. Ganvir Takes Charge as Director General of GSI; Reaffirms Focus on Mineral Security, Scientific Excellence and Technological Advancement",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331156",
-   "published": "2026-11-01T13:29:35Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "f3a291269a4c2061",
-   "title": "LOK SABHA SPEAKER TO INAUGURATE CONFERENCE OF CHAIRPERSONS OF PUBLIC ACCOUNTS COMMITTEES OF PARLIAMENT OF INDIA AND STATE/UT LEGISLATURES IN THIRUVANANTHAPURAM",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331150",
-   "published": "2026-11-01T13:29:35Z",
-   "source": "PIB",
-   "machines": [
-    "M22"
-   ],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "5f9bea157f3e55d4",
-   "title": "Vice-President Inaugurates National Organ Transplant Games 2026; Calls Organ Donation a ‘Mahadaan’",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331147",
-   "published": "2026-11-01T13:29:35Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "a0299a621c1c0b93",
-   "title": "Coal Imports Decline by 5.83% in August 2026, Reflecting Reduced Import Dependence",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331073",
-   "published": "2026-11-01T06:10:36Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "13e98e2f2ca9adfc",
-   "title": "Ministry of Coal to Recognize Outstanding Achievements in Coal and Lignite Mining at Star Rating Awards in Raipur on 2nd November",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331074",
-   "published": "2026-11-01T06:10:36Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
