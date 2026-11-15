@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-14T18:07:15Z",
+ "updated": "2026-11-15T06:37:20Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,84 @@
   }
  ],
  "inbox": [
+  {
+   "id": "ff0b9d4199145493",
+   "title": "India must become a developer, innovator & global leader in advanced technologies: Raksha Mantri",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336449",
+   "published": "2026-11-15T06:37:20Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "8832860bd535ad4f",
+   "title": "President of India, Vice President, Prime Minister And Lok Sabha Speaker Pay Floral Tributes to Bhagwan Birsa Munda in Parliament Premises",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336442",
+   "published": "2026-11-15T06:37:20Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "33d961ae8945b758",
+   "title": "NIELIT to organize 3rd National Conference on Cyber Security, Digital Forensics & Intelligence (NCCDFI 2026) to be held in New Delhi on November 16–17, 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336431",
+   "published": "2026-11-15T06:37:20Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "ce8145d32eb0e080",
+   "title": "Opening Up India’s Space Economy",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336430",
+   "published": "2026-11-15T06:37:20Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "490575df0732bc37",
+   "title": "Yuge Yugeen Bharat Museum",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336426",
+   "published": "2026-11-15T06:37:20Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "ceed1394a47dc25c",
+   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal arrives in Cairo, Egypt, on an official visit to strengthen bilateral economic and commercial ties",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336423",
+   "published": "2026-11-15T06:37:20Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "bdc0eace8a16dfa7",
+   "title": "Sacred Relics of Shakyamuni Buddha Arrive at Golden Pagoda, Namsai, Marking the Final Phase of Exposition in Arunachal Pradesh",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336418",
+   "published": "2026-11-15T06:37:20Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "5162ec8819c8fda0",
    "title": "Union Home Minister and Minister of Cooperation Shri Amit Shah to perform Bhoomi Pujan of NHEC Multi-State Cooperative Society in Pune, Maharashtra",
@@ -1702,85 +1780,6 @@
    "machines": [],
    "subjects": [
     "History"
-   ]
-  },
-  {
-   "id": "6cfbb44d5ef87c3b",
-   "title": "Commerce Secretary Shri Rajesh Agrawal holds high-level meetings with European Commission officials and industry representatives in Brussels",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331376",
-   "published": "2026-11-02T06:10:34Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "d3a9d48755280766",
-   "title": "Union Minister for Railways Flags Off Bengaluru-Mumbai Vande Bharat Sleeper Express Train",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331297",
-   "published": "2026-11-01T22:04:21Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "cded60206a4a5f2f",
-   "title": "Union Minister Nitin Gadkari Performs Bhoomipujan of Multi-Modal Logistics Park at Sindi Railway",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331235",
-   "published": "2026-11-01T22:04:21Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "f1f4bb452e5a97c5",
-   "title": "PRESIDENT OF INDIA GRACES THE BALIDAN SHATABDI SAMAROH OF SWAMI SHRADDHANAND JI AT KURUKSHETRA",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331238",
-   "published": "2026-11-01T13:29:35Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "76ac7f42d7a2516e",
-   "title": "Coal India Marks 51 Glorious Years with Record-Breaking Performance in October 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331230",
-   "published": "2026-11-01T13:29:35Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "265f4d141e0e2315",
-   "title": "PRESIDENT OF INDIA GRACES THE ‘HIRAK JAYANTI’ CELEBRATION ON THE 60TH YEAR OF FORMATION OF THE STATE OF HARYANA AT KURUKSHETRA",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331227",
-   "published": "2026-11-01T13:29:35Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "History"
-   ]
-  },
-  {
-   "id": "dadb30467559a177",
-   "title": "Shri Kiren Rijiju, Union Minister of Parliamentary Affairs and Minority Affairs, attends the raising of 108 Stupas in Bhutan",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331224",
-   "published": "2026-11-01T13:29:35Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
    ]
   }
  ],
