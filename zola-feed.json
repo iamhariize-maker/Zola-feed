@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-15T06:37:20Z",
+ "updated": "2026-11-15T18:53:23Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,123 @@
   }
  ],
  "inbox": [
+  {
+   "id": "568724845d6ead78",
+   "title": "Agriculture Pavilion in IITF 2026 Witnesses Massive Footfall",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336671",
+   "published": "2026-11-15T18:53:23Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
+  {
+   "id": "588d63debf393119",
+   "title": "National Zoological Park organises 21st Sunday Bird Walk to Promote Citizen Science and Biodiversity Documentation",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336665",
+   "published": "2026-11-15T18:53:23Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "S&T"
+   ]
+  },
+  {
+   "id": "179310daf471c00d",
+   "title": "Union Home Minister and Minister of Cooperation Shri Amit Shah performs Bhoomi Pujan of NHEC Multi-State Cooperative Society, virtually inaugurates Western Regional Office of Central Registrar of Cooperative Societies and launches Bharat Taxi services in Pune, Maharashtra",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336647",
+   "published": "2026-11-15T18:53:23Z",
+   "source": "PIB",
+   "machines": [
+    "M23"
+   ],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "16288b502a31aa6a",
+   "title": "At the Climate Summit, India Makes the Case for a Sunday Bike Ride",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336597",
+   "published": "2026-11-15T18:53:23Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "IR"
+   ]
+  },
+  {
+   "id": "861d1aa779d2913d",
+   "title": "Prime Minister shares an article by Vice President Thiru C. P. Radhakrishnan highlighting the role of Eklavya Model Residential Schools in empowering tribal students",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336589",
+   "published": "2026-11-15T18:53:23Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "History"
+   ]
+  },
+  {
+   "id": "2be7ba7ba2a49260",
+   "title": "Prime Minister pays tributes to Bhagwan Birsa Munda on his Jayanti in Parliament House Complex",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336586",
+   "published": "2026-11-15T18:53:23Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "History"
+   ]
+  },
+  {
+   "id": "157634f930875e06",
+   "title": "57th IFFI Celebrates Cinematic Ties with Partner Country Russia Through an Evocative Four-Film Showcase",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336573",
+   "published": "2026-11-15T18:53:23Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "a044c064775d105f",
+   "title": "Vice President to visit Odisha on November 16, 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336507",
+   "published": "2026-11-15T18:53:23Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "ced70aa4351259e1",
+   "title": "Prime Minister pays tributes to Bhagwan Birsa Munda on his Jayanti and extends greetings on Janjatiya Gaurav Divas",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336498",
+   "published": "2026-11-15T18:53:23Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "3a23a287bcfc4adc",
+   "title": "WAVES Film Bazaar Celebrates 20 Years of Connecting Indian Cinema with Global Industry",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336493",
+   "published": "2026-11-15T18:53:23Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "ff0b9d4199145493",
    "title": "India must become a developer, innovator & global leader in advanced technologies: Raksha Mantri",
@@ -1666,120 +1783,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "fd8a1039f792ece5",
-   "title": "Ministry of Heavy Industries and its CPSEs and ABs conclude Special Campaign for Disposal of Pending Matters 6 (SCDPM 6)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331772",
-   "published": "2026-11-02T16:01:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "31a47518f9643912",
-   "title": "Prime Minister Shri Narendra Modi inaugurates Bharat Renewable Energy Summit & Expo 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331758",
-   "published": "2026-11-02T16:01:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment",
-    "IR"
-   ]
-  },
-  {
-   "id": "67e8e4fd1171afe9",
-   "title": "English rendering of PM's address at the inauguration of Bharat Renewable Energy Summit & Expo in Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331737",
-   "published": "2026-11-02T16:01:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment",
-    "IR"
-   ]
-  },
-  {
-   "id": "5d9ea5a73fb8f0be",
-   "title": "TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331704",
-   "published": "2026-11-02T16:01:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "S&T"
-   ]
-  },
-  {
-   "id": "67d8eeb051393612",
-   "title": "DoPPW Accelerates Digital Empowerment of Pensioners Through Nationwide Digital Life Certificate Campaign 5",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331689",
-   "published": "2026-11-02T16:01:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "5980e1ad32424ae2",
-   "title": "PM-SETU to strengthen North-East's skilling ecosystem through industry-led ITI transformation; Tourism and Hospitality identified as key sectors for global employment opportunities",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331682",
-   "published": "2026-11-02T16:01:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "a0191e91fb5f4ccd",
-   "title": "Department of Rural Development Successfully Concludes Special Campaign 6 with Significant Achievements in institutionalising Swachhata, reducing Pendency, improving Record Management and Optimising Office Space",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331659",
-   "published": "2026-11-02T16:01:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment",
-    "S&T"
-   ]
-  },
-  {
-   "id": "3980e2a93246d4fc",
-   "title": "National Orientation Programme for Tribal Healers on Public Health, Kanha Shanti Vanam, Hyderabad",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331397",
-   "published": "2026-11-02T06:10:34Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "370d53e663c94945",
-   "title": "Ministry of Rural Development Notifies Grievance Redressal Rules, 2026 under VB–G RAM G Act",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331390",
-   "published": "2026-11-02T06:10:34Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "176b7e85231a3690",
-   "title": "Sacred Relics of Lord Buddha Arrive at Tawang Monastery; Exposition Marks a Significant Moment in Arunachal Pradesh's Buddhist Heritage",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331377",
-   "published": "2026-11-02T06:10:34Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
    ]
   }
  ],
