@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-16T06:34:09Z",
+ "updated": "2026-11-16T22:07:33Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,155 @@
   }
  ],
  "inbox": [
+  {
+   "id": "3f4e8d2b830974f0",
+   "title": "Big Cat Conservation can be a Powerful Pathway for Climate Change Mitigation: Union Environment Minister at UNFCCC COP31, at Antalya (Türkiye)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337247",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "4502a1f5791722ca",
+   "title": "NCCDFI 2026 – Day 1 concludes in New Delhi, Strengthening India's Cybersecurity and Digital Forensics Ecosystem",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337227",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "208848a43d2ee6c3",
+   "title": "Union Home Minister and Minister of Cooperation Shri Amit Shah visits the Regional Office of the Central Registrar of Cooperative Societies (CRCS) in Pune and reviews its functioning and progress of various initiatives",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337223",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [
+    "M23"
+   ],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "b5daa390abe37088",
+   "title": "India calls for Country-Driven Just Transition Mechanism at COP31 in Antalya (Türkiye); Emphasizes Adequate Finance, Technology Transfer and Capacity Building for Developing Countries",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337158",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "S&T"
+   ]
+  },
+  {
+   "id": "a335268ed0231cbf",
+   "title": "NCPCR takes suo motu cognizance of alleged sexual assault of a 14-year-old tribal girl in Ranchi; Commission's team to visit Ranchi on 17 November",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337156",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "16e6f265703cdc46",
+   "title": "Council of Scientific and Industrial Research (CSIR) and the National Academy of Sciences of Belarus (NASB) Renew Scientific Partnership to Promote Joint Research, Innovation and Technology Development",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337144",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
+  {
+   "id": "16563c003c468e7d",
+   "title": "India and Thailand Review Bilateral Trade and Economic Cooperation at 14th Joint Trade Committee Meeting in Nonthaburi, Thailand",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337121",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "68073f8ddb47547e",
+   "title": "Special Handloom and Handicraft Exhibition Themed ‘Vikas Aur Virasat’ Inaugurated by Union Minister Shri Giriraj Singh at IITF 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337119",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "348832106c8f75f9",
+   "title": "CBDT Chairman Shri Ravi Agrawal inaugurates Taxpayers' Lounge at the India International Trade Fair (IITF), 2026, celebrating the spirit of Vikas aur Virasat",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337105",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "a32007e553605b66",
+   "title": "Sarbananda Sonowal Pitches $10 Billion Shipbuilding Opportunity to Global Maritime Leaders",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337092",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "922ac24b183f1d6e",
+   "title": "72nd Meeting of CSB’s Research Coordination Committee",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337073",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "6de1e57dc51be6dc",
+   "title": "Ministry of Minority Affairs Organises Workshop on AI for Digital Transformation to Strengthen AI-Enabled Governance",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337050",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "S&T"
+   ]
+  },
+  {
+   "id": "a239203ea3380a7d",
+   "title": "10 Films to Compete for ICFT-UNESCO Gandhi Medal at 57th IFFI",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337049",
+   "published": "2026-11-16T22:07:33Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
   {
    "id": "40411e44dd684e28",
    "title": "Kutch Earthquake 2001",
@@ -1639,152 +1788,6 @@
    "subjects": [
     "Economy",
     "Environment"
-   ]
-  },
-  {
-   "id": "b7b7b55407fa2b96",
-   "title": "Commerce and Industry Minister Shri Piyush Goyal inaugurates Vanijya Bhawan and Udyog Bhawan in Jaipur",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332658",
-   "published": "2026-11-04T19:48:04Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "5811111422db5ed5",
-   "title": "Indian Railways Registers Freight Loading of 145.07 Million Tonnes in October 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332375",
-   "published": "2026-11-04T06:28:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "ed967e8a3dfd7311",
-   "title": "Prime Minister shares Sanskrit Subhashitam highlighting the importance of self-realisation and inner strength",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332369",
-   "published": "2026-11-04T06:28:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "dafc045d031c4d05",
-   "title": "Minister of State for Commerce and Industry Shri Jitin Prasada Visits Poland to Strengthen Bilateral Trade, Investment and Technology Cooperation",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332357",
-   "published": "2026-11-04T06:28:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T",
-    "IR"
-   ]
-  },
-  {
-   "id": "242d779144f7b671",
-   "title": "IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B & Dhīr 5B by ZenteiQ Under the IndiaAI Innovation Centre Pillar",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332315",
-   "published": "2026-11-03T23:25:41Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "203661c18fabad11",
-   "title": "Shilp Samagam Mela 2026 Celebrates India's Cultural Diversity Through Traditional Art, Craft and Cultural Performances",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332256",
-   "published": "2026-11-03T23:25:41Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "8ef362e1516b9b00",
-   "title": "BRE Summit and Expo 2026 Brings Global Investors and Industry Leaders Together",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332293",
-   "published": "2026-11-03T23:25:41Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "15233f6aa899f510",
-   "title": "Ministry of Labour & Employment Successfully Concludes Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332241",
-   "published": "2026-11-03T14:19:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "f22e9cc86660ccb0",
-   "title": "Union Health Ministry has proposed amendments to Drugs Rules, 1945 to mandate Authorisation of qualified personnel for drug batch release",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332192",
-   "published": "2026-11-03T14:19:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "6715937f4aba85ec",
-   "title": "Indian Coast Guard and Sri Lanka Coast Guard hold 9th High-Level Meeting",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332184",
-   "published": "2026-11-03T14:19:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "8a479a28e79a99fd",
-   "title": "Smt. Punya Salila Srivastava, Secretary, Union Health Ministry, selects part-time members of National Dental Commission and its Autonomous Boards through draw of lots as per procedure prescribed under the National Dental Commission Act, 2023",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332176",
-   "published": "2026-11-03T14:19:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "3e1de120401c2da0",
-   "title": "Seminar on Cyber-Enabled Cognitive Warfare by CENJOWS & HQIDS Concludes in New Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332169",
-   "published": "2026-11-03T14:19:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "689f701640f01661",
-   "title": "NITI Aayog and TEXMiN Sign Joint Statement of Intent to Strengthen India’s Critical Minerals Ecosystem",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332152",
-   "published": "2026-11-03T14:19:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
    ]
   }
  ],
