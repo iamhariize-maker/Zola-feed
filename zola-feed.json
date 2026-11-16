@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-15T18:53:23Z",
+ "updated": "2026-11-16T06:34:09Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,75 @@
   }
  ],
  "inbox": [
+  {
+   "id": "40411e44dd684e28",
+   "title": "Kutch Earthquake 2001",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336752",
+   "published": "2026-11-16T06:34:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "3992416079a9260f",
+   "title": "NICDC Showcases Andhra Pradesh's Industrial Progress and Investment Opportunities at 31st CII Partnership Summit 2026 in Visakhapatnam",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336751",
+   "published": "2026-11-16T06:34:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "8566a5a7922a5799",
+   "title": "India and Egypt Hold Ministerial-Level 7th Joint Trade Committee Meeting to Strengthen Bilateral Economic Ties",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336726",
+   "published": "2026-11-16T06:34:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "IR"
+   ]
+  },
+  {
+   "id": "c8ad6c7857a00a1d",
+   "title": "Prime Minister shares a Sanskrit Subhashitam, highlighting the importance of always performing noble and positive actions",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336714",
+   "published": "2026-11-16T06:34:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "97b55974dffd2cc0",
+   "title": "LOK SABHA SPEAKER TO PARTICIPATE IN VISHWA SHANTI MAHAYAGYA IN VADNAGAR, GUJARAT",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336708",
+   "published": "2026-11-16T06:34:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "840c41092f626d30",
+   "title": "Dr M L Jat, DG ICAR inaugurates Centre of Excellence for Genome Editing and Farmers’ Training Centre at ICAR-IIHR, Bengaluru",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336678",
+   "published": "2026-11-16T06:34:09Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
   {
    "id": "568724845d6ead78",
    "title": "Agriculture Pavilion in IITF 2026 Witnesses Massive Footfall",
@@ -1716,73 +1785,6 @@
    "machines": [],
    "subjects": [
     "IR"
-   ]
-  },
-  {
-   "id": "ab1f8bdf7112c0bb",
-   "title": "Ministry of MSME observes Vigilance Awareness Week 2026 on the Theme of “Probity for Prosperity”",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332151",
-   "published": "2026-11-03T14:19:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "6abab75337b2aba7",
-   "title": "APEDA Facilitates Export of 1.3 MT of Sinduri Pomegranates from Kullu to Dubai",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332080",
-   "published": "2026-11-03T14:19:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "3c1b8daa353fecd9",
-   "title": "APEDA Facilitates Trial Export of 1.5 MT of Arunachal Pradesh Kiwi to Dubai",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332077",
-   "published": "2026-11-03T14:19:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "628cb61a9848c875",
-   "title": "International Buddhist Confederation, in Collaboration with the Ministry of Culture and the Government of Arunachal Pradesh, Organises International Conference on “Buddhism: Dissemination in the Himalayan Region and Beyond” today at Tawang, Arunachal Pradesh",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331839",
-   "published": "2026-11-03T01:00:10Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "24354bafc4868ac9",
-   "title": "Prime Minister Shri Narendra Modi inaugurates Bharat Renewable Energy Summit & Expo 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331789",
-   "published": "2026-11-02T16:01:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment",
-    "IR"
-   ]
-  },
-  {
-   "id": "2821418819538229",
-   "title": "Ministry of Coal recognises outstanding performance of coal mines under Star Rating Programme for FY 2024-25; 50 mines receive Five-Star Ratings",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331780",
-   "published": "2026-11-02T16:01:57Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
