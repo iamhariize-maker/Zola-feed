@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-17T20:57:54Z",
+ "updated": "2026-11-18T07:32:39Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,73 @@
   }
  ],
  "inbox": [
+  {
+   "id": "b3f6e59c3837bbb0",
+   "title": "3rd DHR-ICMR Health Research Excellence Summit Brings Together Over 600 Scientists, Researchers and Policymakers in New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337773",
+   "published": "2026-11-18T07:32:39Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T",
+    "IR"
+   ]
+  },
+  {
+   "id": "0a98cf3b84b85c2a",
+   "title": "Special Campaign 6: Achievements of Department of Water Resources, River Development & Ganga Rejuvenation",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337755",
+   "published": "2026-11-18T07:32:39Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "4c92c68bfcfbcfe5",
+   "title": "Prime Minister shares Sanskrit Subhashitam highlighting the importance of balance in maintaining health and happiness",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337753",
+   "published": "2026-11-18T07:32:39Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "05fb08bcd7ebf640",
+   "title": "India's Wind Energy Transition",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337735",
+   "published": "2026-11-18T07:32:39Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "131b259a7cbada8f",
+   "title": "INDIAN NAVY MARKS 50 YEARS OF LONG-RANGE MARITIME RECONNAISSANCE",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337736",
+   "published": "2026-11-18T07:32:39Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "b69bdaa86bb4c518",
+   "title": "Shri Shivraj Singh Chouhan to dedicate India's First Indigenous H5N1 (Clade 2.3.2.1a) Chicken Vaccine to the Nation on 20 November",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337716",
+   "published": "2026-11-18T07:32:39Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "b81b96d2d77ffe26",
    "title": "Union Agriculture Minister Shri Shivraj Singh Chouhan visits Samrala, Punjab, under ‘Khet Bachao Abhiyan’; says “farmers’ plans will be made in the fields, not sitting in offices in Delhi”",
@@ -1725,72 +1792,6 @@
    "machines": [],
    "subjects": [
     "Environment"
-   ]
-  },
-  {
-   "id": "83d15225820bf31b",
-   "title": "INDIA AND MYANMAR COMMENCE INAUGURAL TRI-SERVICES JOINT HADR EXERCISE ‘RAHAT MITRA’",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333709",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "636132184f74557d",
-   "title": "ENVOYS OF FOUR NATIONS PRESENT CREDENTIALS TO THE PRESIDENT OF INDIA",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333703",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "fb992da40fb888e8",
-   "title": "Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications; Government of Telangana; TRIICL; BSNL & T-Fibre for Implementation of Amended BharatNet Program in Telangana",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333683",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "4c93700badd0b49b",
-   "title": "Department of Land Resources successfully concludes Special Campaign 6 for institutionalising Swachhata and reducing pendency",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333669",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "add981ec43ce6b9c",
-   "title": "NHAI Guidelines to Standardise Design and Infrastructure for Multi-Lane Free Flow Tolling on Four-Lane and Above National Highways",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333654",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "08da0710d7a21d95",
-   "title": "Governor of Tamil Nadu meets Prime Minister",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333634",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
    ]
   }
  ],
