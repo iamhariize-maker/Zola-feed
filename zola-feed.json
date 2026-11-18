@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-18T07:32:39Z",
+ "updated": "2026-11-18T20:35:07Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,141 @@
   }
  ],
  "inbox": [
+  {
+   "id": "b3e97a89d8bee5e7",
+   "title": "Union Minister Shri Nitin Gadkari highlights role of app-based platforms in employment generation and inclusive mobility",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338236",
+   "published": "2026-11-18T20:35:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "be27a8cb616b394b",
+   "title": "India calls for an Open, Transparent and Equitable Second Global Stocktake under Paris Agreement; Presses for Accountability on Climate Finance and Technology Transfer, at COP31 in Antalya (Türkiye)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338141",
+   "published": "2026-11-18T20:35:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "S&T"
+   ]
+  },
+  {
+   "id": "13ea0b4033865899",
+   "title": "LOK SABHA SPEAKER PARTICIPATES IN VISHWA SHANTI MAHAYAGYA AT HISTORIC SHRI HATKESHWAR MAHADEV TEMPLE IN VADNAGAR",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338131",
+   "published": "2026-11-18T20:35:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "History"
+   ]
+  },
+  {
+   "id": "665307cd53bb289f",
+   "title": "Vice President of India Shri C. P. Radhakrishnan Addresses 8th Convocation of VMMC & Safdarjung Hospital in the Presence of Union Health Minister Shri J.P. Nadda",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338127",
+   "published": "2026-11-18T20:35:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "e2df674c0f83ed56",
+   "title": "PM to participate in the Valedictory Session of Departmental Summit on Social Justice and Empowerment on 19 November",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338126",
+   "published": "2026-11-18T20:35:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "a29c5755abd60170",
+   "title": "Strengthening India’s Community Seed Banks (CSBs): DIVERSIFARM-India Maps 652 CSBs and Releases New Capacity-Building Manual",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338118",
+   "published": "2026-11-18T20:35:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "a70a9065b65a415b",
+   "title": "Vice-President Graces Silver Jubilee Celebrations and 8th Annual Convocation of Vardhman Mahavir Medical College and Safdarjung Hospital in New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338093",
+   "published": "2026-11-18T20:35:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "39324022996e5d03",
+   "title": "Union Minister of Micro, Small and Medium Enterprises (MSME) Shri Jitan Ram Manjhi inaugurates MSME, KVIC, COIR and NSSH Pavilions at the 45th India International Trade Fair",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338086",
+   "published": "2026-11-18T20:35:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "a171c9b605ef442a",
+   "title": "Parvat Manthan Conclave 2026 concludes with recommendations to strengthen climate resilience, ecological planning and municipal finance in Himalayan cities",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338087",
+   "published": "2026-11-18T20:35:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "d9048ca351bb92ae",
+   "title": "PRESIDENT OF INDIA GRACES THE VALEDICTORY CEREMONY OF THE CENTENARY CELEBRATIONS OF SHRI RAM COLLEGE OF COMMERCE",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338083",
+   "published": "2026-11-18T20:35:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "1e3f11db3ff7f297",
+   "title": "Union Minister of Communications Shri Jyotiraditya Scindia to participate in Letter of Intent Distribution Ceremony in Bhopal for upcoming Telecom Manufacturing Zone in Gwalior",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338073",
+   "published": "2026-11-18T20:35:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
+  {
+   "id": "6d66032f7c6d6d48",
+   "title": "Strengthening Educational Opportunities for OBC Girls through Dedicated Hostel Infrastructure",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338065",
+   "published": "2026-11-18T20:35:07Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "b3f6e59c3837bbb0",
    "title": "3rd DHR-ICMR Health Research Excellence Summit Brings Together Over 600 Scientists, Researchers and Policymakers in New Delhi",
@@ -1658,140 +1793,6 @@
    "machines": [],
    "subjects": [
     "S&T"
-   ]
-  },
-  {
-   "id": "d6e03f0870da696a",
-   "title": "E20 Petrol Supplied by PSU Oil Marketing Companies Meets Prescribed Quality Standards; 893 Samples Across 27 States and UTs Found Compliant",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333919",
-   "published": "2026-11-07T13:06:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "72d5128e4e0172d0",
-   "title": "WaveX Invites Startups to Participate in WAVES Bazaar at IFFI Goa 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333906",
-   "published": "2026-11-07T13:06:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "53bad6746c4c22fb",
-   "title": "CAQM invokes Stage-III of GRAP in Delhi-NCR with immediate effect as Delhi records an AQI of 382",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333904",
-   "published": "2026-11-07T13:06:07Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "356eb488d4a031f3",
-   "title": "India’s Chemicals and Petrochemicals Sector: A Foundation for Industrial Growth",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333894",
-   "published": "2026-11-07T06:01:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "3b799dfb48e74a0d",
-   "title": "Central Bureau of Narcotics (CBN) celebrates 77th Foundation Day and reaffirms India's vision for a “Nasha Mukt Yuva for Viksit Bharat”, through intensified enforcement, digital governance, and mission \"Yuva Raksha\"",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333782",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "S&T"
-   ]
-  },
-  {
-   "id": "cb317a2cd7606293",
-   "title": "Union Minister for Railways Shri Ashwini Vaishnaw Reviews Passenger Facilities and Security Arrangements at New Delhi Railway Station",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333760",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "2334058abec71628",
-   "title": "IAF’s SDI-IIT MADRAS AND IITM PRAVARTAK TECHNOLOGIES FOUNDATION SIGNS MEMORANDUM OF AGREEMENT FOR INDIGENOUS DIGITAL SECURE COMMUNICATION SYSTEM FOR AIRBORNE APPLICATIONS",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333748",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "fa3fd5545efdebfa",
-   "title": "Department of Revenue, Ministry of Finance, successfully concludes Special Campaign 6 for institutionalising Swachhata and reducing pendency",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333744",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "68b55eb1b6264633",
-   "title": "Office of the Principal Scientific Adviser and DPIIT Launches API Integration between Startup India and I-STEM Portals to Strengthen Access to National Research Infrastructure",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333736",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
-   ]
-  },
-  {
-   "id": "9b95493e37be0e61",
-   "title": "CULMINATION OF THE MAIDEN BIMSTEC MARITIME SECURITY EXERCISE AT ANDAMAN AND NICOBAR COMMAND",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333721",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "534f59334219fef9",
-   "title": "Union Minister Ashwini Vaishnaw Launches Semicon 2.0 Web Application Portal and Announces 12 Approved Applicants under Electronics Components Manufacturing Scheme",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333716",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "006a882d3414acb7",
-   "title": "Department of Justice, Ministry of Law and Justice Successfully Concludes Special Campaign 6 for institutionalizing Swachhata and minimizing pendency in Government Offices",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333712",
-   "published": "2026-11-06T19:26:31Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
    ]
   }
  ],
