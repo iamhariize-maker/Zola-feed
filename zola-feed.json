@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-19T20:40:22Z",
+ "updated": "2026-11-20T07:19:59Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,73 @@
   }
  ],
  "inbox": [
+  {
+   "id": "369458dd734be883",
+   "title": "From Indian Fields to Global Markets: Agri-Exports Gather Pace",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338907",
+   "published": "2026-11-20T07:19:59Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "2caa442af49241c7",
+   "title": "TRIFED Organises Aadi Mahotsav 2026 at Dilli Haat, INA, to Promote Tribal Entrepreneurship and Indigenous Products",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338882",
+   "published": "2026-11-20T07:19:59Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "fa1421aada0061b6",
+   "title": "Ministry of Steel to hold Open House on Steel Import Issues on 25th November",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338875",
+   "published": "2026-11-20T07:19:59Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "edd2f8ccbed5a935",
+   "title": "MeitY Engages with UN Special Rapporteur on Digital Accessibility and Inclusion of Persons with Disabilities",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338864",
+   "published": "2026-11-20T07:19:59Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "07fef3f54ff2965c",
+   "title": "CGST Faridabad detects pan masala manufacturing unit running undeclared pouch-packing machines in Rewari; four machines seized; one arrested under HSNS Cess Act, 2025",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338858",
+   "published": "2026-11-20T07:19:59Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "Economy"
+   ]
+  },
+  {
+   "id": "63bf811dbaaf3299",
+   "title": "Ministry of Jal Shakti launches ‘Swachh Shauchalay – Garimamay Bhavishya’ (SSGB) campaign on World Toilet Day 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338851",
+   "published": "2026-11-20T07:19:59Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "c8186c5d1fb26764",
    "title": "Sarbananda Sonowal Condemns Attacks on Commercial Vessels, Orders Tighter Maritime Security for Indian Seafarers Sailing High-risk Waters",
@@ -1724,76 +1791,6 @@
    "machines": [],
    "subjects": [
     "S&T"
-   ]
-  },
-  {
-   "id": "ddf8cc10f19cce64",
-   "title": "Indian Railways Successfully Concludes Special Campaign 6; Over 1 Lakh Cleanliness Drives Conducted",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334410",
-   "published": "2026-11-09T22:24:12Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "369acb823f9fe4e3",
-   "title": "Department of Agriculture & Farmers Welfare actively undertakes various activities under special campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334407",
-   "published": "2026-11-09T22:24:12Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "History"
-   ]
-  },
-  {
-   "id": "30d860cba018fda7",
-   "title": "Ministry of New and Renewable Energy Successfully Concludes Special Campaign 6",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334368",
-   "published": "2026-11-09T22:24:12Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "3b7cbab91f25c3ba",
-   "title": "TRAI releases “The Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026”",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334365",
-   "published": "2026-11-09T22:24:12Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "Economy",
-    "S&T"
-   ]
-  },
-  {
-   "id": "6bc19e37aa7128f0",
-   "title": "TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railway station and Guwahati Railway station under Assam LSA",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334364",
-   "published": "2026-11-09T22:24:12Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "5716ceb784df881d",
-   "title": "President of India to Confer 10th Edition Swachh Survekshan 2025-26 Awards",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334316",
-   "published": "2026-11-09T22:24:12Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "Environment"
    ]
   }
  ],
