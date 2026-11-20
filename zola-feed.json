@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-20T07:19:59Z",
+ "updated": "2026-11-20T20:24:24Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,84 @@
   }
  ],
  "inbox": [
+  {
+   "id": "59d9be36f69d894f",
+   "title": "Air Cargo Import, Delhi Customs foils smuggling attempt of cocaine worth Rs. 5 crore (approx.) at Air Cargo Complex, New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339395",
+   "published": "2026-11-20T20:24:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "bb93daca04460131",
+   "title": "Prime Minister Shri Narendra Modi inaugurates First SCO Civilisational Dialogue Forum",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339362",
+   "published": "2026-11-20T20:24:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "cc234ebefc9dc373",
+   "title": "MINISTER OF FOREIGN AFFAIRS OF BULGARIA CALLS ON THE PRESIDENT",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339358",
+   "published": "2026-11-20T20:24:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "522a91c2fad31f9f",
+   "title": "National Zoological Park, New Delhi to Remain Closed for Visitors on 21st and 22nd November 2026 in View of the First SCO Civilizational Dialogue Forum",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339306",
+   "published": "2026-11-20T20:24:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "40d3ba09dd4c2610",
+   "title": "English rendering of PM's address at the inauguration of First Shanghai Cooperation Organisation (SCO) Civilisational Dialogue Forum in Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339303",
+   "published": "2026-11-20T20:24:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "27e8bf7609882c92",
+   "title": "9th Naturopathy Day Celebrated with Eco-Friendly and Plastic-Free Arrangements at Nagamangala",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339240",
+   "published": "2026-11-20T20:24:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "8684e02044cb0724",
+   "title": "Shri Chirag Paswan Calls on Beverage Industry to Make India a Global Hub for Manufacturing, Innovation and Exports",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339211",
+   "published": "2026-11-20T20:24:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
   {
    "id": "369458dd734be883",
    "title": "From Indian Fields to Global Markets: Agri-Exports Gather Pace",
@@ -1714,83 +1792,6 @@
    "subjects": [
     "Economy",
     "History"
-   ]
-  },
-  {
-   "id": "530073660f4c539a",
-   "title": "Union Minister Dr. Jitendra Singh Chairs ESSC General Body Meeting, Emphasises Citizen-Centric Science Communication to Showcase India's Scientific Achievements",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334718",
-   "published": "2026-11-10T19:45:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "7bf8e1bd125ab668",
-   "title": "India Post and IndiGo Bring Digital Detox 2.0 to 15 Flights Across 11 Destinations, Spreading Festive Cheer Through Handwritten Postcards",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334710",
-   "published": "2026-11-10T19:45:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "89b2c24879a1461e",
-   "title": "Round 2 of ₹37,500 Crore Scheme for Promotion of Surface Coal/Lignite Gasification Projects Concludes with Two Applications from NTPC Limited; Round 3 Opens Today",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334671",
-   "published": "2026-11-10T19:45:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "97b1d93fda98cdee",
-   "title": "Press Note on Periodic Labour Force Survey (PLFS) Quarterly Bulletin July-September 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334642",
-   "published": "2026-11-10T19:45:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "9b03c47ad6434c9f",
-   "title": "MY Bharat Organises Nationwide Deepotsav and Neighbourhood Youth Parliaments Under 100-Week Anti-Drug Campaign",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334566",
-   "published": "2026-11-10T07:22:42Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "dc5cb21c17134f0d",
-   "title": "Union Minister of Minority Affairs & Parliamentary Affairs, Shri Kiren Rijiju visits Kingdom of Saudi Arabia.",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334463",
-   "published": "2026-11-09T22:24:12Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "66934add82c76967",
-   "title": "From Financial Challenges to Global Research Opportunities",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334453",
-   "published": "2026-11-09T22:24:12Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
    ]
   }
  ],
