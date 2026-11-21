@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-21T07:13:14Z",
+ "updated": "2026-11-21T19:18:49Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,52 @@
   }
  ],
  "inbox": [
+  {
+   "id": "8795714594bfc56c",
+   "title": "Union Minister Shri Gajendra Singh Shekhawat: “Shared Cultural Heritage a Strong Bridge Connecting SCO Nations”",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339742",
+   "published": "2026-11-21T19:18:49Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR",
+    "History"
+   ]
+  },
+  {
+   "id": "205c3291c611844c",
+   "title": "BHASHINI Concludes Participation at Global Digital Health Summit 2026, Highlights Role of Multilingual AI in Building Inclusive and Empathetic Healthcare",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339665",
+   "published": "2026-11-21T19:18:49Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T",
+    "IR"
+   ]
+  },
+  {
+   "id": "5d287de5f13f7a9b",
+   "title": "Vice-President graces 42nd Annual Day celebrations of Nellai Nadar Matriculation Higher Secondary School in Chennai",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339654",
+   "published": "2026-11-21T19:18:49Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "0c5f6c3fc589034f",
+   "title": "Union Home Minister and Minister of Cooperation Shri Amit Shah congratulates NCB and US DEA on the exemplary success of Operation Monsoon Thunder, jointly launched to scuttle cross-border drug trafficking",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339601",
+   "published": "2026-11-21T19:18:49Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "42ef7bfeb3065a09",
    "title": "India’s Expanding Regional Exports",
@@ -1745,53 +1791,6 @@
    "machines": [],
    "subjects": [
     "S&T"
-   ]
-  },
-  {
-   "id": "a4437a272829a2f4",
-   "title": "Bharat Parv 2026 Showcases India’s Rich Cultural Heritage and Diversity at Ekta Nagar, Gujarat",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335115",
-   "published": "2026-11-11T19:38:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "b54bb952bc4baff8",
-   "title": "India and Norway Explore Joint Technologies to Turn Industrial Waste into Resources for Sustainable Construction",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334888",
-   "published": "2026-11-11T06:27:59Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment",
-    "S&T"
-   ]
-  },
-  {
-   "id": "75cb8eebd772fc8d",
-   "title": "Bharat Mobility Expo gaining global recognition, third edition to be the second largest such expo in the world: Commerce and Industry Minister Shri Piyush Goyal",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334866",
-   "published": "2026-11-10T19:45:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "b5e0b3f4faf10b91",
-   "title": "Odisha charts a National Roadmap for Millet led Agricultural Transformation",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334764",
-   "published": "2026-11-10T19:45:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "History"
    ]
   }
  ],
