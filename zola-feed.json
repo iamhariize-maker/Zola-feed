@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-20T20:24:24Z",
+ "updated": "2026-11-21T07:13:14Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,42 @@
   }
  ],
  "inbox": [
+  {
+   "id": "42ef7bfeb3065a09",
+   "title": "India’s Expanding Regional Exports",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339440",
+   "published": "2026-11-21T07:13:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "ee0d7af41b482b7d",
+   "title": "GeM Signs MoU with TICCI to Expand Public Procurement Opportunities for Tribal Entrepreneurs",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339431",
+   "published": "2026-11-21T07:13:14Z",
+   "source": "PIB",
+   "machines": [
+    "M16"
+   ],
+   "subjects": [
+    "IR",
+    "History"
+   ]
+  },
+  {
+   "id": "13d34ee62d04c7c2",
+   "title": "India Crosses Historic Milestone of 1 Crore HPV Vaccine Doses Administered in Less Than Nine Months, Marking Major Progress in Cervical Cancer Prevention",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339423",
+   "published": "2026-11-21T07:13:14Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
   {
    "id": "59d9be36f69d894f",
    "title": "Air Cargo Import, Delhi Customs foils smuggling attempt of cocaine worth Rs. 5 crore (approx.) at Air Cargo Complex, New Delhi",
@@ -1750,42 +1786,6 @@
    "id": "b5e0b3f4faf10b91",
    "title": "Odisha charts a National Roadmap for Millet led Agricultural Transformation",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334764",
-   "published": "2026-11-10T19:45:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "History"
-   ]
-  },
-  {
-   "id": "6fe7ae427f330713",
-   "title": "Ministry of Micro, Small and Medium Enterprises (MSME) holds Round Table Discussion with CPSEs on Enhancing Procurement from SC/ST MSEs",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334759",
-   "published": "2026-11-10T19:45:49Z",
-   "source": "PIB",
-   "machines": [
-    "M16"
-   ],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "7e93571eaaf14a3b",
-   "title": "Delhi's River Tourism Begins with the Launch of Yamuna Recreational Cruise Service",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334740",
-   "published": "2026-11-10T19:45:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "6369020617fb97ba",
-   "title": "Union Minister of State For Agriculture and Farmers' Welfare Shri Ram Nath Thakur participates in Khet Bachao Abhiyan in North 24 Parganas",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334717",
    "published": "2026-11-10T19:45:49Z",
    "source": "PIB",
    "machines": [],
