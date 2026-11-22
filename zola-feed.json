@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-21T19:18:49Z",
+ "updated": "2026-11-22T19:43:41Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,122 @@
   }
  ],
  "inbox": [
+  {
+   "id": "1cc3fab901c11d0c",
+   "title": "LOK SABHA SPEAKER CALLS FOR A PEOPLE’S MOVEMENT TO MAKE YAMUNA CLEAN AND ENSURE ITS UNINTERRUPTED FLOW",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340136",
+   "published": "2026-11-22T19:43:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "681daebd57eeff60",
+   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal Chairs Interaction with Tea Industry Stakeholders at Kurseong, Darjeeling",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340116",
+   "published": "2026-11-22T19:43:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "b3098efd48bcaa4c",
+   "title": "National Zoological Park organizes 22nd Sunday Bird Walk to Promote Citizen Science and Conservation Awareness; Records 45 Bird Species",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340112",
+   "published": "2026-11-22T19:43:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "S&T"
+   ]
+  },
+  {
+   "id": "3e8898cc0b46ae0b",
+   "title": "Ramayana: Rise of a Legend (Part 1) Opens ‘Films from BRICS’ at 57th IFFI",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340044",
+   "published": "2026-11-22T19:43:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "b60de82b410f8fb7",
+   "title": "Film Industry Veterans Discuss the Role of Film Schools at 57th IFFI",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340040",
+   "published": "2026-11-22T19:43:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "dcdcdaee539330fd",
+   "title": "“Thousands of Years of Lived Experiences Nourished by the Ganga”: Bharat Bala and A.R. Rahman Reunite for Banaras at IFFI 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340032",
+   "published": "2026-11-22T19:43:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "7496ff11879244d2",
+   "title": "BRICS Film Festival Roundtable Explores Opportunities in Co-production, Distribution and Technology Exchange at 57th IFFI",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340021",
+   "published": "2026-11-22T19:43:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T",
+    "IR",
+    "History"
+   ]
+  },
+  {
+   "id": "d6583ea87fe0945d",
+   "title": "First SCO Civilisational Dialogue Forum Concludes in New Delhi, Reaffirming Shared Heritage and Strengthening Cultural Cooperation Among Member Nations",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339975",
+   "published": "2026-11-22T19:43:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR",
+    "History"
+   ]
+  },
+  {
+   "id": "513c3ecd0b01c08f",
+   "title": "Who Says Only Boys Can Roar Like Tigers? Baghuni Tells the Story of a Young Girl Challenging Gender Barriers in Traditional Tiger Dance",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339972",
+   "published": "2026-11-22T19:43:41Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "b99c66a9278f81a7",
+   "title": "Union Home and Cooperation Minister Shri Amit Shah unveils ‘Arunachal Pradesh Cooperative Vision 2047’ and launches various development projects in Itanagar",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339970",
+   "published": "2026-11-22T19:43:41Z",
+   "source": "PIB",
+   "machines": [
+    "M23"
+   ],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "8795714594bfc56c",
    "title": "Union Minister Shri Gajendra Singh Shekhawat: “Shared Cultural Heritage a Strong Bridge Connecting SCO Nations”",
@@ -1675,118 +1791,6 @@
    "title": "Naturopathy Day 2026: Scientific Research Strengthens India's Nature-Based Healthcare Ecosystem",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335313",
    "published": "2026-11-12T07:14:38Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "24735d1801c8c6fa",
-   "title": "PRESIDENT OF INDIA PRESENTS SWACHH SURVEKSHAN AWARDS",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335224",
-   "published": "2026-11-11T19:38:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "Environment"
-   ]
-  },
-  {
-   "id": "234ea1191879f255",
-   "title": "Sarbananda Sonowal Lays Foundation Stones for Projects Worth Rs 560 Crore at Visakhapatnam Port",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335212",
-   "published": "2026-11-11T19:38:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "cd85a16a06ff3ab9",
-   "title": "Swachh Survekshan Awards 2025-26",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335207",
-   "published": "2026-11-11T19:38:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "fa8fd84b755eb8bb",
-   "title": "INDIAN NAVY AND ROYAL NAVY OF OMAN CONDUCT 15TH EDITION OF BILATERAL MARITIME EXERCISE NASEEM AL BAHR (SEA BREEZE)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335193",
-   "published": "2026-11-11T19:38:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "a6227874cff197cd",
-   "title": "INDIAN NAVAL SHIP TRISHUL CONCLUDES PORT CALL AT SAFAGA, EGYPT",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335192",
-   "published": "2026-11-11T19:38:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "7fc024b6c8854bd9",
-   "title": "8TH EDITION OF INDIA–MYANMAR NAVAL EXERCISE (IMNEX-26) COMMENCES AT VISAKHAPATNAM",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335191",
-   "published": "2026-11-11T19:38:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "918e3da67df1e69f",
-   "title": "Janjatiya Gaurav Pakhwada 2026: Nationwide Celebrations to Honour Tribal Heritage, Empower Communities and Accelerate Last-Mile Delivery of Welfare Schemes",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335189",
-   "published": "2026-11-11T19:38:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "759a6df62e559fea",
-   "title": "Ministry of Tribal Affairs to Organise National Tribal Literary Festival in New Delhi on 12–13 November 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335187",
-   "published": "2026-11-11T19:38:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "e332080e0ce6d83f",
-   "title": "BUILDING A STRONGER AND MORE PROSPEROUS INDIA REQUIRES EFFECTIVE INSTITUTIONS AND PUBLIC SERVANTS: LOK SABHA SPEAKER",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335179",
-   "published": "2026-11-11T19:38:05Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "a58e33074854035c",
-   "title": "Cyber Threats Respect No Borders, Neither Should Cooperation: Union MoS for Communications Dr. Chandra Sekhar Pemmasani at ITU PP-26",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335168",
-   "published": "2026-11-11T19:38:05Z",
    "source": "PIB",
    "machines": [],
    "subjects": [
