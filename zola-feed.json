@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-23T07:42:57Z",
+ "updated": "2026-11-23T23:56:10Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,130 @@
   }
  ],
  "inbox": [
+  {
+   "id": "798960cc06072d41",
+   "title": "List of Outcomes: State visit of the Prime Minister of Nepal to India",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340650",
+   "published": "2026-11-23T23:56:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "ce03f21fde7166a8",
+   "title": "Joint workshop of the Ministries of Agriculture and Rural Development, on their role in eradication of poverty, concludes in Delhi under the chairmanship of Union Minister Shri Shivraj Singh Chouhan",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340632",
+   "published": "2026-11-23T23:56:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
+  {
+   "id": "20c267bea828e757",
+   "title": "Joint workshop of the Ministries of Agriculture and Rural Development, on their role in eradication of poverty, concludes in Delhi under the chairmanship of Union Minister Shri Shivraj Singh Chouhan",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340628",
+   "published": "2026-11-23T23:56:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
+  {
+   "id": "2c67e3b5ed1f0577",
+   "title": "‘Pagla Ghora’ and ‘Ohh My Dog’ Explore the Profound Dimensions of Human Conscience and Unconditional Love at 57th IFFI",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340581",
+   "published": "2026-11-23T23:56:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "f0b62aa474719b89",
+   "title": "Reimagining the Superhero: Ayan Mukerji and Basil Joseph Converse on Crafting Culturally Rooted Worlds",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340511",
+   "published": "2026-11-23T23:56:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "142deac2c61d14ff",
+   "title": "PRIME MINISTER OF NEPAL CALLS ON THE PRESIDENT OF INDIA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340498",
+   "published": "2026-11-23T23:56:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "IR"
+   ]
+  },
+  {
+   "id": "3624e418f818878d",
+   "title": "Ministry of Coal amends Mineral Concession Rules, 1960 and extends accreditation period of Accredited Prospecting Agencies and Mining Plan Preparing Agencies from three to five years",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340491",
+   "published": "2026-11-23T23:56:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "9357bba3e5471cff",
+   "title": "Ministry of Coal issues Guidelines for preparation of Mining Plan and Mine Closure Plan for Coal and Lignite Mines, 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340492",
+   "published": "2026-11-23T23:56:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "9223fc4a7ec47e1d",
+   "title": "Prime Minister Shri Narendra Modi Lauds India’s Achievement of Administering Over 1 Crore HPV Vaccine Doses in Less Than Nine Months",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340488",
+   "published": "2026-11-23T23:56:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "53b34696bf55acde",
+   "title": "PRESIDENT OF INDIA’S MESSAGE ON THE EVE OF ‘MARTYRDOM DAY’ OF GURU TEGH BAHADUR JI",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340482",
+   "published": "2026-11-23T23:56:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "da0f696880c6c8b0",
+   "title": "Tamil movie ‘Koodu’ Explores Environmental Conservation and Community Responsibility at 57th IFFI",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340487",
+   "published": "2026-11-23T23:56:10Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "7a53924d4c384f3b",
    "title": "Union Environment Minister chairs 92nd Meeting of the Standing Committee of the National Board for Wildlife",
@@ -1672,129 +1796,6 @@
    "machines": [],
    "subjects": [
     "History"
-   ]
-  },
-  {
-   "id": "71e4930996e83b41",
-   "title": "The cumulative exports (merchandise & services) during April-October 2026-27 are estimated at US$ 568.84 Billion, as compared to US$ 487.59 Billion in April-October 2025-26, an estimated growth of 16.66%.",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335914",
-   "published": "2026-11-13T19:44:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "f514a3851b4add96",
-   "title": "DIPAM Participates in Special Campaign 6 for Institutionalising Swachhata and Minimising Pendency",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335680",
-   "published": "2026-11-13T06:49:13Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "c32f704397537a3d",
-   "title": "Prime Minister shares a Sanskrit Subhashitam, highlighting the importance of properly assimilating Dharma, wealth, food, a Guru's teachings, and medicine",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335672",
-   "published": "2026-11-13T06:49:13Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "0b461186455362fa",
-   "title": "Prime Minister Shri Narendra Modi participates in the Kisan Tak Bharat Agriculture Conference 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335664",
-   "published": "2026-11-12T19:57:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "History"
-   ]
-  },
-  {
-   "id": "25f8f8881eb9ee08",
-   "title": "English rendering of PM's address at the Kisan Tak Bharat Agriculture Conference",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335657",
-   "published": "2026-11-12T19:57:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "History"
-   ]
-  },
-  {
-   "id": "fd086cf8f42010af",
-   "title": "2nd Edition of the National Tribal Literary Festival 2026 begins in New Delhi: “From Oral Tradition to Contemporary Tribal Literature",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335599",
-   "published": "2026-11-12T19:57:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "97169081567bd1c5",
-   "title": "NITI Aayog Launches Report on “Impact Assessment of PLI Schemes”",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335594",
-   "published": "2026-11-12T19:57:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "0b13ebec6b5d455f",
-   "title": "Andhra Pradesh Eyes Global Maritime Hub Status with Major Push for Ports and Shipbuilding",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335584",
-   "published": "2026-11-12T19:57:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "87e9c063e0b5c128",
-   "title": "Over 20 lakh defence pensioners complete Digital Life Certification under National DLC Campaign 5.0",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335578",
-   "published": "2026-11-12T19:57:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "7b7042b47a159c74",
-   "title": "Ministry of Tribal Affairs launches national initiative for conservation of medicinal plants and promotion of sustainable livelihoods in 16 tribal hotspots across 13 States/UTs",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335554",
-   "published": "2026-11-12T19:57:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "a7b15ceb0ca089f1",
-   "title": "DRI busts red sanders smuggling syndicate at Chennai Port; seizes around 13,000 kg red sanders worth Rs. 7.72 crore; three arrested",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335529",
-   "published": "2026-11-12T19:57:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
