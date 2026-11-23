@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-22T19:43:41Z",
+ "updated": "2026-11-23T07:42:57Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,51 @@
   }
  ],
  "inbox": [
+  {
+   "id": "7a53924d4c384f3b",
+   "title": "Union Environment Minister chairs 92nd Meeting of the Standing Committee of the National Board for Wildlife",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340255",
+   "published": "2026-11-23T07:42:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "e63d071ee807b979",
+   "title": "Gyan Bharatam Session at the 1st SCO Civilization Dialogue Forum Reconnects the Manuscript Heritage; Language, Script and Manuscript Traditions",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340254",
+   "published": "2026-11-23T07:42:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR",
+    "History"
+   ]
+  },
+  {
+   "id": "23cf62dbbf482c81",
+   "title": "MY Bharat to organise Yuva Samvad on Constitution Day; Programme to cover over 600 districts across 30+ States/UTs under the theme ‘Viksit Bharat@2047’",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340251",
+   "published": "2026-11-23T07:42:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "049baf918c47b306",
+   "title": "Ayush Pavilion Emerges as a Major Attraction at India International Trade Fair 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340242",
+   "published": "2026-11-23T07:42:57Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "1cc3fab901c11d0c",
    "title": "LOK SABHA SPEAKER CALLS FOR A PEOPLE’S MOVEMENT TO MAKE YAMUNA CLEAN AND ENSURE ITS UNINTERRUPTED FLOW",
@@ -1750,51 +1795,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "5e2fd9ebc99c9a58",
-   "title": "PRESIDENT OF INDIA INTERACTS WITH MERITORIOUS EMRS STUDENTS AT RASHTRAPATI BHAVAN",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335501",
-   "published": "2026-11-12T19:57:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "48554e7af6acbbd8",
-   "title": "Union Environment Minister holds interaction with LeadIT Industry Members and Project Partners",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335498",
-   "published": "2026-11-12T19:57:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment"
-   ]
-  },
-  {
-   "id": "62a8565a9ef90462",
-   "title": "National Fellowship for Scheduled Caste Students Enables Research Scholar to Complete Ph.D. in Genetics and Plant Breeding",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335497",
-   "published": "2026-11-12T19:57:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "78e9a79c8d1e9031",
-   "title": "Naturopathy Day 2026: Scientific Research Strengthens India's Nature-Based Healthcare Ecosystem",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335313",
-   "published": "2026-11-12T07:14:38Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
    ]
   }
  ],
