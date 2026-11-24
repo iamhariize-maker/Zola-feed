@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-23T23:56:10Z",
+ "updated": "2026-11-24T09:57:11Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,39 @@
   }
  ],
  "inbox": [
+  {
+   "id": "5ee5249fd56e532a",
+   "title": "National Milk Day 2026 to Be Celebrated in Patna, Bihar, with Launch of Key Initiatives and Dedication of Major Dairy and Livestock Infrastructure Projects",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340789",
+   "published": "2026-11-24T09:57:11Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "df10826f25ee6cf4",
+   "title": "Vice President Shri C. P. Radhakrishnan Visits Gurudwara Rakab Ganj Sahib on Parkash Purab of Shri Guru Nanak Dev Ji",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340728",
+   "published": "2026-11-24T09:57:11Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "23544a26897ccc7c",
+   "title": "Prime Minister shares Sanskrit Subhashitam invoking Goddess Ganga",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340708",
+   "published": "2026-11-24T09:57:11Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
   {
    "id": "798960cc06072d41",
    "title": "List of Outcomes: State visit of the Prime Minister of Nepal to India",
@@ -1762,40 +1795,6 @@
    "machines": [],
    "subjects": [
     "S&T"
-   ]
-  },
-  {
-   "id": "80914f3b9997ad23",
-   "title": "Vice-President Shri C. P. Radhakrishnan addresses valedictory session of 31st CII Partnership Summit in Visakhapatnam",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335961",
-   "published": "2026-11-13T19:44:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "IR"
-   ]
-  },
-  {
-   "id": "17aa9099d4ef0df4",
-   "title": "The Manufacturing Transformation Powered by PLI",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335931",
-   "published": "2026-11-13T19:44:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "1598d1bdd82257b3",
-   "title": "Ministry of Culture Convenes \"Creative India: Collective Possibilities\" at Bharat Mandapam, New Delhi; Invites Partners to Build India's Creative Economy Together",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335903",
-   "published": "2026-11-13T19:44:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
    ]
   }
  ],
