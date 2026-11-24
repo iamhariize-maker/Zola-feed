@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-24T09:57:11Z",
+ "updated": "2026-11-24T22:28:47Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,85 @@
   }
  ],
  "inbox": [
+  {
+   "id": "efd91d9ca6586e25",
+   "title": "Elephants in the Fog Explores the Paradox of Social Acceptance and Exclusion: Director Abinash Bikram Shah",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340957",
+   "published": "2026-11-24T22:28:47Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "c6f651d2e65cafa6",
+   "title": "PRESIDENT OF INDIA GRACES BALI JATRA FESTIVAL 2026 AT KATAKA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340948",
+   "published": "2026-11-24T22:28:47Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "History"
+   ]
+  },
+  {
+   "id": "de20d3bff908f569",
+   "title": "Dr. Ambedkar Foundation to Organise Constitution Day Celebration on 26 November Thursday",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340938",
+   "published": "2026-11-24T22:28:47Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "76f649193448d435",
+   "title": "Prime Minister receives a telephone call from the Chancellor of the Federal Republic of Germany",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340862",
+   "published": "2026-11-24T22:28:47Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "00615d78a159f749",
+   "title": "Vice-President Calls for Stronger Global Academic Partnerships to Address Emerging Economic and Social Challenges",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340857",
+   "published": "2026-11-24T22:28:47Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "51c442d6c24bc082",
+   "title": "India’s Space Economy Set for a Massive Leap to USD 40–45 billion as Private Sector Rewrites Growth Story: Dr. Jitendra Singh",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340845",
+   "published": "2026-11-24T22:28:47Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "dc3e57495f809994",
+   "title": "Union Minister Shri Jyotiraditya M. Scindia Chairs Telecom Startups and MSME Conclave 2026; Calls for Strengthening Indigenous Telecom Innovation and Entrepreneurship",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340846",
+   "published": "2026-11-24T22:28:47Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
   {
    "id": "5ee5249fd56e532a",
    "title": "National Milk Day 2026 to Be Celebrated in Patna, Bihar, with Launch of Key Initiatives and Dedication of Major Dairy and Livestock Infrastructure Projects",
@@ -1717,84 +1796,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "a15ca91088821270",
-   "title": "Swachh Survekshan 2025-26 Results Announcement",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336057",
-   "published": "2026-11-13T19:44:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "461c7390d172add7",
-   "title": "Shilp Samagam Mela 2026 at Dilli Haat Records Cumulative Sales of Over ₹ 88.36 Lakh, as of November 12, 2026; Highlighting Appreciation for Traditional Handicrafts, Indigenous Products And Growing Market Opportunities for Artisans",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336047",
-   "published": "2026-11-13T19:44:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "18855fd3a1467d22",
-   "title": "Ministry of Micro, Small and Medium Enterprises (MSME) Takes Swachhata Beyond Office Walls as Special Campaign 6.0 Concludes",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336026",
-   "published": "2026-11-13T19:44:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment"
-   ]
-  },
-  {
-   "id": "619babf0907dc66d",
-   "title": "From Financial Hardship to Academic Excellence NFSC Fellowship Empowers a Research Scholar",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336006",
-   "published": "2026-11-13T19:44:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "08a447c155930db1",
-   "title": "Ministry of Rural Development’s NRIDA Selected for Prestigious U.P. Medal 2025 for Innovation in Road Technology by Indian Road Congress",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335993",
-   "published": "2026-11-13T19:44:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "8d96ee0fbfcb4876",
-   "title": "CBDT actively implements Special Campaign 6 for swachhata and administrative efficiency",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335973",
-   "published": "2026-11-13T19:44:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "75befb446c1191a3",
-   "title": "Department of Telecommunications Organises First All India Conference on Official Language 2026 in New Delhi",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335968",
-   "published": "2026-11-13T19:44:49Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
    ]
   }
  ],
