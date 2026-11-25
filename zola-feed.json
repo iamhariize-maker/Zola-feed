@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-25T08:39:32Z",
+ "updated": "2026-11-25T21:43:52Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,86 @@
   }
  ],
  "inbox": [
+  {
+   "id": "41d970716a0818de",
+   "title": "Union Minister Shri Shivraj Singh Chouhan Holds High-Level Meeting with Madhya Pradesh CM Dr. Mohan Yadav on Agricultural and Rural Development Proposals Centre Approves ₹643.14 Crore for Construction of 223 Bridges in Madhya Pradesh",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341697",
+   "published": "2026-11-25T21:43:52Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
+  {
+   "id": "eca8f6888fa8dadb",
+   "title": "Union Minister Shri Shivraj Singh Chouhan Holds High-Level Meeting with Madhya Pradesh CM Dr. Mohan Yadav on Agricultural and Rural Development Proposals Centre Approves ₹643.14 Crore for Construction of 223 Bridges in Madhya Pradesh",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341696",
+   "published": "2026-11-25T21:43:52Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
+  {
+   "id": "2d47b7189f36b462",
+   "title": "Celebrating the Joy of Cinema: IFFI Parade Brings Goa’s Cultural Extravaganza to the Streets",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341617",
+   "published": "2026-11-25T21:43:52Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "dcf845e711d64ff7",
+   "title": "Union Education Minister, Shri Pralhad Joshi chairs the Meeting of the Parliamentary Consultative Committee on Internationalisation of Indian Education",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341525",
+   "published": "2026-11-25T21:43:52Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "9e8b652853eb0a81",
+   "title": "The Ministry of Women and Child Development launched #NumberSaveKiya? Campaign, released Advisory on 16 Days of activism against gender based violence & signed an inter-ministerial MoU for strengthening services for Women Safety at Nayi Chetna 5.0",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341503",
+   "published": "2026-11-25T21:43:52Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "f622bd57fb71c320",
+   "title": "Union Minister Dr. Jitendra Singh Addresses HealthX Elevate 2026, Highlights India’s Growing Healthcare Innovation Ecosystem",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341477",
+   "published": "2026-11-25T21:43:52Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "1949d5a6c13e194e",
+   "title": "Union Minister Dr. Virendra Kumar, along with Shri B L Verma Launches ‘SAMAVESH’ and New e-Anudaan Portal to Strengthen Digital Governance and Inclusive Welfare Delivery",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341474",
+   "published": "2026-11-25T21:43:52Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity",
+    "S&T"
+   ]
+  },
   {
    "id": "7bda07c608c6ee0c",
    "title": "DPIIT Concludes Special Campaign 6 with Significant Achievements in Swachhata and Reduction of Pendency",
@@ -1711,86 +1791,6 @@
    "title": "Sacred Relics of Shakyamuni Buddha Arrive at Golden Pagoda, Namsai, Marking the Final Phase of Exposition in Arunachal Pradesh",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336418",
    "published": "2026-11-15T06:37:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "5162ec8819c8fda0",
-   "title": "Union Home Minister and Minister of Cooperation Shri Amit Shah to perform Bhoomi Pujan of NHEC Multi-State Cooperative Society in Pune, Maharashtra",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336332",
-   "published": "2026-11-14T18:07:15Z",
-   "source": "PIB",
-   "machines": [
-    "M23"
-   ],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "244ce853296bfd58",
-   "title": "India’s Export Growth in FY 2026-27: Strong Performance, New Milestones",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336328",
-   "published": "2026-11-14T18:07:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "e87468817f6f1f28",
-   "title": "Ministry of Social Justice & Empowerment Showcases Artisans’ Products at 45th India International Trade Fair 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336326",
-   "published": "2026-11-14T18:07:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "1ffa19bedb12264f",
-   "title": "MoU Between DoSJE and DGDE to Extend Senior Citizen Welfare Schemes to Cantonment Boards Across the Country",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336265",
-   "published": "2026-11-14T18:07:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "b37d43bdb258f788",
-   "title": "BRICS Cinema takes centre stage at 57th IFFI with 21 films from across the world",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336218",
-   "published": "2026-11-14T18:07:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "7ef83d1ea30e5fb7",
-   "title": "Indian Railways Approves Weekly Train Service Connecting Janakpur Dham in Nepal with Ayodhya in India",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336212",
-   "published": "2026-11-14T18:07:15Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "0d5a5a8a438efabf",
-   "title": "DRI seizes 10.8 kg amphetamine concealed in postal parcel from Europe foiling a syndicate's attempt to misuse legitimate postal trade channels",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336134",
-   "published": "2026-11-14T06:28:00Z",
    "source": "PIB",
    "machines": [],
    "subjects": [
