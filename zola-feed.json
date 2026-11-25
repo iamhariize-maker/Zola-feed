@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-24T22:28:47Z",
+ "updated": "2026-11-25T08:39:32Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,51 @@
   }
  ],
  "inbox": [
+  {
+   "id": "7bda07c608c6ee0c",
+   "title": "DPIIT Concludes Special Campaign 6 with Significant Achievements in Swachhata and Reduction of Pendency",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341111",
+   "published": "2026-11-25T08:39:32Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "821fc23a7a72f0a3",
+   "title": "Prime Minister shares an article highlighting India’s journey towards Viksit Bharat 2047 shaped by sustained reforms and investment",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341108",
+   "published": "2026-11-25T08:39:32Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "53eea71adce74c72",
+   "title": "Prime Minister shares an article highlighting the growing role of India’s civilisational heritage in shaping global cultural discourse",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341109",
+   "published": "2026-11-25T08:39:32Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "47a5fceca694ef7e",
+   "title": "Union Agriculture Minister Shri Shivraj Singh Chouhan visits farms in Punjab to improve soil health and increase farmers' income",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341083",
+   "published": "2026-11-25T08:39:32Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "History"
+   ]
+  },
   {
    "id": "efd91d9ca6586e25",
    "title": "Elephants in the Fog Explores the Paradox of Social Acceptance and Exclusion: Director Abinash Bikram Shah",
@@ -1746,52 +1791,6 @@
    "title": "DRI seizes 10.8 kg amphetamine concealed in postal parcel from Europe foiling a syndicate's attempt to misuse legitimate postal trade channels",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336134",
    "published": "2026-11-14T06:28:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "8ba18e1f4998a59b",
-   "title": "Coordination between Industrial Development and Environmental Protection is the Foundation for Building a Developed India: Union Minister of Textiles Giriraj Singh",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336127",
-   "published": "2026-11-14T06:28:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment",
-    "History"
-   ]
-  },
-  {
-   "id": "e698234a65155e6c",
-   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal to Visit Egypt from 15–16 November 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336126",
-   "published": "2026-11-14T06:28:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "d488a46a0e5136d5",
-   "title": "National Tribal Literary Festival Concludes with Emphasis on Preserving Oral Traditions and Promoting Contemporary Tribal Literature",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336125",
-   "published": "2026-11-14T06:28:00Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "e853379347915ef7",
-   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal inaugurates 45th India International Trade Fair 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336069",
-   "published": "2026-11-13T19:44:49Z",
    "source": "PIB",
    "machines": [],
    "subjects": [
