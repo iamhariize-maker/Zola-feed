@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-25T21:43:52Z",
+ "updated": "2026-11-26T08:24:19Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,119 @@
   }
  ],
  "inbox": [
+  {
+   "id": "2d994e4b9b656df6",
+   "title": "LOK SABHA SPEAKER PAYS TRIBUTES TO SHRI RABI RAY",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341812",
+   "published": "2026-11-26T08:24:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "2e6843010f7fb163",
+   "title": "Digital India BHASHINI Division and Department of Social Justice and Empowerment Exchange MoU to Strengthen Multilingual Access to Government Schemes and Services",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341811",
+   "published": "2026-11-26T08:24:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T",
+    "IR"
+   ]
+  },
+  {
+   "id": "853d631d364fd36a",
+   "title": "High Standards of National Highways Facilitate Landing of Army Aircraft",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341794",
+   "published": "2026-11-26T08:24:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "4f84f14df94352bc",
+   "title": "DRI seizes over 19 kg elephant ivory in West Champaran, Bihar, near Indo-Nepal Border in a joint operation with Bihar State Police; four persons apprehended",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341791",
+   "published": "2026-11-26T08:24:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment",
+    "IR"
+   ]
+  },
+  {
+   "id": "5048b960339569a7",
+   "title": "Prime Minister shares an OpEd highlighting the uniqueness of India’s Constitution and efforts towards boosting social and economic justice",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341792",
+   "published": "2026-11-26T08:24:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "09ff81c4e89a3c49",
+   "title": "Telecom Regulatory Authority of India releases findings of Independent Drive Test conducted across city route of Una, Mandi, Joginder Nagar and highway route of Una to Mandi and Mandi to Una under HP LSA, during the month of September 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341750",
+   "published": "2026-11-26T08:24:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy",
+    "S&T"
+   ]
+  },
+  {
+   "id": "b5a0fe9ae8907400",
+   "title": "IFFI Campus Offers an Experience Beyond Cinema, Celebrating India’s Creative and Cultural Diversity",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341736",
+   "published": "2026-11-26T08:24:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "7e02328426977143",
+   "title": "The Union Health Ministry observes Constitution Day with collective reading of the Preamble, reaffirms allegiance and commitment to the Constitution",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341733",
+   "published": "2026-11-26T08:24:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "277a4fa420e1ec9f",
+   "title": "India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening India's Indigenous AI Capabilities",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341725",
+   "published": "2026-11-26T08:24:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "04ae23637f2a29cb",
+   "title": "Prime Minister pays homage to Babasaheb Dr BR Ambedkar and other luminaries on Constitution Day",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341703",
+   "published": "2026-11-26T08:24:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
   {
    "id": "41d970716a0818de",
    "title": "Union Minister Shri Shivraj Singh Chouhan Holds High-Level Meeting with Madhya Pradesh CM Dr. Mohan Yadav on Agricultural and Rural Development Proposals Centre Approves ₹643.14 Crore for Construction of 223 Bridges in Madhya Pradesh",
@@ -1684,117 +1797,6 @@
    "machines": [],
    "subjects": [
     "IR"
-   ]
-  },
-  {
-   "id": "a044c064775d105f",
-   "title": "Vice President to visit Odisha on November 16, 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336507",
-   "published": "2026-11-15T18:53:23Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "ced70aa4351259e1",
-   "title": "Prime Minister pays tributes to Bhagwan Birsa Munda on his Jayanti and extends greetings on Janjatiya Gaurav Divas",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336498",
-   "published": "2026-11-15T18:53:23Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "3a23a287bcfc4adc",
-   "title": "WAVES Film Bazaar Celebrates 20 Years of Connecting Indian Cinema with Global Industry",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336493",
-   "published": "2026-11-15T18:53:23Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "ff0b9d4199145493",
-   "title": "India must become a developer, innovator & global leader in advanced technologies: Raksha Mantri",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336449",
-   "published": "2026-11-15T06:37:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "8832860bd535ad4f",
-   "title": "President of India, Vice President, Prime Minister And Lok Sabha Speaker Pay Floral Tributes to Bhagwan Birsa Munda in Parliament Premises",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336442",
-   "published": "2026-11-15T06:37:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "33d961ae8945b758",
-   "title": "NIELIT to organize 3rd National Conference on Cyber Security, Digital Forensics & Intelligence (NCCDFI 2026) to be held in New Delhi on November 16–17, 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336431",
-   "published": "2026-11-15T06:37:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "ce8145d32eb0e080",
-   "title": "Opening Up India’s Space Economy",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336430",
-   "published": "2026-11-15T06:37:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "490575df0732bc37",
-   "title": "Yuge Yugeen Bharat Museum",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336426",
-   "published": "2026-11-15T06:37:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "ceed1394a47dc25c",
-   "title": "Union Minister of Commerce and Industry Shri Piyush Goyal arrives in Cairo, Egypt, on an official visit to strengthen bilateral economic and commercial ties",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336423",
-   "published": "2026-11-15T06:37:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "bdc0eace8a16dfa7",
-   "title": "Sacred Relics of Shakyamuni Buddha Arrive at Golden Pagoda, Namsai, Marking the Final Phase of Exposition in Arunachal Pradesh",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336418",
-   "published": "2026-11-15T06:37:20Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
