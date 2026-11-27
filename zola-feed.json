@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-26T21:36:40Z",
+ "updated": "2026-11-27T08:38:24Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,72 @@
   }
  ],
  "inbox": [
+  {
+   "id": "16d423b91a640a3d",
+   "title": "Vice-President inaugurates New Super Specialty Block of Holy Family Hospital in New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342469",
+   "published": "2026-11-27T08:38:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "c2314b244263999d",
+   "title": "Vice-President Shri C. P. Radhakrishnan to inaugurate the fifth edition of Kashi Tamil Sangamam 5.0",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342468",
+   "published": "2026-11-27T08:38:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "94e892e153194177",
+   "title": "LOK SABHA SPEAKER PAYS TRIBUTES TO SHRI G. V. MAVALANKAR ON HIS BIRTH ANNIVERSARY",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342461",
+   "published": "2026-11-27T08:38:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "36040f721db515e8",
+   "title": "CCI approves proposed combination involving Samara Alternate Investment Fund – Scheme I LVF, Samara Alternate Investment Fund III India, Calyx Container Terminals, and Associated Road Carriers",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342455",
+   "published": "2026-11-27T08:38:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "20a54a6aa4e20ae4",
+   "title": "India’s Growth Story Remains Strong, Resilient and Trustworthy Amid Global Uncertainties: Union Minister of Commerce and Industry Shri Piyush Goyal",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342421",
+   "published": "2026-11-27T08:38:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "3457125950f0e228",
+   "title": "STPI Inaugurates its 75th Centre in Bareilly to Strengthen Uttar Pradesh’s IT/ITeS and Startup Ecosystem",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342386",
+   "published": "2026-11-27T08:38:24Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "29c683796c8e706d",
    "title": "Dr. Ambedkar Foundation Celebrates Constitution Day 2026; Reaffirms Commitment to Constitutional Values, Social Justice and Inclusive Democracy",
@@ -1721,73 +1787,6 @@
    "subjects": [
     "Economy",
     "IR"
-   ]
-  },
-  {
-   "id": "68073f8ddb47547e",
-   "title": "Special Handloom and Handicraft Exhibition Themed ‘Vikas Aur Virasat’ Inaugurated by Union Minister Shri Giriraj Singh at IITF 2026",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337119",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "348832106c8f75f9",
-   "title": "CBDT Chairman Shri Ravi Agrawal inaugurates Taxpayers' Lounge at the India International Trade Fair (IITF), 2026, celebrating the spirit of Vikas aur Virasat",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337105",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "a32007e553605b66",
-   "title": "Sarbananda Sonowal Pitches $10 Billion Shipbuilding Opportunity to Global Maritime Leaders",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337092",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "922ac24b183f1d6e",
-   "title": "72nd Meeting of CSB’s Research Coordination Committee",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337073",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "6de1e57dc51be6dc",
-   "title": "Ministry of Minority Affairs Organises Workshop on AI for Digital Transformation to Strengthen AI-Enabled Governance",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337050",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity",
-    "S&T"
-   ]
-  },
-  {
-   "id": "a239203ea3380a7d",
-   "title": "10 Films to Compete for ICFT-UNESCO Gandhi Medal at 57th IFFI",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337049",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
    ]
   }
  ],
