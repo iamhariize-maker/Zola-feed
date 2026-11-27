@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-27T08:38:24Z",
+ "updated": "2026-11-27T21:20:26Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,83 @@
   }
  ],
  "inbox": [
+  {
+   "id": "bda6724083995296",
+   "title": "India to Host ITU Plenipotentiary Conference 2030; Union Minister Shri Jyotiraditya M. Scindia Invites Global Telecommunications Community to India",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342914",
+   "published": "2026-11-27T21:20:26Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "S&T"
+   ]
+  },
+  {
+   "id": "26bef2d1228e24e9",
+   "title": "Secretary, DoLR Reviews Implementation of WDC-PMKSY 2.0 and World Bank-Assisted REWARD Programme in Odisha",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342830",
+   "published": "2026-11-27T21:20:26Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "84309ffc3bad5abc",
+   "title": "Prime Minister meets Foreign Ministers and Heads of Delegation of IORA Member-States in New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342790",
+   "published": "2026-11-27T21:20:26Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "IR"
+   ]
+  },
+  {
+   "id": "27b51c606f60cb72",
+   "title": "At 57th IFFI, a Story of How the Entire Crew of ‘The River Train’ Stepped into a Child’s World",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342773",
+   "published": "2026-11-27T21:20:26Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "535edf054e1c7bc5",
+   "title": "‘I Came as a Jury Member, but Became a Student of Cinema’: Aanand L Rai on the Golden Peacock Jury Experience at 57th IFFI",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342762",
+   "published": "2026-11-27T21:20:26Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "ec0c6da57e62b7c4",
+   "title": "Central Board of Indirect Taxes and Customs (CBIC) wins Bronze Medal for display at India International Trade Fair (IITF) 2026",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342747",
+   "published": "2026-11-27T21:20:26Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "da0178fc5328dbd1",
+   "title": "Second Regional Conference on Jal Jeevan Mission 2.0 concludes at Agra, Emphasising Sustainability, Community Ownership and Gram Panchayat-led Water Governance",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342708",
+   "published": "2026-11-27T21:20:26Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
   {
    "id": "16d423b91a640a3d",
    "title": "Vice-President inaugurates New Super Specialty Block of Holy Family Hospital in New Delhi",
@@ -1705,88 +1782,6 @@
    "machines": [],
    "subjects": [
     "Economy"
-   ]
-  },
-  {
-   "id": "3f4e8d2b830974f0",
-   "title": "Big Cat Conservation can be a Powerful Pathway for Climate Change Mitigation: Union Environment Minister at UNFCCC COP31, at Antalya (Türkiye)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337247",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "4502a1f5791722ca",
-   "title": "NCCDFI 2026 – Day 1 concludes in New Delhi, Strengthening India's Cybersecurity and Digital Forensics Ecosystem",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337227",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "S&T"
-   ]
-  },
-  {
-   "id": "208848a43d2ee6c3",
-   "title": "Union Home Minister and Minister of Cooperation Shri Amit Shah visits the Regional Office of the Central Registrar of Cooperative Societies (CRCS) in Pune and reviews its functioning and progress of various initiatives",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337223",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [
-    "M23"
-   ],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "b5daa390abe37088",
-   "title": "India calls for Country-Driven Just Transition Mechanism at COP31 in Antalya (Türkiye); Emphasizes Adequate Finance, Technology Transfer and Capacity Building for Developing Countries",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337158",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment",
-    "S&T"
-   ]
-  },
-  {
-   "id": "a335268ed0231cbf",
-   "title": "NCPCR takes suo motu cognizance of alleged sexual assault of a 14-year-old tribal girl in Ranchi; Commission's team to visit Ranchi on 17 November",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337156",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "16e6f265703cdc46",
-   "title": "Council of Scientific and Industrial Research (CSIR) and the National Academy of Sciences of Belarus (NASB) Renew Scientific Partnership to Promote Joint Research, Innovation and Technology Development",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337144",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "S&T"
-   ]
-  },
-  {
-   "id": "16563c003c468e7d",
-   "title": "India and Thailand Review Bilateral Trade and Economic Cooperation at 14th Joint Trade Committee Meeting in Nonthaburi, Thailand",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337121",
-   "published": "2026-11-16T22:07:33Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
    ]
   }
  ],
