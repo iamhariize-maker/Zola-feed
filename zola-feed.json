@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-28T07:53:27Z",
+ "updated": "2026-11-28T20:08:19Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,83 @@
   }
  ],
  "inbox": [
+  {
+   "id": "01aba43bd32c78b7",
+   "title": "‘From BLOOM to Voice of Nature and Drums of India’: Cultural Performances Bring 57th IFFI Closing Ceremony to Life",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343251",
+   "published": "2026-11-28T20:08:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "History"
+   ]
+  },
+  {
+   "id": "baa541b41a371e8f",
+   "title": "Tiago Guedes’ ‘Aquí’ wins the Coveted Golden Peacock for Best Film at 57th IFFI",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343233",
+   "published": "2026-11-28T20:08:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "beb0ac2c4a14c836",
+   "title": "Argentine Film ‘The River Train’ Wins Silver Peacock - Special Jury Award",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343222",
+   "published": "2026-11-28T20:08:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Environment"
+   ]
+  },
+  {
+   "id": "b80bca149650f9a9",
+   "title": "Silver Peacock for Best Debut Feature Film of a Director awarded to Bérenger Thouin for ‘The Golden Age’ at 57th IFFI",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343204",
+   "published": "2026-11-28T20:08:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "74df6721536c3769",
+   "title": "45th India International Trade Fair (IITF) 2026 Concludes At Bharat Mandapam New Delhi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343197",
+   "published": "2026-11-28T20:08:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "8448b5ff94d2f9eb",
+   "title": "HON’BLE PRESIDENT OF INDIA SMT DROUPADI MURMU REVIEWS PASSING OUT PARADE OF AUTUMN TERM 2026 AT INDIAN NAVAL ACADEMY, EZHIMALA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343193",
+   "published": "2026-11-28T20:08:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "1e62f3f835b14e64",
+   "title": "Vice-President inaugurates the fifth edition of Kashi Tamil Sangamam in Varanasi",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343142",
+   "published": "2026-11-28T20:08:19Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
   {
    "id": "085bac28a4b870c8",
    "title": "IICA, Directorate General of Resettlement conclude 6th Batch of Directors’ Certification in Corporate Governance for Def. Officers",
@@ -1703,84 +1780,6 @@
    "subjects": [
     "Environment",
     "History"
-   ]
-  },
-  {
-   "id": "d1b7f471d3787133",
-   "title": "Prime Minister meets with the President of the Republic of the Philippines on the sidelines of ASEAN Summit in Manila",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337453",
-   "published": "2026-11-17T20:57:54Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "0a607d6b5f69ed2f",
-   "title": "India looks forward to Deepen Partnership with Small Island Developing States for Resilient Coasts and Oceans: Shri Bhupender Yadav at COP31 in Antalya (Türkiye)",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337456",
-   "published": "2026-11-17T20:57:54Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "f21c148f7be3b28b",
-   "title": "India and Sweden launch LeadIT 3.0 at COP31 to accelerate Low-carbon Industrial Transition; Brazil joins LeadIT as its newest Country Member",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337325",
-   "published": "2026-11-17T07:57:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "Environment"
-   ]
-  },
-  {
-   "id": "72c6c8d35fb2bf09",
-   "title": "India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337301",
-   "published": "2026-11-17T07:57:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "History"
-   ]
-  },
-  {
-   "id": "356a439766f31211",
-   "title": "Text of Prime Minister's Opening Remarks at the 23rd ASEAN-India Summit",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337295",
-   "published": "2026-11-17T07:57:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "3cffb7e6396d468d",
-   "title": "Raksha Mantri to attend 4th India-Japan 2+2 Ministerial Dialogue and hold bilateral talks with his Japanese counterpart in Tokyo",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337279",
-   "published": "2026-11-17T07:57:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "IR"
-   ]
-  },
-  {
-   "id": "db418d2ab4ff13aa",
-   "title": "Prime Minister shares Sanskrit Subhashitam emphasizing importance of faith, dedication and self-discipline in the pursuit of knowledge",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337270",
-   "published": "2026-11-17T07:57:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
    ]
   }
  ],
