@@ -1,6 +1,6 @@
 {
  "schema": "zola-feed/1",
- "updated": "2026-11-27T21:20:26Z",
+ "updated": "2026-11-28T07:53:27Z",
  "exams": [
   {
    "id": "upsc-cse-pre-2027",
@@ -91,6 +91,50 @@
   }
  ],
  "inbox": [
+  {
+   "id": "085bac28a4b870c8",
+   "title": "IICA, Directorate General of Resettlement conclude 6th Batch of Directors’ Certification in Corporate Governance for Def. Officers",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342987",
+   "published": "2026-11-28T07:53:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "c5711e0df2908b64",
+   "title": "Chief Labour Commissioner (Central) engages with National Highways Authority of India to strengthen implementation of Labour Codes and enhance stakeholder consultation",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342985",
+   "published": "2026-11-28T07:53:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
+  {
+   "id": "b8959216c6dd675b",
+   "title": "PRESIDENT OF INDIA REVIEWS THE PASSING OUT PARADE OF AUTUMN TERM 2026 AT THE INDIAN NAVAL ACADEMY, EZHIMALA",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342970",
+   "published": "2026-11-28T07:53:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Polity"
+   ]
+  },
+  {
+   "id": "f071b9b41abf7ec3",
+   "title": "Commerce Ministry Organises Series of Workshops on Opportunities Arising from Free Trade Agreements (FTAs)",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342953",
+   "published": "2026-11-28T07:53:27Z",
+   "source": "PIB",
+   "machines": [],
+   "subjects": [
+    "Economy"
+   ]
+  },
   {
    "id": "bda6724083995296",
    "title": "India to Host ITU Plenipotentiary Conference 2030; Union Minister Shri Jyotiraditya M. Scindia Invites Global Telecommunications Community to India",
@@ -1732,51 +1776,6 @@
    "id": "db418d2ab4ff13aa",
    "title": "Prime Minister shares Sanskrit Subhashitam emphasizing importance of faith, dedication and self-discipline in the pursuit of knowledge",
    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337270",
-   "published": "2026-11-17T07:57:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy"
-   ]
-  },
-  {
-   "id": "18ef4142b135351c",
-   "title": "DHTI launches first Global Leadership Programme in Defence Governance & Public Administration for officers of Ministry of Defence, Fiji",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337268",
-   "published": "2026-11-17T07:57:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Polity"
-   ]
-  },
-  {
-   "id": "edd1d7e2f3953ab4",
-   "title": "India and Egypt reaffirm commitment to strengthen bilateral trade, investment and industrial cooperation",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337258",
-   "published": "2026-11-17T07:57:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Economy",
-    "IR"
-   ]
-  },
-  {
-   "id": "2680631641f874d7",
-   "title": "India's Solar Growth Enters a New Era",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337251",
-   "published": "2026-11-17T07:57:45Z",
-   "source": "PIB",
-   "machines": [],
-   "subjects": [
-    "Environment"
-   ]
-  },
-  {
-   "id": "f96cf0d8406ff6c2",
-   "title": "Over 12,000 Devotees Pay Homage to the Sacred Relics of Shakyamuni Buddha at Golden Pagoda, Namsai, in the First Two Days",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337248",
    "published": "2026-11-17T07:57:45Z",
    "source": "PIB",
    "machines": [],
